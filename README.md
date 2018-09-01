@@ -1,6 +1,3 @@
-## Bennett Kleinberg
-
-
 I am an Assistant Professor in Data Science at the [Jill Dando Institute of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and the [Dawes Centre for Future Crime](http://www.ucl.ac.uk/jill-dando-institute/dawes-future-crime) at University College London. I also hold a guest affiliation at the University of Amsterdam's [Department of Psychology](http://www.uva.nl/en/disciplines/psychology).
 
 I'm interested in solving and understanding (future) crime and security problems with computational techniques. My research uses a mix of open and closed-source data, and analytical and methodological approaches from computational linguistics, machine learning, experimental research and simulation studies. All of my research is aimed at solving problems in the real world.
