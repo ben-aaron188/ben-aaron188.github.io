@@ -125,6 +125,21 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 
 ### 2018 - now (University College London) 
 
+**Possible topics for (UG & PG) dissertations and internships 2018/2019:**
+
+- testing the reliability and validity of online sensor data (e.g., Twitter)
+- detecting massive online missinformation (e.g., fake news, polarised content)
+- deception detection
+- detecting early warning signals of emerging crimes
+- understanding linguistic trajectories in online forums
+- computational approaches to existing and new crime problems
+- methodological research (e.g., dealing with new forms of data, statistical simulation studies)
+- dark crime data (i.e., hidden data, messy data, multimodal data)
+
+---------
+
+**MODULES**
+
 - Probability, Statistics and Modelling 2 (2nd year, BSc in Crime Science)
     - Includes Bayesian inference, discrete multivariate analysis, GLM
     - Open science lab (reproducibility, questionable research practices)
