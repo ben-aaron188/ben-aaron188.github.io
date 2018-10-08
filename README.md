@@ -140,13 +140,18 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 - Deception and Lie Detection (postgrad module; co-taught and co-developed with Bruno Verschuere)
 
 
+### Review service
+
+- Scientific Reports (Nature), Memory & Cognition, Applied Cognitive Psychology, Computers in Human Behavior, Acta Psychologica, Personality and Individual Differences, Current Psychology, Cognitive Research: Principles and Implications  
+
+
 # PhDs & students
 
 ### Felix Solder
 
 - PhD student (2018-2021)
 - Topic: Detecting emerging crimes using Data Science techniques (1/2)
-- Supervised with Prof. Kate Bowers and Prof. Shane Johnson
+- Supervised with Prof. Shane Johnson
 - Funded by: UCL Dawes Centre for Future Crime
 
 
@@ -154,7 +159,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 
 - MRes+PhD student (2018 - 2022)
 - Topic: Detecting emerging crimes using Data Science techniques (2/2)
-- Supervised with Prof. Kate Bowers and Prof. Shane Johnson
+- Supervised with Prof. Kate Bowers
 - Funded by: EPSRC
 
 
@@ -163,6 +168,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 - PhD student (2018 - 2021)
 - Topic: Understanding and predicting threats of violence using computational linguistics.
 - Supervised with Dr Paul Gill (UCL)
+- Funded by Dr P Gill's ERC grant 'GRIEVANCE'
 
 
 ---------
@@ -185,6 +191,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 - Felix Soldner (detecting fake reviews in an experimental study; internship MSc Cognitive Science, UvA)
 - Manon Schutte (detecting fake reviews in an experimental study; internship Research Master Psychology, UvA)
 - Maximilian Mozes (chat-based information elicitaiton + automated text anonymization; internship)
+
 
 
 # Talks & media
@@ -222,5 +229,6 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 - Radio interview on deception detection with Radio Swammerdam, Amsterdam FM (29 January 2017) (Dutch) [[podcast]](http://www.radioswammerdam.nl/archive/op-het-slechte-pad-i-leugentje-om-je-eigen-bestwil/)
 - Interview/comment on the veiling study with Psychology Today: [What Is the Face of Truth?](https://www.psychologytoday.com/blog/brainstorm/201608/what-is-the-face-truth)
 - Press release on the veiling study by the American Psychological Association: [Veils, Headscarves May Improve Observers' Ability To Judge Truthfulness, Study Finds](http://www.apa.org/news/press/releases/2016/06/judge-truthfulness.aspx)
+
 
 ------------
