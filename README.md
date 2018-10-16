@@ -22,12 +22,13 @@ Methodological topics:
 
 ## News
 
+- 10/2018 **Conference talks** Maximilian Mozes will present our work on sentiment shapes on YouTube at [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call) and I will talk about about joint work with Paul Gill and Isabelle van der Vegt on predicting phase transitions of abusive language adoption
 - 09/2018 **EMNLP paper on sentiment styles in 27k YouTube vlogs** To appear at EMNLP 2018 in Brussels. [[preprint]](https://arxiv.org/ftp/arxiv/papers/1808/1808.09722.pdf) [[data]](https://github.com/ben-aaron188/narrative_structures) [[code]](https://github.com/ben-aaron188/naive_context_sentiment)
 - 09/2018 **Joint project with Greater Manchester Police** Together with [Reka Solymosi](https://www.research.manchester.ac.uk/portal/reka.solymosi.html) we will work on threat scanning using data science techniques.
 - 09/2018 **New release: text anonymisation software** Our NETANOS text anonymisation software is now available in an accessible drag-and-drop interface at [netanos.io](http://netanos.io/).
 - 08/2018 **Comp. Social Science workshop** Together with Isabelle van der Vegt (UCL) and Maximilian Mozes (TU Munich), I will organise a tutorial workshop on Linguistic Temporal Trajectory Analysis in R [[companion website]](https://bkleinberg.net/ltta_workshop/) [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call)
 - 08/2018 **Coling paper** Our paper on fake news detection with [Vero Pérez-Rosas](https://sites.google.com/site/perezrosasveronica/home) and [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) will be published and presented at Coling 2018 [[preprint here]](https://arxiv.org/abs/1708.07104)
-- 07/2018 **GIFCT funding (PI)** Our proposal on human-machine integration for extremist content removal was funded by the joint [RUSI](https://rusi.org/) and [Global Internet Forum to Counter Terrorism](https://gifct.org/) initiative (with Paul Gill and RA Isabelle van der Vegt, UCL)
+- 07/2018 **Project funding (PI)** Our proposal on human-machine integration for extremist content removal was funded by [RUSI](https://rusi.org/)  (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and Isabelle van der Vegt)
 
 
 # Software
@@ -162,7 +163,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 
 # PhDs & students
 
-### Felix Solder
+### Felix Soldner
 
 - PhD student (2018-2021)
 - Topic: Detecting emerging crimes using Data Science techniques (1/2)
@@ -181,6 +182,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 ### Isabelle van der Vegt
 
 - PhD student (2018 - 2021)
+- [Website](http://isabellevdv.net/)
 - Topic: Understanding and predicting threats of violence using computational linguistics.
 - Supervised with Dr Paul Gill (UCL)
 - Funded by Dr P Gill's ERC grant 'GRIEVANCE'
@@ -213,6 +215,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 
 ### Recent conference talks
 
+- UPCOMING _Understanding the Linguistic Trajectory of Far-right Abusive Language_ EuroCSS (Dec., 2018, Cologne Germany)
 - _Using named entities for computer-automated verbal deception detection_ International Conference on Computational Social Science (July, 2017, Cologne, Germany)
 - _Towards large-scale cognition-based deception detection_ Behaviour Detection study group Research & Development Workshop, European Civil Aviation Conference (March, 2017, Madrid, Spain)
 - _Using named entities for computer-automated verbal deception detection_ Reading the Deceptive Brain and Mind (March 2017, Lucca, Italy)
@@ -234,7 +237,6 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 - _Modern deception detection_ Presented as workshop at Labyrint Leiden at the University Leiden, The Netherlands (30 November 2016, with Yaloe van der Toolen)
 - _Feit of fictie? (EN: Fact or fiction?)_ Presented as workshop at Het Nutshuis at the 2016 - Museum Night in The Hague (29 October 2016, with Yaloe van der Toolen)
 - _Chat-based information elicitation mini-demonstration/workshop_ Presented as research demonstration to honours students in Aviation Engineering of the Hogeschool van Amsterdam (Amsterdam, September 2016, with Yaloe van der Toolen & Maximilian Mozes)
-
 
 
 ### Media
