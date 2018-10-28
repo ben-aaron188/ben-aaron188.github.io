@@ -23,11 +23,11 @@ Methodological topics:
 ## News
 
 - 10/2018 **Conference talks** Maximilian Mozes will present our work on sentiment shapes on YouTube at [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call) and I will talk about about joint work with Paul Gill and Isabelle van der Vegt on predicting phase transitions of abusive language adoption
-- 09/2018 **EMNLP paper on sentiment styles in 27k YouTube vlogs** To appear at EMNLP 2018 in Brussels. [[preprint]](https://arxiv.org/ftp/arxiv/papers/1808/1808.09722.pdf) [[data]](https://github.com/ben-aaron188/narrative_structures) [[code]](https://github.com/ben-aaron188/naive_context_sentiment)
+- 09/2018 **EMNLP paper on sentiment styles in 27k YouTube vlogs** To appear at EMNLP 2018 in Brussels. [[paper]](http://aclweb.org/anthology/D18-1394) [[data]](https://github.com/ben-aaron188/narrative_structures) [[code]](https://github.com/ben-aaron188/naive_context_sentiment)
 - 09/2018 **Joint project with Greater Manchester Police** Together with [Reka Solymosi](https://www.research.manchester.ac.uk/portal/reka.solymosi.html) we will work on threat scanning using data science techniques.
 - 09/2018 **New release: text anonymisation software** Our NETANOS text anonymisation software is now available in an accessible drag-and-drop interface at [netanos.io](http://netanos.io/).
 - 08/2018 **Comp. Social Science workshop** Together with Isabelle van der Vegt (UCL) and Maximilian Mozes (TU Munich), I will organise a tutorial workshop on Linguistic Temporal Trajectory Analysis in R [[companion website]](https://bkleinberg.net/ltta_workshop/) [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call)
-- 08/2018 **Coling paper** Our paper on fake news detection with [Vero Pérez-Rosas](https://sites.google.com/site/perezrosasveronica/home) and [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) will be published and presented at Coling 2018 [[preprint here]](https://arxiv.org/abs/1708.07104)
+- 08/2018 **Coling paper** Our paper on fake news detection with [Vero Pérez-Rosas](https://sites.google.com/site/perezrosasveronica/home) and [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) will be published and presented at Coling 2018 [[paper]](http://aclweb.org/anthology/C18-1287) [[data]](http://lit.eecs.umich.edu/downloads.html#Fake%20News)
 - 07/2018 **Project funding (PI)** Our proposal on human-machine integration for extremist content removal was funded by [RUSI](https://rusi.org/)  (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and Isabelle van der Vegt)
 
 
@@ -122,24 +122,24 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 - [LinkedIn profile](https://nl.linkedin.com/in/barkleinberg)
 
 
-# Teaching
-
-### 2018 - now (University College London) 
+# Teaching 2018/2019
 
 **Possible topics for (UG & PG) dissertations and internships 2018/2019:**
 
 - testing the reliability and validity of online sensor data (e.g., Twitter)
 - detecting massive online missinformation (e.g., fake news, polarised content)
-- deception detection
+- deception detection (computer-automated or computer-aided)
 - detecting early warning signals of emerging crimes
 - understanding linguistic trajectories in online forums
 - computational approaches to existing and new crime problems
 - methodological research (e.g., dealing with new forms of data, statistical simulation studies)
 - dark crime data (i.e., hidden data, messy data, multimodal data)
+- special topic on financial fraud in collab. with a major internarional bank (contact me for more details)
 
----------
 
 **MODULES**
+
+**UCL, Term 2**
 
 - Probability, Statistics and Modelling 2 (2nd year, BSc in Crime Science)
     - Includes Bayesian inference, discrete multivariate analysis, GLM
@@ -150,7 +150,16 @@ All publications can be found on [my Google Scholar page](https://scholar.google
     - Includes: web-scraping, computational linguistics basics in R, (un)supervised machine learning, simulation studies, special topics (e.g., GoogleTrends, forecasting + _now_casting, NNets) 
    <!-- - Materials for this module-->
 
-### 2015-2018 (University of Amsterdam)
+**Univeristy of Amsterdam, Semester 2**
+
+- Crime Science (honours module)
+<!--    - Materials for this module-->
+
+---------
+
+### Past modules
+
+2015-2018 (University of Amsterdam)
 
 - Crime Science (undergrad module; I developed the module and taught it to honours students and as an open UvA series)
 - Deception and Lie Detection (postgrad module; co-taught and co-developed with Bruno Verschuere)
