@@ -5,6 +5,7 @@ I'm interested in solving and understanding (future) crime and security problems
 Current research questions include:
 
 - Predicting user (dis)engagement from extremist forums
+- Human-in-the-loop verbal deception detection
 - Automated detection of hate speech targets
 - Identifying early warning signals to detect emerging crime trends
 - Understanding and predicting the temporal trajectories of abusive language on online forums
@@ -167,15 +168,22 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 
 ### Review service
 
-- Scientific Reports (Nature), Memory & Cognition, Applied Cognitive Psychology, Computers in Human Behavior, Acta Psychologica, Personality and Individual Differences, Current Psychology, Cognitive Research: Principles and Implications  
+- Scientific Reports (Nature), Memory & Cognition, Applied Cognitive Psychology, Computers in Human Behavior, Acta Psychologica, Personality and Individual Differences, Current Psychology, Cognitive Research: Principles and Implications, Crime Science  
 
 
 # PhDs & students
 
+### Maximilian Mozes
+
+- PhD student (2019-2022)
+- Topic: Adversarial perturbations in security algorithms
+- Supervised with Dr. Lewis Griffin
+- Funded by: UCL Dawes Centre for Future Crime
+
 ### Felix Soldner
 
 - PhD student (2018-2021)
-- Topic: Detecting emerging crimes using Data Science techniques (1/2)
+- Topic: Detecting and mitigating hidden fraud and intellectual property crime
 - Supervised with Prof. Shane Johnson
 - Funded by: UCL Dawes Centre for Future Crime
 
@@ -183,7 +191,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 ### Daniel Hammocks
 
 - MRes+PhD student (2018 - 2022)
-- Topic: Detecting emerging crimes using Data Science techniques (2/2)
+- Topic: Detecting emerging crimes using data science techniques
 - Supervised with Prof. Kate Bowers
 - Funded by: EPSRC
 
@@ -192,7 +200,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 
 - PhD student (2018 - 2021)
 - [Website](http://isabellevdv.net/)
-- Topic: Understanding and predicting threats of violence using computational linguistics.
+- Topic: Understanding and predicting threats of violence using computational linguistics
 - Supervised with Dr Paul Gill (UCL)
 - Funded by Dr P Gill's ERC grant 'GRIEVANCE'
 
@@ -236,7 +244,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 ### Workshops + invited talks
 
 - UPCOMING _Linguistic Temporal Trajectory Analysis_ European Symposium Series on Societal Challenges in Computational Social Science [[symposium website]](http://symposium.computationalsocialscience.eu/2018/)
-- _Deception detection!!??_ Workshop to security professionals in the programme Predictive Profiling at SoSecure Netherlands (30 March 2018)
+- _Deception detection!!??_ Workshop to security professionals in the programme Predictive Profiling at SoSecure Netherlands (March + October 2018)
 - _Crime Science and the crime drop_ Guest lecture in the VU University Amsterdam module "[Biosocial aspects of antisocial behavior](https://www.vu.nl/nl/opleidingen/overig-onderwijs/honours-programme/interdepartmental-courses/biosocial-aspects-antisocial-behaviour-2/index.aspx)" (14 February 2018)
 - _What is Crime Science_ Lecture for the student association of Social Psychology at the University of Amsterdam (December 2017)
 - 	_Why we need a Crime Science_ Master class at the Extensus honours association of the University of Amsterdam, Free University of Amsterdam, and Amsterdam University College (29 November 2017)
@@ -250,11 +258,12 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 
 ### Media
 
-- Coverage of our fake news paper [here](https://thenextweb.com/artificial-intelligence/2018/08/22/this-fake-news-detection-algorithm-outperforms-humans/), [here](https://www.tribuneindia.com/news/science-technology/new-system-can-detect-fake-news-better-than-humans/641021.html), [here](https://www.futurity.org/fake-news-detecting-algorithm-1844942/), and [here](https://www.financialexpress.com/industry/technology/in-fight-against-fake-news-technology-outsmarts-humans-at-detecting-misinformation/1288197/)
-- Radio interview on AI and deception detection with BNR News Radio (6 June 2018) (Dutch) [[podcast]](https://www.bnr.nl/player/audio/10083380/10345415) (me at 1:49:09)
-- Radio interview on deception detection with Radio Swammerdam, Amsterdam FM (29 January 2017) (Dutch) [[podcast]](http://www.radioswammerdam.nl/archive/op-het-slechte-pad-i-leugentje-om-je-eigen-bestwil/)
-- Interview/comment on the veiling study with Psychology Today: [What Is the Face of Truth?](https://www.psychologytoday.com/blog/brainstorm/201608/what-is-the-face-truth)
-- Press release on the veiling study by the American Psychological Association: [Veils, Headscarves May Improve Observers' Ability To Judge Truthfulness, Study Finds](http://www.apa.org/news/press/releases/2016/06/judge-truthfulness.aspx)
+-	International coverage of comments on AI lie detection for EU border control in [BBC Newshour](https://www.bbc.co.uk/sounds/play/w172w25gdks006r) (from 19 mins 55 secs), [dw.com](https://www.dw.com/de/eu-testet-l%C3%BCgendetektor-an-au%C3%9Fengrenzen/a-46195158), [The Guardian](https://www.theguardian.com/world/2018/nov/02/eu-border-lie-detection-system-criticised-as-pseudoscience), [Süddeutsche Zeitung (Germany)](https://www.sueddeutsche.de/digital/grenze-kuenstliche-intelligenz-software-iborderctrl-1.4196243), [Volkskrant (The Netherlands)](https://www.volkskrant.nl/nieuws-achtergrond/eu-zet-omstreden-ai-leugendetector-in-bij-grenscontrole~b169bb03/), [New Scientist](https://www.newscientist.com/article/mg24032023-400-an-ai-lie-detector-will-interrogate-travellers-at-some-eu-borders/), [UCL News](https://www.ucl.ac.uk/news/headlines2/November-2018/021118-EU-border-pseudoscience), Nov. 2018
+- Coverage of our fake news paper: [TNW](https://thenextweb.com/artificial-intelligence/2018/08/22/this-fake-news-detection-algorithm-outperforms-humans/), [here](https://www.tribuneindia.com/news/science-technology/new-system-can-detect-fake-news-better-than-humans/641021.html), [here](https://www.futurity.org/fake-news-detecting-algorithm-1844942/), and [here](https://www.financialexpress.com/industry/technology/in-fight-against-fake-news-technology-outsmarts-humans-at-detecting-misinformation/1288197/), 
+-	Comment on automated fake news detection, [Volkskrant](https://www.volkskrant.nl/wetenschap/een-onzindetector-voor-het-web-dat-is-nog-niet-zo-makkelijk~be927d1d/) (The Netherlands), Sept. 2018 (Dutch)
+- Radio interview on AI and deception detection with [BNR News Radio](https://www.bnr.nl/player/audio/10083380/10345415) (6 June 2018) (Dutch) (at 1:49:09)
+- Podcast on deception detection with [Radio Swammerdam](http://www.radioswammerdam.nl/archive/op-het-slechte-pad-i-leugentje-om-je-eigen-bestwil/), Amsterdam FM, Jan. 2017 (Dutch)
+- Interview/comment on the veiling study with [Psychology Today](https://www.psychologytoday.com/blog/brainstorm/201608/what-is-the-face-truth) and covered by the [APA](http://www.apa.org/news/press/releases/2016/06/judge-truthfulness.aspx)
 
 
 ------------
