@@ -151,11 +151,11 @@ From the README:
 - Probability, Statistics and Modelling 2 (2nd year, BSc in Crime Science)
     - Includes Bayesian inference, discrete multivariate analysis, GLM
     - Open science lab (reproducibility, questionable research practices)
-<!--    - Materials for this module-->
+    - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_psm2_20182019) and on the [companion website](https://bkleinberg.net/ucl_psm2_20182019/).
 - Computational Crime Science (3rd year, BSc in Crime Science)
     - New module in 2018/2019
     - Includes: web-scraping, computational linguistics basics in R, (un)supervised machine learning, simulation studies, special topics (e.g., GoogleTrends, forecasting + _now_casting, NNets) 
-   <!-- - Materials for this module-->
+    - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_aca_20182019) and on the [companion website](https://bkleinberg.net/ucl_aca_20182019/).
 
 **Univeristy of Amsterdam, Semester 2**
 
