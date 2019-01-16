@@ -23,13 +23,30 @@ Methodological topics:
 
 ## News
 
+- 12/2018 **Paper on crypto fraud** Josh Kamps and I published a [paper](https://link.springer.com/article/10.1186/s40163-018-0093-5) on cryptocurrency fraud as a crime science problem
+- 12/2018 **Workshop at EuroCSS** Isabelle van der Vegt (UCL), Maximilian Mozes (TU Munich) and I gave a tutorial workshop on Linguistic Temporal Trajectory Analysis in R [[companion website]](https://bkleinberg.net/ltta_workshop/) at this year's [[EuroCSS symposium]](http://symposium.computationalsocialscience.eu/2018/#call)
+- 11/2018 **RA/postdoc position** We are hiring a post-doc for a scoping study on cryptocurrency fraud as an emerging crime problem. 
 - 10/2018 **Conference talks** Maximilian Mozes will present our work on sentiment shapes on YouTube at [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call) and I will talk about about joint work with Paul Gill and Isabelle van der Vegt on predicting phase transitions of abusive language adoption
 - 09/2018 **EMNLP paper on sentiment styles in 27k YouTube vlogs** To appear at EMNLP 2018 in Brussels. [[paper]](http://aclweb.org/anthology/D18-1394) [[data]](https://github.com/ben-aaron188/narrative_structures) [[code]](https://github.com/ben-aaron188/naive_context_sentiment)
 - 09/2018 **Joint project with Greater Manchester Police** Together with [Reka Solymosi](https://www.research.manchester.ac.uk/portal/reka.solymosi.html) we will work on threat scanning using data science techniques.
-- 09/2018 **New release: text anonymisation software** Our NETANOS text anonymisation software is now available in an accessible drag-and-drop interface at [netanos.io](http://netanos.io/).
-- 08/2018 **Comp. Social Science workshop** Together with Isabelle van der Vegt (UCL) and Maximilian Mozes (TU Munich), I will organise a tutorial workshop on Linguistic Temporal Trajectory Analysis in R [[companion website]](https://bkleinberg.net/ltta_workshop/) [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call)
-- 08/2018 **Coling paper** Our paper on fake news detection with [Vero Pérez-Rosas](https://sites.google.com/site/perezrosasveronica/home) and [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) will be published and presented at Coling 2018 [[paper]](http://aclweb.org/anthology/C18-1287) [[data]](http://lit.eecs.umich.edu/downloads.html#Fake%20News)
-- 07/2018 **Project funding (PI)** Our proposal on human-machine integration for extremist content removal was funded by [RUSI](https://rusi.org/)  (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and Isabelle van der Vegt)
+<!--- 09/2018 **New release: text anonymisation software** Our NETANOS text anonymisation software is now available in an accessible drag-and-drop interface at [netanos.io](http://netanos.io/).-->
+<!--- 08/2018 **Comp. Social Science workshop** Together with Isabelle van der Vegt (UCL) and Maximilian Mozes (TU Munich), I will organise a tutorial workshop on Linguistic Temporal Trajectory Analysis in R [[companion website]](https://bkleinberg.net/ltta_workshop/) [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call)
+-->
+<!--- 08/2018 **Coling paper** Our paper on fake news detection with [Vero Pérez-Rosas](https://sites.google.com/site/perezrosasveronica/home) and [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) will be published and presented at Coling 2018 [[paper]](http://aclweb.org/anthology/C18-1287) [[data]](http://lit.eecs.umich.edu/downloads.html#Fake%20News)-->
+<!--- 07/2018 **Project funding (PI)** Our proposal on human-machine integration for extremist content removal was funded by [RUSI](https://rusi.org/)  (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and Isabelle van der Vegt)-->
+
+
+# Selected recent publications
+
+- Kamps, J. & Kleinberg, B. (2018). [To the moon: defining and detecting cryptocurrency pump-and-dumps](https://link.springer.com/article/10.1186/s40163-018-0093-5), Crime Science [[DATA + CODE]](https://osf.io/827wd/)
+- Kleinberg, B., Mozes, M., & van der Vegt, I. (2018). [Identifying the 
+sentiment styles of YouTube’s vloggers](https://arxiv.org/ftp/arxiv/papers/1808/1808.09722.pdf), EMNLP 2018 [[DATA]](https://github.com/ben-aaron188/narrative_structures) [[CODE]](https://github.com/ben-aaron188/naive_context_sentiment)
+- Pérez-Rosas, V., Kleinberg, B., Lefevre, A., & Mihalcea, R. (2018). [Automatic Detection of Fake News](http://aclweb.org/anthology/C18-1287), COLING 2018 [[DATA]](http://web.eecs.umich.edu/~mihalcea/downloads.html#FakeNews)
+- Kleinberg, B., Warmelink, L., Arntz, A., & Verschuere, B. (2018). [The first direct replication on using verbal credibility assessment for the detection of deceptive intentions](https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.3439), Applied Cognitive Psychology [[DATA]](https://osf.io/t29dz/)
+- Kleinberg, B., van der Toolen, Y., Vrij, A., Arntz, A., & Verschuere, B. (2018). [Automated verbal credibility assessment of intentions: The model statement technique and predictive modeling](https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.3407), Applied Cognitive Psychology [[DATA]](https://osf.io/wqc4p/)
+- Kleinberg, B., van der Toolen, Y., Arntz, A., & Verschuere, B. (2018). [Detecting Concealed Information on a Large Scale: Possibilities and Problems](http://groups.psych.northwestern.edu/rosenfeld/documents/Rosenfeld,%20J.%20Peter.%20Detecting%20Concealed%20Information%20and%20Deception%20Recent%20Developments.%20(PDF).pdf#page=396), Book chapter
+
+All publications can be found on [my Google Scholar page](https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en).
 
 
 # Software
@@ -91,17 +108,6 @@ From the README:
 ### END
 ```
 
-# Selected recent publications
-
-- Kleinberg, B., Mozes, M., & van der Vegt, I. (2018). [Identifying the 
-sentiment styles of YouTube’s vloggers](https://arxiv.org/ftp/arxiv/papers/1808/1808.09722.pdf), EMNLP 2018 [[DATA]](https://github.com/ben-aaron188/narrative_structures) [[CODE]](https://github.com/ben-aaron188/naive_context_sentiment)
-- Pérez-Rosas, V., Kleinberg, B., Lefevre, A., & Mihalcea, R. (2018). [Automatic Detection of Fake News](http://aclweb.org/anthology/C18-1287), COLING 2018 [[DATA]](http://web.eecs.umich.edu/~mihalcea/downloads.html#FakeNews)
-- Kleinberg, B., Warmelink, L., Arntz, A., & Verschuere, B. (2018). [The first direct replication on using verbal credibility assessment for the detection of deceptive intentions](https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.3439), Applied Cognitive Psychology [[DATA]](https://osf.io/t29dz/)
-- Kleinberg, B., van der Toolen, Y., Vrij, A., Arntz, A., & Verschuere, B. (2018). [Automated verbal credibility assessment of intentions: The model statement technique and predictive modeling](https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.3407), Applied Cognitive Psychology [[DATA]](https://osf.io/wqc4p/)
-- Kleinberg, B., van der Toolen, Y., Arntz, A., & Verschuere, B. (2018). [Detecting Concealed Information on a Large Scale: Possibilities and Problems](http://groups.psych.northwestern.edu/rosenfeld/documents/Rosenfeld,%20J.%20Peter.%20Detecting%20Concealed%20Information%20and%20Deception%20Recent%20Developments.%20(PDF).pdf#page=396), Book chapter
-
-All publications can be found on [my Google Scholar page](https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en).
-
 
 # About me
 
@@ -145,11 +151,11 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 - Probability, Statistics and Modelling 2 (2nd year, BSc in Crime Science)
     - Includes Bayesian inference, discrete multivariate analysis, GLM
     - Open science lab (reproducibility, questionable research practices)
-<!--    - Materials for this module-->
+    - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_psm2_20182019) and on the [companion website](https://bkleinberg.net/ucl_psm2_20182019/).
 - Computational Crime Science (3rd year, BSc in Crime Science)
     - New module in 2018/2019
     - Includes: web-scraping, computational linguistics basics in R, (un)supervised machine learning, simulation studies, special topics (e.g., GoogleTrends, forecasting + _now_casting, NNets) 
-   <!-- - Materials for this module-->
+    - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_aca_20182019) and on the [companion website](https://bkleinberg.net/ucl_aca_20182019/).
 
 **Univeristy of Amsterdam, Semester 2**
 
@@ -230,7 +236,7 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 
 # Talks & media
 
-### Recent conference talks
+<!--### Recent conference talks
 
 - UPCOMING _Understanding the Linguistic Trajectory of Far-right Abusive Language_ EuroCSS (Dec., 2018, Cologne Germany)
 - _Using named entities for computer-automated verbal deception detection_ International Conference on Computational Social Science (July, 2017, Cologne, Germany)
@@ -239,11 +245,12 @@ All publications can be found on [my Google Scholar page](https://scholar.google
 - _From theory to large-scale applications: Experimental results on the detectability of false intent_ International conference of the Society for Terrorism Research (November 2016, The Hague, The Netherlands)
 - _Routine activities or social disorganization? (or both?)_ Penny Willow Prize lecture of the Department of Security and Crime Science presented at University College London (July 2016, London, UK)
 - _Using the verifiability of details as a test of deception_ Presented at Proceedings of the Second Workshop on Computational Approaches to Deception Detection, NAACL 2016 (June 2016, San Diego, California, US)
-
+-->
 
 ### Workshops + invited talks
 
-- UPCOMING _Linguistic Temporal Trajectory Analysis_ European Symposium Series on Societal Challenges in Computational Social Science [[symposium website]](http://symposium.computationalsocialscience.eu/2018/)
+<!--- UPCOMING _Linguistic Temporal Trajectory Analysis_ European Symposium Series on Societal Challenges in Computational Social Science [[symposium website]](http://symposium.computationalsocialscience.eu/2018/)
+-->
 - _Deception detection!!??_ Workshop to security professionals in the programme Predictive Profiling at SoSecure Netherlands (March + October 2018)
 - _Crime Science and the crime drop_ Guest lecture in the VU University Amsterdam module "[Biosocial aspects of antisocial behavior](https://www.vu.nl/nl/opleidingen/overig-onderwijs/honours-programme/interdepartmental-courses/biosocial-aspects-antisocial-behaviour-2/index.aspx)" (14 February 2018)
 - _What is Crime Science_ Lecture for the student association of Social Psychology at the University of Amsterdam (December 2017)
