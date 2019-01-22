@@ -23,6 +23,7 @@ Methodological topics:
 
 ## News
 
+- 1/2019 **Blog post** on our crypto fraud paper on [BMC](http://blogs.biomedcentral.com/on-society/2019/01/22/cryptocurrency-pump-and-dumps/)
 - 12/2018 **Paper on crypto fraud** Josh Kamps and I published a [paper](https://link.springer.com/article/10.1186/s40163-018-0093-5) on cryptocurrency fraud as a crime science problem
 - 12/2018 **Workshop at EuroCSS** Isabelle van der Vegt (UCL), Maximilian Mozes (TU Munich) and I gave a tutorial workshop on Linguistic Temporal Trajectory Analysis in R [[companion website]](https://bkleinberg.net/ltta_workshop/) at this year's [[EuroCSS symposium]](http://symposium.computationalsocialscience.eu/2018/#call)
 - 11/2018 **RA/postdoc position** We are hiring a post-doc for a scoping study on cryptocurrency fraud as an emerging crime problem. 
