@@ -4,6 +4,7 @@ I'm interested in solving and understanding (future) crime and security problems
 
 Current research questions include:
 
+- Leading indicators for violent crimes through social media conflict
 - Predicting user (dis)engagement from extremist forums
 - Human-in-the-loop verbal deception detection
 - Automated detection of hate speech targets
@@ -23,10 +24,11 @@ Methodological topics:
 
 ## News
 
+- 1/2019 **PhD position** on crypto fraud - fully funded 3 or 4 years - we've set a deadline to the 1st of March - more info [here]((https://www.ucl.ac.uk/security-crime-science/sites/security-crime-science/files/dawes_secret_studentships_2019_2.pdf))
 - 1/2019 **Blog post** on our crypto fraud paper on [BMC](http://blogs.biomedcentral.com/on-society/2019/01/22/cryptocurrency-pump-and-dumps/)
 - 12/2018 **Paper on crypto fraud** Josh Kamps and I published a [paper](https://link.springer.com/article/10.1186/s40163-018-0093-5) on cryptocurrency fraud as a crime science problem
 - 12/2018 **Workshop at EuroCSS** Isabelle van der Vegt (UCL), Maximilian Mozes (TU Munich) and I gave a tutorial workshop on Linguistic Temporal Trajectory Analysis in R [[companion website]](https://bkleinberg.net/ltta_workshop/) at this year's [[EuroCSS symposium]](http://symposium.computationalsocialscience.eu/2018/#call)
-- 11/2018 **RA/postdoc position** We are hiring a post-doc for a scoping study on cryptocurrency fraud as an emerging crime problem. 
+- 11/2018 **Postdoc position** We are hiring a post-doc for a scoping study on cryptocurrency fraud as an emerging crime problem (upd.: position filled). 
 - 10/2018 **Conference talks** Maximilian Mozes will present our work on sentiment shapes on YouTube at [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call) and I will talk about about joint work with Paul Gill and Isabelle van der Vegt on predicting phase transitions of abusive language adoption
 - 09/2018 **EMNLP paper on sentiment styles in 27k YouTube vlogs** To appear at EMNLP 2018 in Brussels. [[paper]](http://aclweb.org/anthology/D18-1394) [[data]](https://github.com/ben-aaron188/narrative_structures) [[code]](https://github.com/ben-aaron188/naive_context_sentiment)
 - 09/2018 **Joint project with Greater Manchester Police** Together with [Reka Solymosi](https://www.research.manchester.ac.uk/portal/reka.solymosi.html) we will work on threat scanning using data science techniques.
@@ -161,7 +163,9 @@ From the README:
 **Univeristy of Amsterdam, Semester 2**
 
 - Crime Science (honours module)
-<!--    - Materials for this module-->
+    - Module description on [UvA website](http://www.uva.nl/en/programmes/honours-modules-iis/honoursmodule-crime-science/honoursmodule-crime-science.html?1549646204808)
+    - _Note: we have a long wait list at the moment_
+    - Materials/handbook/etc. to be made available here asap.
 
 ---------
 
@@ -194,7 +198,6 @@ From the README:
 - Supervised with Prof. Shane Johnson
 - Funded by: UCL Dawes Centre for Future Crime
 
-
 ### Daniel Hammocks
 
 - MRes+PhD student (2018 - 2022)
@@ -219,19 +222,20 @@ From the README:
 - Lex Ehrhardt ("Strategies of airport security practitioners to detect suspicious passengers")
 - Wietse Dekker ("Temporal information as cue of deceptive intentions (replication study)"
 - Fleur van der Meer ("Chat-based information elicitation for large-scale deception detection")
-- Isabelle van der Vegt ("Dynamic strategic interviewing to detect deceptive intentions")
+- Isabelle van der Vegt ("Dynamic strategic interviewing to detect deceptive intentions") - now PhD student at UCL
 - Tinde Haarlemmer ("Combined testing to address leakage in the RT Concealed Information Test")
-- Carmen Sergiou ("Detecting informed innocent participants in the RT Concealed Information Test")
+- Carmen Sergiou ("Detecting informed innocent participants in the RT Concealed Information Test") - now PhD student at Erasmus University Rotterdam
 
 
 ### Internships & BSc theses
-- Josh Kamps (cryptocurrency pump-and-dumps; BSc thesis in Computer Science, VU University Amsterdam)
+- Josh Kamps (cryptocurrency pump-and-dumps; BSc thesis in Computer Science, VU University Amsterdam) - now MSc student at UCL
 - Leonie Waldeck (sampling methods in unbalanced class problems; internship MSc Behavioral Data Science, UvA)
 - Jiri Munich (detecting scientific fraud using computational linguistics; internship Research Master Psychology, UvA)
 - Stella de Ree (verbal deception detection from a linguistic perspective; BSc thesis in Linguistics, UvA)
-- Felix Soldner (detecting fake reviews in an experimental study; internship MSc Cognitive Science, UvA)
-- Manon Schutte (detecting fake reviews in an experimental study; internship Research Master Psychology, UvA)
-- Maximilian Mozes (chat-based information elicitaiton + automated text anonymization; internship)
+- Felix Soldner (detecting fake reviews in an experimental study; internship MSc Cognitive Science, UvA) - now PhD student at UCL
+- Manon Schutte (detecting fake reviews in an experimental study; internship Research Master Psychology, UvA) - now RA at UvA
+- Maximilian Mozes (chat-based information elicitaiton + automated text anonymization; internship) - now at TU Munich, from 4/2019 PhD student at UCL
+- Gaspar Lukacs (concealed information tests with filler items) - now PhD student at University of Vienna
 
 
 
@@ -266,6 +270,7 @@ From the README:
 
 ### Media
 
+- Interview re. large-scale deception detection [Folia Magazine (Dutch)](https://www.folia.nl/wetenschap/126359/dialogen-met-chatbots-kunnen-helpen-in-strijd-tegen-terrorisme)
 -	International coverage of comments on AI lie detection for EU border control in [BBC Newshour](https://www.bbc.co.uk/sounds/play/w172w25gdks006r) (from 19 mins 55 secs), [dw.com](https://www.dw.com/de/eu-testet-l%C3%BCgendetektor-an-au%C3%9Fengrenzen/a-46195158), [The Guardian](https://www.theguardian.com/world/2018/nov/02/eu-border-lie-detection-system-criticised-as-pseudoscience), [Süddeutsche Zeitung (Germany)](https://www.sueddeutsche.de/digital/grenze-kuenstliche-intelligenz-software-iborderctrl-1.4196243), [Volkskrant (The Netherlands)](https://www.volkskrant.nl/nieuws-achtergrond/eu-zet-omstreden-ai-leugendetector-in-bij-grenscontrole~b169bb03/), [New Scientist](https://www.newscientist.com/article/mg24032023-400-an-ai-lie-detector-will-interrogate-travellers-at-some-eu-borders/), [UCL News](https://www.ucl.ac.uk/news/headlines2/November-2018/021118-EU-border-pseudoscience), Nov. 2018
 - Coverage of our fake news paper: [TNW](https://thenextweb.com/artificial-intelligence/2018/08/22/this-fake-news-detection-algorithm-outperforms-humans/), [here](https://www.tribuneindia.com/news/science-technology/new-system-can-detect-fake-news-better-than-humans/641021.html), [here](https://www.futurity.org/fake-news-detecting-algorithm-1844942/), and [here](https://www.financialexpress.com/industry/technology/in-fight-against-fake-news-technology-outsmarts-humans-at-detecting-misinformation/1288197/), 
 -	Comment on automated fake news detection, [Volkskrant](https://www.volkskrant.nl/wetenschap/een-onzindetector-voor-het-web-dat-is-nog-niet-zo-makkelijk~be927d1d/) (The Netherlands), Sept. 2018 (Dutch)
