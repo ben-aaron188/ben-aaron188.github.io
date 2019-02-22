@@ -4,13 +4,11 @@ I'm interested in solving and understanding (future) crime and security problems
 
 Current research questions include:
 
+- Hybrid decision-making approaches in uncertain environments (human-in-the-loop, i.e. integrating machine learning and human expertise)
 - Leading indicators for violent crimes through social media conflict
-- Predicting user (dis)engagement from extremist forums
-- Human-in-the-loop verbal deception detection
 - Automated detection of hate speech targets
 - Identifying early warning signals to detect emerging crime trends
-- Understanding and predicting the temporal trajectories of abusive language on online forums
-- Examining hybrid decision-making approaches in uncertain environments (e.g., integrating human and automated machine learning judgments)
+- Understanding and predicting the temporal trajectories of language on online forums
 - Cryptocurrency pump-and-dump detection and mitigation
 - Dynamic, adaptive information elicitation for large-scale passenger screening
 
