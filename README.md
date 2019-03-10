@@ -1,9 +1,10 @@
 I am an Assistant Professor in Data Science at the [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and the [Dawes Centre for Future Crime](http://www.ucl.ac.uk/jill-dando-institute/dawes-future-crime) at University College London. I also hold a guest affiliation at the University of Amsterdam's [Department of Psychology](http://www.uva.nl/en/disciplines/psychology).
 
-I'm interested in solving and understanding (future) crime and security problems with computational techniques. My research uses a mix of open and closed-source data, and analytical and methodological approaches from computational linguistics, machine learning, experimental research and simulation studies. All of my research is aimed at solving problems in the real world.
+I'm interested in solving and understanding (future) crime and security problems with computational techniques. My research uses a mix of open and closed-source data, and analytical and methodological approaches from natural language processing, machine learning, experimental research and simulation studies. All of my research is aimed at solving problems in the real world.
 
 Current research questions include:
 
+- Dynamic modelling of sentiment in text
 - Hybrid decision-making approaches in uncertain environments (human-in-the-loop, i.e. integrating machine learning and human expertise)
 - Leading indicators for violent crimes through social media conflict
 - Automated detection of hate speech targets
@@ -15,13 +16,14 @@ Current research questions include:
 
 Methodological topics:
 
-- The validity of online sensor data (e.g., forum data, dark web data)
+- Fundamental data science, esp. the validity of online sensor data (e.g., forum data, dark web data)
 - The stability of computational approaches (e.g., class-imbalance problems, context dependency of machine learning, bad label propagation for prediction models)
 - New ways of generating data for crime research (e.g., simulation approaches, web-scraping)
 
 
 ## News
 
+- 3/2019 **New papers** on the [accuracy of verbal credibility assessment](https://psyarxiv.com/h6pxt/) and on [modelling linguistic concreteness for deception detection](https://psyarxiv.com/p3qjh/) 
 - 1/2019 **PhD position** on crypto fraud - fully funded 3 or 4 years - we've set a deadline to the 1st of March - more info [here]((https://www.ucl.ac.uk/security-crime-science/sites/security-crime-science/files/dawes_secret_studentships_2019_2.pdf))
 - 1/2019 **Blog post** on our crypto fraud paper on [BMC](http://blogs.biomedcentral.com/on-society/2019/01/22/cryptocurrency-pump-and-dumps/)
 - 12/2018 **Paper on crypto fraud** Josh Kamps and I published a [paper](https://link.springer.com/article/10.1186/s40163-018-0093-5) on cryptocurrency fraud as a crime science problem
