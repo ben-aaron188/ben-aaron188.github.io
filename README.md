@@ -23,7 +23,10 @@ Methodological topics:
 
 ## News
 
-- 3/2019 **New papers** on the [accuracy of verbal credibility assessment](https://psyarxiv.com/h6pxt/) and on [modelling linguistic concreteness for deception detection](https://psyarxiv.com/p3qjh/) 
+- 3/2019 **Session on fraud** I'm running a session of cryptocurrency fraud at the [annual Dutch meeting of fraud investigators in The Hague in April 2019](https://www.iffc.nl/nl/cryptocurrency-fraude-als-toenemende-uitdaging)
+- 3/2019 **Conference talks** I'll talk about the potential and problem of data science for crime research at the [2019 Advances in Data Science conference](http://www.ds-advances.org/)
+- 3/2019 **New papers** on the [accuracy of verbal credibility assessment](https://psyarxiv.com/h6pxt/) and on [modelling linguistic concreteness for deception detection](https://psyarxiv.com/p3qjh/)
+- 2/2019 **Conference talks** I'll give a talk "Are cryptocurrencies the future of fraud?" at the Policing 2.0 conference in London in March 2019.
 - 1/2019 **PhD position** on crypto fraud - fully funded 3 or 4 years - we've set a deadline to the 1st of March - more info [here]((https://www.ucl.ac.uk/security-crime-science/sites/security-crime-science/files/dawes_secret_studentships_2019_2.pdf))
 - 1/2019 **Blog post** on our crypto fraud paper on [BMC](http://blogs.biomedcentral.com/on-society/2019/01/22/cryptocurrency-pump-and-dumps/)
 - 12/2018 **Paper on crypto fraud** Josh Kamps and I published a [paper](https://link.springer.com/article/10.1186/s40163-018-0093-5) on cryptocurrency fraud as a crime science problem
@@ -147,35 +150,29 @@ From the README:
 - special topic on financial fraud in collab. with a major internarional bank (contact me for more details)
 
 
-**MODULES**
+**CURRENT MODULES**
 
-**UCL, Term 2**
-
-- Probability, Statistics and Modelling 2 (2nd year, BSc in Crime Science)
+- Probability, Statistics and Modelling 2 (2nd year, BSc in Crime Science, UCL)
     - Includes Bayesian inference, discrete multivariate analysis, GLM
     - Open science lab (reproducibility, questionable research practices)
     - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_psm2_20182019) and on the [companion website](https://bkleinberg.net/ucl_psm2_20182019/).
-- Computational Crime Science (3rd year, BSc in Crime Science)
-    - New module in 2018/2019
-    - Includes: web-scraping, computational linguistics basics in R, (un)supervised machine learning, simulation studies, special topics (e.g., GoogleTrends, forecasting + _now_casting, NNets) 
+- Data Science for crime scientists (3rd year, BSc in Crime Science, UCL)
+    - Includes: web-scraping, text mining in R, (un)supervised machine learning
     - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_aca_20182019) and on the [companion website](https://bkleinberg.net/ucl_aca_20182019/).
-
-**Univeristy of Amsterdam, Semester 2**
-
-- Crime Science (honours module)
+- Crime Science (honours module, UvA)
     - Module description on [UvA website](http://www.uva.nl/en/programmes/honours-modules-iis/honoursmodule-crime-science/honoursmodule-crime-science.html?1549646204808)
     - _Note: we have a long wait list at the moment_
     - Materials/handbook/etc. to be made available here asap.
 
----------
 
-### Past modules
+**Past modules**
 
-2015-2018 (University of Amsterdam)
-
-- Crime Science (undergrad module; I developed the module and taught it to honours students and as an open UvA series)
-- Deception and Lie Detection (postgrad module; co-taught and co-developed with Bruno Verschuere)
-
+- Crime Science, BSc module, Institute for Inderdisciplinary Studies, University of Amsterdam, Sem. 2, 2017/2018
+- Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2017/2018
+- Crime Science, BSc module, Institute for Inderdisciplinary Studies, University of Amsterdam, Sem. 1, 2017/2018
+- Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2016/2017
+- Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2015/2016
+)
 
 ### Review service
 
@@ -204,7 +201,6 @@ From the README:
 - Topic: Detecting emerging crimes using data science techniques
 - Supervised with Prof. Kate Bowers
 - Funded by: EPSRC
-
 
 ### Isabelle van der Vegt
 
