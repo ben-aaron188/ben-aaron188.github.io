@@ -61,7 +61,7 @@ Dawes Centre for Future Crime, UCL
 
 - scraped cryptocurrency exchange data
 - trading data of 1-h granularity
-- 20 days of trading, 5 exchanges, 
+- 20 days of trading, 5 exchanges, 977 trading pairs
 
 <small>Data + code available at [https://osf.io/827wd/](https://osf.io/827wd/)</small>
 
@@ -75,16 +75,27 @@ _Conditional local point anomaly detection_
 
 ## Anomaly parameters
 
-|                   	| Strict parameters 	| Balanced parameters 	|
-|-------------------	|-------------------	|---------------------	|
-| Estimation window 	| 24h               	| 12h                 	|
-| Volume increase   	| 400%              	| 300%                	|
-| Price increase    	| 10%               	| 5%                  	|
-| Price drop        	| 1.00 SD           	| 1.00 SD             	|
-| Alleged pumps     	| 920               	| 2150                	|
-| Pump-and-dumps    	| 485               	| 1617                	|
-| Crypto/crypto     	| 97.9%             	| 97.0%               	|
-| Low market cap    	| 84.9%             	| 81.8%               	|
+<!-- |                   	| Strict parameters 	| Balanced parameters 	| -->
+<!-- |-------------------	|-------------------	|---------------------	| -->
+<!-- | Estimation window 	| 24h               	| 12h                 	| -->
+<!-- | Volume increase   	| 400%              	| 300%                	| -->
+<!-- | Price increase    	| 10%               	| 5%                  	| -->
+<!-- | Price drop        	| 1.00 SD           	| 1.00 SD             	| -->
+<!-- | Alleged pumps     	| 920               	| 2150                	| -->
+<!-- | Pump-and-dumps    	| 485               	| 1617                	| -->
+<!-- | Crypto/crypto     	| 97.9%             	| 97.0%               	| -->
+<!-- | Low market cap    	| 84.9%             	| 81.8%               	| -->
+
+|                   	| Balanced parameters 	|
+|-------------------	|---------------------	|
+| Estimation window 	| 12h                 	|
+| Volume increase   	| 300%                	|
+| Price increase    	| 5%                  	|
+| Price drop        	| 1.00 SD             	|
+| Alleged pumps     	| 2150                	|
+| Pump-and-dumps    	| 1617                	|
+| Crypto/crypto     	| 97.0%               	|
+| Low market cap    	| 81.8%               	|
 
 
 ## P&D detection
@@ -126,19 +137,19 @@ _Conditional local point anomaly detection_
 - **repeat exchange victimisation**
 - **repeat coin victimisation**
 
-## Real-world tests
+<!-- ## Real-world tests -->
 
-<img src="./pd4.png">
+<!-- <img src="./pd4.png"> -->
 
 ##
 
-### Outlook
+### Outlook & bigger picture
 
-## New problems
+<!-- ## New problems -->
 
-- Twitter impersonation
-- Announcements change
-- Trading in the milliseconds
+<!-- - Twitter impersonation -->
+<!-- - Announcements change -->
+<!-- - Trading in the milliseconds -->
 
 ## New questions
 
@@ -157,6 +168,18 @@ _Conditional local point anomaly detection_
     - Transition to new targets
 
 Interdisciplinary challenge!
+
+## Bigger picture
+
+**If you had to design policing from scratch ...**
+
+- fully embrace data
+- avoid catch phrases ("big data", "AI")
+- solve the capabilities problem
+- **go "open data"**
+
+Worst case: the gap becomes so wide, we're not realising there is one.
+
 
 ## Are cryptocurrencies the future of fraud?
 
