@@ -23,6 +23,8 @@ Methodological topics:
 
 ## News
 
+- 4/2019 **New paper** on sentiment trajectories will appear at the NAACL 2019 workshop [NLP-CSS](https://sites.google.com/site/nlpandcss/home).
+- 4/2019 **Workshop in word embeddings** Max Mozes and I will give a half-day workshop in word [embeddings for computational social scientists](https://maximilianmozes.github.io/word-embeddings-workshop/) at EuroCSS 2019 in Zürich.
 - 3/2019 **Session on fraud** I'm running a session of cryptocurrency fraud at the [annual Dutch meeting of fraud investigators in The Hague in April 2019](https://www.iffc.nl/nl/cryptocurrency-fraude-als-toenemende-uitdaging)
 - 3/2019 **Conference talks** I'll talk about the potential and problem of data science for crime research at the [2019 Advances in Data Science conference](http://www.ds-advances.org/)
 - 3/2019 **New papers** on the [accuracy of verbal credibility assessment](https://psyarxiv.com/h6pxt/) and on [modelling linguistic concreteness for deception detection](https://psyarxiv.com/p3qjh/)
