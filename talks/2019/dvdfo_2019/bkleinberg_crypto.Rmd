@@ -28,7 +28,6 @@ Department of Security and Crime Science & Dawes Centre for Future Crime, Univer
 
 ##
 
-
 ## Anatomie van een P&D
 
 <img src="./threephases.png">
@@ -52,6 +51,37 @@ Department of Security and Crime Science & Dawes Centre for Future Crime, Univer
 
 <small>[Hamrick et al., 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3303365)</small>
 
+##
+
+### The story of [OfficialMcAfee](https://www.buzzfeednews.com/article/ryanmac/heres-how-scammers-are-using-fake-news-to-screw-with-bitcoin) and [OfficiallMcAfee](https://www.buzzfeednews.com/article/ryanmac/heres-how-scammers-are-using-fake-news-to-screw-with-bitcoin).
+
+<small>from: [Mac & Lytvynenko, Buzzfeed, 2018](https://www.buzzfeednews.com/article/ryanmac/heres-how-scammers-are-using-fake-news-to-screw-with-bitcoin)</small>
+
+## Coin of the day ...
+
+> When the tweet was first broadcast at around 3 p.m. ET, GVT was bought and sold on the market at $30.
+
+##
+
+> When the tweet was first broadcast at around 3 p.m. ET, GVT was bought and sold on the market at $30.
+
+> By 3:04, it was at $45, and trading volume had doubled.
+
+##
+
+> When the tweet was first broadcast at around 3 p.m. ET, GVT was bought and sold on the market at $30.
+
+> By 3:04, it was at $45, and trading volume had doubled.
+
+> But by 3:19, GVT's price had fallen back to $30.29.
+
+## Morale of the story
+
+> But by 3:19, GVT's price had fallen back to $30.29.
+
+> The smart money — the early money — had gotten out, leaving the late money holding a bag of now-diminished value.
+
+
 ## Crypto P&Ds
 
 | Oude uitdagingen            	| Nieuwe uitdagingen                 	|
@@ -67,11 +97,11 @@ Department of Security and Crime Science & Dawes Centre for Future Crime, Univer
 
 <!-- cash analogy -->
 
-##
+## Maar wel met **$$$**
 
 - $50m (Onecoin)
 - $825m over zes maanden
-- $222m voor een groep
+- [$222m voor een groep](https://www.wsj.com/graphics/cryptocurrency-schemes-generate-big-coin/)
 
 ## Het "grey zone" probleem
 
@@ -175,6 +205,16 @@ _Conditional local point anomaly detection_
 - **herhaaldelijke victimisatie van coins**
 - geen bewijs voor _"Bitcoin is not immune from the pump-and-dump phenomenon"_ (Hamrick et al., 2018)
 
+## In context
+
+- P&D groepen successvol om prijs omhoog te jagen
+- (zeer) korte tijdslijn
+- Telegram en Discord gebruikt voor het organiseren en coördineren
+- coins met lage volume meest aantrekkelijk
+
+<small>zie [Kamps & Kleinberg, 2018](https://doi.org/10.1186/s40163-018-0093-5); [Xu & Livshits, 2018](https://arxiv.org/pdf/1811.10109.pdf); [Hamrick et al., 2018](https://papers.ssrn.com/abstract=3303365); [Li et al., 2018](https://papers.ssrn.com/abstract=3267041)</small>
+
+
 ## Real-world tests
 
 <img src="./pd4.png">
@@ -200,6 +240,10 @@ Circulair probleem.
     - Transitie naar nieuwe coins
 
 Interdisciplinary challenge!
+
+##
+
+<img src="./threephases.png">
 
 ## Nieuwe problemen
 
@@ -230,7 +274,7 @@ Interdisciplinary challenge!
 - vertrouwen
 - groep-dynamiek
 - beslissingsprocessen
-    - heo kiezen ze "targets"?
+    - hoe kiezen ze "targets"?
     - waat zijn de kosten-baten processen?
     - wat zien wij niet?
 
@@ -241,6 +285,12 @@ Interdisciplinary challenge!
     - "increase the effort"
     - "reduce the reward"
     - "remove excuses"
+
+## Situationele preventie
+
+- is er sprake van displacement?
+    - hoe?
+    - waar naar toe?
 
 
 ## Visie op toekomstig onderzoek
