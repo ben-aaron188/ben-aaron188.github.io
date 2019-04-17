@@ -14,11 +14,18 @@ output:
 
 ## {data-background="./ucl_artwork/ucl-banner-land-darkblue-rgb.png" data-background-size="70%" data-background-position="top" data-background-opacity="1"}
 
-**Cryptocurrency fraude**
+### **Cryptocurrency fraude**
 
-Bennett Kleinberg
+</br>
+</br>
 
-Department of Security and Crime Science & Dawes Centre for Future Crime, University College London
+_Bennett Kleinberg_
+
+<small>Department of Security and Crime Science</small>
+</br>
+<small>Dawes Centre for Future Crime</small>
+</br>
+<small>University College London</small>
 
 ## 
 <!-- {data-background="./sharessinger.jpg" data-background-size="50%" data-background-position="center" data-background-opacity="1"} -->
