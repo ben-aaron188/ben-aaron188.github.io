@@ -1,6 +1,6 @@
 I am an Assistant Professor in Data Science at the [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and the [Dawes Centre for Future Crime](http://www.ucl.ac.uk/jill-dando-institute/dawes-future-crime) at University College London. I also hold a guest affiliation at the University of Amsterdam's [Department of Psychology](http://www.uva.nl/en/disciplines/psychology).
 
-I'm interested in solving and understanding (future) crime and security problems with computational techniques. My research uses a mix of open and closed-source data, and analytical and methodological approaches from natural language processing, machine learning, experimental research and simulation studies. All of my research is aimed at solving problems in the real world.
+I'm interested in solving and understanding (future) crime and security problems with computational techniques. An experimental behavioural scientists by training, I use a mix of open and closed-source data, experiments, and analytical and methodological approaches from natural language processing, machine learning and simulation studies. In general, my main research area revolves around drawing inferences on human behaviour from text data. Most of my research is aimed at solving problems in the real world.
 
 Current research questions include:
 
@@ -23,6 +23,8 @@ Methodological topics:
 
 ## News
 
+- 5/2019 **Book chapter** in the Handbook of Deceptive Communication on [Detecting Deceptive Intentions: Possibilities for Large-Scale Applications](https://link.springer.com/chapter/10.1007/978-3-319-96334-1_21)
+- 5/2019 **Conference talks** I'll speak at the [The First Annual Conference on Crime, Risk and Economics](https://cear.gsu.edu/event-archives/first-annual-conference-on-crime-risk-and-economics/) on cryptocurrency-related fraud.
 - 4/2019 **New paper** on sentiment trajectories will appear at the NAACL 2019 workshop [NLP-CSS](https://sites.google.com/site/nlpandcss/home).
 - 4/2019 **Workshop in word embeddings** Max Mozes and I will give a half-day workshop in word [embeddings for computational social scientists](https://maximilianmozes.github.io/word-embeddings-workshop/) at EuroCSS 2019 in Zürich.
 - 3/2019 **Session on fraud** I'm running a session of cryptocurrency fraud at the [annual Dutch meeting of fraud investigators in The Hague in April 2019](https://www.iffc.nl/nl/cryptocurrency-fraude-als-toenemende-uitdaging), [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/dvdfo_2019/bkleinberg_crypto.html), [pdf](https://github.com/ben-aaron188/ben-aaron188.github.io/blob/master/talks/2019/dvdfo_2019/bkleinberg_crypto.pdf)
@@ -137,20 +139,15 @@ From the README:
 - [LinkedIn profile](https://nl.linkedin.com/in/barkleinberg)
 
 
-# Teaching 2018/2019
+# Teaching
 
-**Possible topics for (UG & PG) dissertations and internships 2018/2019:**
+**Possible topics for (UG & PG) dissertations and internships 2019/2020:**
 
-- testing the reliability and validity of online sensor data (e.g., Twitter)
-- detecting massive online missinformation (e.g., fake news, polarised content)
-- deception detection (computer-automated or computer-aided)
-- detecting early warning signals of emerging crimes
-- understanding linguistic trajectories in online forums
-- computational approaches to existing and new crime problems
-- methodological research (e.g., dealing with new forms of data, statistical simulation studies)
-- dark crime data (i.e., hidden data, messy data, multimodal data)
-- special topic on financial fraud in collab. with a major internarional bank (contact me for more details)
-
+- Examining trading structures and networks in financial crime data
+- Assessing the re-identification of personal information in anonymised text data
+- Public perceptions on the use of algorithmic policing
+- Analysing the futurists to identify early warning signals
+- Hidden and dark data for crime research
 
 **CURRENT MODULES**
 
