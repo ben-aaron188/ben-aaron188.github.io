@@ -24,7 +24,7 @@ Methodological topics:
 ## News
 
 - 5/2019 **Book chapter** in the Handbook of Deceptive Communication on [Detecting Deceptive Intentions: Possibilities for Large-Scale Applications](https://link.springer.com/chapter/10.1007/978-3-319-96334-1_21)
-- 5/2019 **Conference talks** I'll speak at the [The First Annual Conference on Crime, Risk and Economics](https://cear.gsu.edu/event-archives/first-annual-conference-on-crime-risk-and-economics/) on cryptocurrency-related fraud.
+- 5/2019 **Conference talks** I'll speak at the [The First Annual Conference on Crime, Risk and Economics](https://cear.gsu.edu/event-archives/first-annual-conference-on-crime-risk-and-economics/) on cryptocurrency-related fraud --> [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/econ_crime_2019/cryptofraud_bkleinberg.html).
 - 4/2019 **New paper** on sentiment trajectories will appear at the NAACL 2019 workshop [NLP-CSS](https://sites.google.com/site/nlpandcss/home).
 - 4/2019 **Workshop in word embeddings** Max Mozes and I will give a half-day workshop in word [embeddings for computational social scientists](https://maximilianmozes.github.io/word-embeddings-workshop/) at EuroCSS 2019 in Zürich.
 - 3/2019 **Session on fraud** I'm running a session of cryptocurrency fraud at the [annual Dutch meeting of fraud investigators in The Hague in April 2019](https://www.iffc.nl/nl/cryptocurrency-fraude-als-toenemende-uitdaging), [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/dvdfo_2019/bkleinberg_crypto.html), [pdf](https://github.com/ben-aaron188/ben-aaron188.github.io/blob/master/talks/2019/dvdfo_2019/bkleinberg_crypto.pdf)
