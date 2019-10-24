@@ -23,6 +23,7 @@ Methodological topics:
 
 ## News
 
+- Guest talk Security Technologies (UCL) - [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/sectech/sectech_guest_lecture_bkleinberg_v2.html#/)
 - 6/2019 **Session on cryptocurrency fraud** at the FraudCafe at the Institute for Financial Crime in The Hague. [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/dvdfo_2019/bkleinberg_fraudecafe.html)
 - 5/2019 **Book chapter** in the Handbook of Deceptive Communication on [Detecting Deceptive Intentions: Possibilities for Large-Scale Applications](https://link.springer.com/chapter/10.1007/978-3-319-96334-1_21)
 - 5/2019 **Conference talk** I'll speak at the [The First Annual Conference on Crime, Risk and Economics](https://cear.gsu.edu/event-archives/first-annual-conference-on-crime-risk-and-economics/) on cryptocurrency-related fraud --> [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/econ_crime_2019/cryptofraud_bkleinberg.html).
