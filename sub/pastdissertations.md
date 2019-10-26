@@ -1,5 +1,18 @@
 ## Past dissertation projects
 
+### 2018/2019
+
+- Daniel Hammocks (MRes in Security Science UCL) - Identifying Weak Signals of Future Change: Detecting and Analysing Trends in Modus Operandi Through Topic Modelling
+- Antonis Anagnostou (MSc Data Science and Machine Learning UCL, now: Microsoft) - Towards a cross-domain mega classifier for targeted hate speech detection (industry partner: Factmata)
+- Matteo Cassia (MSc Data Science and Machine Learning UCL, now: Goldman Sachs) - Stance detection for unseen targets (industry partner: Factmata)
+- Barbara Balogoun (MSc Crime Science UCL, now: intelligence analyst) - Recognizing clickbait on Youtube through a Behavioural Analysis
+- Lily Greenhalgh (MSc Crime Science UCL) - The Sharing of Non-Sexually Explicit Imagery of Children for the Purpose of Eliciting Sexual Comments Online
+- Lauren Abrahams (MSc Crime Science UCL, now: open source intelligence threat analyst) - All the same or all different? The problem of conflating the human trafficking types
+- Aliai Eusebi (BSc Crime Science UCL, now: data scientist at Trilateral Research) - The shadows of knowability: Financial secrecy and development funds
+
+
+### Prior to 2018/2019
+
 - Thijs Veltman ("Participants's strategies in deception about intentions")
 - Lex Ehrhardt ("Strategies of airport security practitioners to detect suspicious passengers")
 - Wietse Dekker ("Temporal information as cue of deceptive intentions (replication study)"
