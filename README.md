@@ -26,6 +26,7 @@ Ideas I'm working on:
 
 _For recent talks/workshops/media coverage, see [here](./sub/talks.md)_
 
+_Some of the ongoing and past projects were funded by [SAGE](https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner), [RUSI/GIFCT](https://rusi.org/rusi-news/new-partnership-global-internet-forum-counter-terrorism), [The Dutch Ministry of Security and Justice](https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid)_
 
 # Research group
 
