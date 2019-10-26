@@ -1,92 +1,137 @@
-I am an Assistant Professor in Data Science at the [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and the [Dawes Centre for Future Crime](http://www.ucl.ac.uk/jill-dando-institute/dawes-future-crime) at University College London. I also hold a guest affiliation at the University of Amsterdam's [Department of Psychology](http://www.uva.nl/en/disciplines/psychology).
+I am an Assistant Professor (Lecturer) in Data Science at the [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and the [Dawes Centre for Future Crime](http://www.ucl.ac.uk/jill-dando-institute/dawes-future-crime) at University College London. I also hold a guest affiliation at the University of Amsterdam's [Department of Psychology](http://www.uva.nl/en/disciplines/psychology).
 
-I'm interested in solving and understanding (future) crime and security problems with computational techniques. An experimental behavioural scientists by training, I use a mix of open and closed-source data, experiments, and analytical and methodological approaches from natural language processing, machine learning and simulation studies. In general, my main research area revolves around drawing inferences on human behaviour from text data. Most of my research is aimed at solving problems in the real world.
+My research is about two areas:
 
-Current research questions include:
+(1) Computational approaches to security and crime problems
 
-- Dynamic modelling of sentiment in text
-- Hybrid decision-making approaches in uncertain environments (human-in-the-loop, i.e. integrating machine learning and human expertise)
-- Leading indicators for violent crimes through social media conflict
-- Automated detection of hate speech targets
-- Identifying early warning signals to detect emerging crime trends
-- Understanding and predicting the temporal trajectories of language on online forums
-- Cryptocurrency pump-and-dump detection and mitigation
-- Dynamic, adaptive information elicitation for large-scale passenger screening
+With more data and a changing landscape of problems, computational techniques are an exciting way to look at exisitng and novel crime and security problems. I'm especially interested in emerging crime problems and understanding them through complex text data with techniques from natural language processing and applied machine learning.
 
+Ideas I'm working on:
 
-Methodological topics:
+- language use on extremist online forums
+- hybrid decision-making in uncertain, large-volume environments
+- drill music on YouTube
+- keyboard dynamics as a biometric identifier
 
-- Fundamental data science, esp. the validity of online sensor data (e.g., forum data, dark web data)
-- The stability of computational approaches (e.g., class-imbalance problems, context dependency of machine learning, bad label propagation for prediction models)
-- New ways of generating data for crime research (e.g., simulation approaches, web-scraping)
+(2) Methods of behavioural data science
 
+Before computational methods can help us understand problems better (or at scale), we need good methods and tested assumptions. I'm particularly interested in building robust methods to learn about human behaviour from text and web data. Aside from natural language processing, I'm here also interested in the tool development for computational social science including applied machine learning.
 
-## News
+Ideas I'm working on:
 
-- Guest talk Security Technologies (UCL) - [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/sectech/sectech_guest_lecture_bkleinberg_v2.html#/)
-- 6/2019 **Session on cryptocurrency fraud** at the FraudCafe at the Institute for Financial Crime in The Hague. [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/dvdfo_2019/bkleinberg_fraudecafe.html)
-- 5/2019 **Book chapter** in the Handbook of Deceptive Communication on [Detecting Deceptive Intentions: Possibilities for Large-Scale Applications](https://link.springer.com/chapter/10.1007/978-3-319-96334-1_21)
-- 5/2019 **Conference talk** I'll speak at the [The First Annual Conference on Crime, Risk and Economics](https://cear.gsu.edu/event-archives/first-annual-conference-on-crime-risk-and-economics/) on cryptocurrency-related fraud --> [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/econ_crime_2019/cryptofraud_bkleinberg.html).
-- 4/2019 **New paper** on sentiment trajectories will appear at the NAACL 2019 workshop [NLP-CSS](https://sites.google.com/site/nlpandcss/home).
-- 4/2019 **Workshop in word embeddings** Max Mozes and I will give a half-day workshop in word [embeddings for computational social scientists](https://maximilianmozes.github.io/word-embeddings-workshop/) at EuroCSS 2019 in Zürich.
-- 3/2019 **Session on fraud** I'm running a session of cryptocurrency fraud at the [annual Dutch meeting of fraud investigators in The Hague in April 2019](https://www.iffc.nl/nl/cryptocurrency-fraude-als-toenemende-uitdaging), [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/dvdfo_2019/bkleinberg_crypto.html), [pdf](https://github.com/ben-aaron188/ben-aaron188.github.io/blob/master/talks/2019/dvdfo_2019/bkleinberg_crypto.pdf)
-- 3/2019 **Conference talks** I'll talk about the potential and problem of data science for crime research at the [2019 Advances in Data Science conference](http://www.ds-advances.org/)
-- 3/2019 **New papers** on the [accuracy of verbal credibility assessment](https://psyarxiv.com/h6pxt/) and on [modelling linguistic concreteness for deception detection](https://psyarxiv.com/p3qjh/)
-- 2/2019 **Conference talks** I'll give a talk ["Are cryptocurrencies the future of fraud?"](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/policing_2_0/crypto_bkleinberg.html#/section) at the Policing 2.0 conference in London in March 2019.
-- 1/2019 **PhD position** on crypto fraud - fully funded 3 or 4 years - we've set a deadline to the 1st of March - more info [here](https://www.ucl.ac.uk/security-crime-science/sites/security-crime-science/files/dawes_secret_studentships_2019_2.pdf)
-- 1/2019 **Blog post** on our crypto fraud paper on [BMC](http://blogs.biomedcentral.com/on-society/2019/01/22/cryptocurrency-pump-and-dumps/)
-- 12/2018 **Paper on crypto fraud** Josh Kamps and I published a [paper](https://link.springer.com/article/10.1186/s40163-018-0093-5) on cryptocurrency fraud as a crime science problem
-- 12/2018 **Workshop at EuroCSS** Isabelle van der Vegt (UCL), Maximilian Mozes (TU Munich) and I gave a tutorial workshop on Linguistic Temporal Trajectory Analysis in R [[companion website]](https://bkleinberg.net/ltta_workshop/) at this year's [[EuroCSS symposium]](http://symposium.computationalsocialscience.eu/2018/#call)
-- 11/2018 **Postdoc position** We are hiring a post-doc for a scoping study on cryptocurrency fraud as an emerging crime problem (upd.: position filled). 
-- 10/2018 **Conference talks** Maximilian Mozes will present our work on sentiment shapes on YouTube at [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call) and I will talk about about joint work with Paul Gill and Isabelle van der Vegt on predicting phase transitions of abusive language adoption
-- 09/2018 **EMNLP paper on sentiment styles in 27k YouTube vlogs** To appear at EMNLP 2018 in Brussels. [[paper]](http://aclweb.org/anthology/D18-1394) [[data]](https://github.com/ben-aaron188/narrative_structures) [[code]](https://github.com/ben-aaron188/naive_context_sentiment)
-- 09/2018 **Joint project with Greater Manchester Police** Together with [Reka Solymosi](https://www.research.manchester.ac.uk/portal/reka.solymosi.html) we will work on threat scanning using data science techniques.
-<!--- 09/2018 **New release: text anonymisation software** Our NETANOS text anonymisation software is now available in an accessible drag-and-drop interface at [netanos.io](http://netanos.io/).-->
-<!--- 08/2018 **Comp. Social Science workshop** Together with Isabelle van der Vegt (UCL) and Maximilian Mozes (TU Munich), I will organise a tutorial workshop on Linguistic Temporal Trajectory Analysis in R [[companion website]](https://bkleinberg.net/ltta_workshop/) [[EuroCSS website]](http://symposium.computationalsocialscience.eu/2018/#call)
--->
-<!--- 08/2018 **Coling paper** Our paper on fake news detection with [Vero Pérez-Rosas](https://sites.google.com/site/perezrosasveronica/home) and [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) will be published and presented at Coling 2018 [[paper]](http://aclweb.org/anthology/C18-1287) [[data]](http://lit.eecs.umich.edu/downloads.html#Fake%20News)-->
-<!--- 07/2018 **Project funding (PI)** Our proposal on human-machine integration for extremist content removal was funded by [RUSI](https://rusi.org/)  (with Paul Gill, [Stuart Macdonald](http://www.swansea.ac.uk/staff/law/stuartmacdonald/), and Isabelle van der Vegt)-->
+- automated, learning-based text anonymisation
+- examining the fundamental assumptions of behavioural data science (e.g. the cognition-language-behaviour nexus)
+- sample size estimation for machine learning in the social and behavioural sciences
+- researchers' degrees of freedom in natural language processing studies
 
 
-# Selected recent publications
+# Research group
 
-- Kamps, J. & Kleinberg, B. (2018). [To the moon: defining and detecting cryptocurrency pump-and-dumps](https://link.springer.com/article/10.1186/s40163-018-0093-5), Crime Science [[DATA + CODE]](https://osf.io/827wd/)
-- Kleinberg, B., Mozes, M., & van der Vegt, I. (2018). [Identifying the 
-sentiment styles of YouTube’s vloggers](https://arxiv.org/ftp/arxiv/papers/1808/1808.09722.pdf), EMNLP 2018 [[DATA]](https://github.com/ben-aaron188/narrative_structures) [[CODE]](https://github.com/ben-aaron188/naive_context_sentiment)
-- Pérez-Rosas, V., Kleinberg, B., Lefevre, A., & Mihalcea, R. (2018). [Automatic Detection of Fake News](http://aclweb.org/anthology/C18-1287), COLING 2018 [[DATA]](http://web.eecs.umich.edu/~mihalcea/downloads.html#FakeNews)
-- Kleinberg, B., Warmelink, L., Arntz, A., & Verschuere, B. (2018). [The first direct replication on using verbal credibility assessment for the detection of deceptive intentions](https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.3439), Applied Cognitive Psychology [[DATA]](https://osf.io/t29dz/)
-- Kleinberg, B., van der Toolen, Y., Vrij, A., Arntz, A., & Verschuere, B. (2018). [Automated verbal credibility assessment of intentions: The model statement technique and predictive modeling](https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.3407), Applied Cognitive Psychology [[DATA]](https://osf.io/wqc4p/)
-- Kleinberg, B., van der Toolen, Y., Arntz, A., & Verschuere, B. (2018). [Detecting Concealed Information on a Large Scale: Possibilities and Problems](http://groups.psych.northwestern.edu/rosenfeld/documents/Rosenfeld,%20J.%20Peter.%20Detecting%20Concealed%20Information%20and%20Deception%20Recent%20Developments.%20(PDF).pdf#page=396), Book chapter
+## PhD students
 
-All publications can be found on [my Google Scholar page](https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en).
+### Josh Kamps
 
+- Background: Computer Science, Crime Science
+- Topic: Detecting cryptocurrency crime
+- Supervised with Dr Sarah Meiklejohn
+- Funded by: UCL Dawes Centre for Future Crime
+
+### Arianna Trozze
+
+- Background: Law, Policy Making
+- Topic: Detecting cryptocurrency crime
+- Supervised with Dr Toby Davies
+- Funded by: UCL Cybercrime Centre for Doctoral Training
+
+### Maximilian Mozes [www](http://mmozes.net/)
+
+- Background: Computer Science, Natural Language Processing
+- Topic: Adversarial perturbations in natural language processing
+- Supervised with Prof. Lewis Griffin
+- Funded by: UCL Dawes Centre for Future Crime
+
+### Felix Soldner
+
+- Background: Psychology, Brain & Cognitive Sciences
+- Topic: Detecting and mitigating online consumer fraud
+- Supervised with Prof. Shane Johnson
+- Funded by: UCL Dawes Centre for Future Crime
+
+### Daniel Hammocks [www](https://danielhammocks.uk/)
+
+- Background: Mathematics, Data Science
+- Topic: Detecting emerging crimes using data science techniques
+- Supervised with Prof. Kate Bowers
+- Funded by: EPSRC
+
+### Isabelle van der Vegt [www](http://isabellevdv.net/)
+
+- Background: Linguistics, Psychology
+- Topic: Understanding and predicting threats of violence using computational linguistics
+- Supervised with Prof. Paul Gill (UCL)
+- Funded by Prof P Gill's ERC grant 'GRIEVANCE'
+
+## Dawes reading group
+
+We are running a bi-weekly reading group on topics around future crime (incl. data science, policy-making). Info at [https://felix-soldner.github.io/dawes_reading_group/](https://felix-soldner.github.io/dawes_reading_group/)
+
+
+## Dissertation projects
+
+- Hynek Halakuc (BSc Crime Science UCL) - Initial growth of different illicit drug category listings on the Alphaba dark market
+- Vlad Pasca (BSc Crime Science UCL) - An examination of adversarial perturbations for spam detection
+- Ana Wilmer (BSc Crime Science UCL) - Extreme jargon adopters of a far-right online forum
+- Satoshi Takemoto (BSc Crime Science UCL) - Assessing differences in news coverage between the Japanse Yakuza and semi-organized crime groups (hangure)
+
+# Teaching
+
+## 2019-2020
+
+- SECU0050 Data Science for crime scientists (3rd year, BSc in Crime Science, UCL)
+- SECU0057 Applied Data Science (MSc in Crime Science, UCL)
+
+## 2018-2019
+
+- SECU0013 Probability, Statistics and Modelling 2 (2nd year, BSc in Crime Science, UCL)
+    - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_psm2_20182019) and on the [companion website](https://bkleinberg.net/ucl_psm2_20182019/).
+- SECU0050 Data Science for crime scientists (3rd year, BSc in Crime Science, UCL)
+    - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_aca_20182019) and on the [companion website](https://bkleinberg.net/ucl_aca_20182019/).
+- [Crime Science](http://www.uva.nl/en/programmes/honours-modules-iis/honoursmodule-crime-science/honoursmodule-crime-science.html?1549646204808) (honours module, UvA)
+- Dissertation projects:
+    - Daniel Hammocks (MRes in Security Science UCL) - Identifying Weak Signals of Future Change: Detecting and Analysing Trends in Modus Operandi Through Topic Modelling
+    - Antonis Anagnostou (MSc Data Science and Machine Learning UCL, now: Microsoft) - Towards a cross-domain mega classifier for targeted hate speech detection (industry partner: Factmata)
+    - Matteo Cassia (MSc Data Science and Machine Learning UCL, now: Goldman Sachs) - Stance detection for unseen targets (industry partner: Factmata)
+    - Barbara Balogoun (MSc Crime Science UCL, now: intelligence analyst) - Recognizing clickbait on Youtube through a Behavioural Analysis
+    - Lily Greenhalgh (MSc Crime Science UCL) - The Sharing of Non-Sexually Explicit Imagery of Children for the Purpose of Eliciting Sexual Comments Online
+    - Lauren Abrahams (MSc Crime Science UCL, now: open source intelligence threat analyst) - All the same or all different? The problem of conflating the human trafficking types
+    - Aliai Eusebi (BSc Crime Science UCL, now: data scientist at Trilateral Research) - The shadows of knowability: Financial secrecy and development funds
+    - [Past dissertation projects](./sub/pastdissertations.md)
+
+## 2017-2018
+
+- Crime Science, BSc module, Institute for Inderdisciplinary Studies, University of Amsterdam, Sem. 2, 2017/2018
+- Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2017/2018
+- Crime Science, BSc module, Institute for Inderdisciplinary Studies, University of Amsterdam, Sem. 1, 2017/2018
+
+## 2016-2017
+
+- Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2016/2017
+
+## 2015-2016
+
+- Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2015/2016
+)
 
 # Software
 
-- **NETANOS - Named entity-based text anonymization for open science**
+- NETANOS - Named entity-based text anonymization for open science
     - Anonymises bunches of text files by removing identifiable information
     - de-identifies numbers, persons, locations, places, pronouns, dates and times
     - Developed with [Maximilian Mozes](http://www.mmozes.net/) and [Bruno Verschuere](http://www.uva.nl/profiel/v/e/b.j.verschuere/b.j.verschuere.html)
     - Available on [npm](https://www.npmjs.com/package/netanos), source code [on GitHub](https://github.com/ben-aaron188/netanos)
     - Published paper in [JOSS](http://joss.theoj.org/papers/cd40892f7ea198aded1bc90ba33c6655) and experimental validation on [OSF servers](https://osf.io/w9nhb/)
     - Accessible interface version lives on [netanos.io](http://netanos.io/)
-
-Example:
-
-```javascript
-var input = "Max and Ben spent more than 1000 hours on writing the software. They started in August 2016 in Amsterdam.";
-
-netanos.anon(input, function(output) {
-    console.log(output);
-});
-
-/*
-"[PERSON_1] and [PERSON_2] spent more than [DATE/TIME_1] on writing the software. They started in [DATE/TIME_2] in [LOCATION_1]."
-*/
-```
-
-
-- **Naive context sentiment analysis**
+- Naive context sentiment analysis
     -  Performs sentiment analysis that handles valence shifters (e.g., "really", "not", "hardly", "but") on non-punctuated or poorly punctuated data
     -  Code lives [on GitHub](https://github.com/ben-aaron188/naive_context_sentiment)
     -  Specific use cases:
@@ -95,177 +140,19 @@ netanos.anon(input, function(output) {
         - very brief text data: Twitter data, for example, even if properly annotated for sentence-boundary-disambiguation, would return one or two sentiment values with other sentiment extraction packages
    - Contributors: [Maximilian Mozes](http://www.mmozes.net/) and Isabelle van der Vegt
 
-From the README:
 
-```r
-#3. USAGE EXAMPLE
-##for texts from source, use the function: https://github.com/ben-aaron188/r_helper_functions/blob/master/txt_df_from_dir.R
-# data = data.frame('text' = character(3)
-#                   , 'text_id' = character(3))
-# data$text = c('this is a super, great positive sentence and I just love doing this. Now this will be very negative and with disgusting words and ugly phrases'
-#               , 'here we begin in a bad, bad, and ugly way but quickly become overly positive for all the great things this exciting code can do'
-#               , "I haven't been sad in a long time. I am extremely happy today. It's a good day. But suddenly I'm only a little bit happy. Then I'm not happy at all. In fact, I am now the least happy person on the planet. There is no happiness left in me. Wait, it's returned! I don't feel so bad after all!")
-# data$text_id = c('text1', 'text2', 'text3')
-#
-# ncs_full(txt_input_col = data$text
-#          , txt_id_col = data$text_id
-#          , low_pass_filter_size = 5
-#          , transform_values = T
-#          , normalize_values = F
-#          , min_tokens = 10
-#          , cluster_lower = 2
-#          , cluster_upper = 2
-#          )
+# Recent talks and workshops
 
-### END
-```
+- Data Science for Security (guest lecture Security Technologies, UCL) - [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/sectech/sectech_guest_lecture_bkleinberg_v2.html#/)
+- Cryptocurrency fraud (FraudCafe at the Institute for Financial Crime in The Hague) -  [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/dvdfo_2019/bkleinberg_fraudecafe.html)
+- Cryptocurrency fraud [(The First Annual Conference on Crime, Risk and Economics)](https://cear.gsu.edu/event-archives/first-annual-conference-on-crime-risk-and-economics/) -  [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/econ_crime_2019/cryptofraud_bkleinberg.html).
+- Workshop on word embeddings embeddings for computational social scientists (EuroCSS 2019, Zürich) - [repo](https://maximilianmozes.github.io/word-embeddings-workshop/)
+- Cryptocurrency fraud [(annual Dutch meeting of fraud investigators in The Hague)](https://www.iffc.nl/nl/cryptocurrency-fraude-als-toenemende-uitdaging) -  [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/dvdfo_2019/bkleinberg_crypto.html), [pdf](https://github.com/ben-aaron188/ben-aaron188.github.io/blob/master/talks/2019/dvdfo_2019/bkleinberg_crypto.pdf)
+- The potential and problems of data science for crime research [(2019 Advances in Data Science conference)](http://www.ds-advances.org/) - [slides]()
+- Are cryptocurrencies the future of fraud? (talk at the Policing 2.0 conference in London) - [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/policing_2_0/crypto_bkleinberg.html#/section)
+- Workshop on Linguistic Temporal Trajectory Analysis in R (EuroCSS 2018, Cologne) - [repo](https://bkleinberg.net/ltta_workshop/) (with Isabelle van der Vegt and Maximilian Mozes)
 
-
-# About me
-
-### Brief CV
-
-- PhD on detecting deceptive intentions on a large scale (Department of Psychology, University of Amsterdam) [2018]
-- MSc in Crime Science (University College London) [2015]
-- BSc in Psychology - specialised in Psychological Methods (University of Amsterdam) [2014]
-
-### Links
-
-- [University of Amsterdam profile](http://www.uva.nl/profiel/k/l/b.a.r.kleinberg/b.a.r.kleinberg.html)
-- [Data repository and archive on the Open Science Framework](https://osf.io/zdz5q/)
-- [Code and software on GitHub](https://github.com/ben-aaron188)
-- [Twitter](https://twitter.com/benkleinberg)
-- [Researchgate for a research overview and papers](https://www.researchgate.net/profile/Bennett_Kleinberg)
-- [Google Scholar for all publications](https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en)
-- [Stackoverflow profile](https://stackoverflow.com/users/3421089/ben-aaron)
-- [LinkedIn profile](https://nl.linkedin.com/in/barkleinberg)
-
-
-# Teaching
-
-**Possible topics for (UG & PG) dissertations and internships 2019/2020:**
-
-- Examining trading structures and networks in financial crime data
-- Assessing the re-identification of personal information in anonymised text data
-- Public perceptions on the use of algorithmic policing
-- Analysing the futurists to identify early warning signals
-- Hidden and dark data for crime research
-
-**CURRENT MODULES**
-
-- Probability, Statistics and Modelling 2 (2nd year, BSc in Crime Science, UCL)
-    - Includes Bayesian inference, discrete multivariate analysis, GLM
-    - Open science lab (reproducibility, questionable research practices)
-    - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_psm2_20182019) and on the [companion website](https://bkleinberg.net/ucl_psm2_20182019/).
-- Data Science for crime scientists (3rd year, BSc in Crime Science, UCL)
-    - Includes: web-scraping, text mining in R, (un)supervised machine learning
-    - Materials for this module on [GitHub](https://github.com/ben-aaron188/ucl_aca_20182019) and on the [companion website](https://bkleinberg.net/ucl_aca_20182019/).
-- Crime Science (honours module, UvA)
-    - Module description on [UvA website](http://www.uva.nl/en/programmes/honours-modules-iis/honoursmodule-crime-science/honoursmodule-crime-science.html?1549646204808)
-    - _Note: we have a long wait list at the moment_
-    - Materials/handbook/etc. to be made available here asap.
-
-
-**Past modules**
-
-- Crime Science, BSc module, Institute for Inderdisciplinary Studies, University of Amsterdam, Sem. 2, 2017/2018
-- Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2017/2018
-- Crime Science, BSc module, Institute for Inderdisciplinary Studies, University of Amsterdam, Sem. 1, 2017/2018
-- Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2016/2017
-- Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2015/2016
-)
-
-### Review service
-
-- Scientific Reports (Nature), Memory & Cognition, Applied Cognitive Psychology, Computers in Human Behavior, Acta Psychologica, Personality and Individual Differences, Current Psychology, Cognitive Research: Principles and Implications, Crime Science  
-
-
-# PhDs & students
-
-### Maximilian Mozes
-
-- PhD student (2019-2022)
-- Topic: Adversarial perturbations in security algorithms
-- Supervised with Dr. Lewis Griffin
-- Funded by: UCL Dawes Centre for Future Crime
-
-### Felix Soldner
-
-- PhD student (2018-2021)
-- Topic: Detecting and mitigating hidden fraud and intellectual property crime
-- Supervised with Prof. Shane Johnson
-- Funded by: UCL Dawes Centre for Future Crime
-
-### Daniel Hammocks
-
-- MRes+PhD student (2018 - 2022)
-- Topic: Detecting emerging crimes using data science techniques
-- Supervised with Prof. Kate Bowers
-- Funded by: EPSRC
-
-### Isabelle van der Vegt
-
-- PhD student (2018 - 2021)
-- [Website](http://isabellevdv.net/)
-- Topic: Understanding and predicting threats of violence using computational linguistics
-- Supervised with Dr Paul Gill (UCL)
-- Funded by Dr P Gill's ERC grant 'GRIEVANCE'
-
-
----------
-
-### MSc dissertations
-- Thijs Veltman ("Participants's strategies in deception about intentions")
-- Lex Ehrhardt ("Strategies of airport security practitioners to detect suspicious passengers")
-- Wietse Dekker ("Temporal information as cue of deceptive intentions (replication study)"
-- Fleur van der Meer ("Chat-based information elicitation for large-scale deception detection")
-- Isabelle van der Vegt ("Dynamic strategic interviewing to detect deceptive intentions") - now PhD student at UCL
-- Tinde Haarlemmer ("Combined testing to address leakage in the RT Concealed Information Test")
-- Carmen Sergiou ("Detecting informed innocent participants in the RT Concealed Information Test") - now PhD student at Erasmus University Rotterdam
-
-
-### Internships & BSc theses
-- Josh Kamps (cryptocurrency pump-and-dumps; BSc thesis in Computer Science, VU University Amsterdam) - now MSc student at UCL
-- Leonie Waldeck (sampling methods in unbalanced class problems; internship MSc Behavioral Data Science, UvA)
-- Jiri Munich (detecting scientific fraud using computational linguistics; internship Research Master Psychology, UvA)
-- Stella de Ree (verbal deception detection from a linguistic perspective; BSc thesis in Linguistics, UvA)
-- Felix Soldner (detecting fake reviews in an experimental study; internship MSc Cognitive Science, UvA) - now PhD student at UCL
-- Manon Schutte (detecting fake reviews in an experimental study; internship Research Master Psychology, UvA) - now RA at UvA
-- Maximilian Mozes (chat-based information elicitaiton + automated text anonymization; internship) - now at TU Munich, from 4/2019 PhD student at UCL
-- Gaspar Lukacs (concealed information tests with filler items) - now PhD student at University of Vienna
-
-
-
-# Talks & media
-
-<!--### Recent conference talks
-
-- UPCOMING _Understanding the Linguistic Trajectory of Far-right Abusive Language_ EuroCSS (Dec., 2018, Cologne Germany)
-- _Using named entities for computer-automated verbal deception detection_ International Conference on Computational Social Science (July, 2017, Cologne, Germany)
-- _Towards large-scale cognition-based deception detection_ Behaviour Detection study group Research & Development Workshop, European Civil Aviation Conference (March, 2017, Madrid, Spain)
-- _Using named entities for computer-automated verbal deception detection_ Reading the Deceptive Brain and Mind (March 2017, Lucca, Italy)
-- _From theory to large-scale applications: Experimental results on the detectability of false intent_ International conference of the Society for Terrorism Research (November 2016, The Hague, The Netherlands)
-- _Routine activities or social disorganization? (or both?)_ Penny Willow Prize lecture of the Department of Security and Crime Science presented at University College London (July 2016, London, UK)
-- _Using the verifiability of details as a test of deception_ Presented at Proceedings of the Second Workshop on Computational Approaches to Deception Detection, NAACL 2016 (June 2016, San Diego, California, US)
--->
-
-### Workshops + invited talks
-
-<!--- UPCOMING _Linguistic Temporal Trajectory Analysis_ European Symposium Series on Societal Challenges in Computational Social Science [[symposium website]](http://symposium.computationalsocialscience.eu/2018/)
--->
-- _Deception detection!!??_ Workshop to security professionals in the programme Predictive Profiling at SoSecure Netherlands (March + October 2018)
-- _Crime Science and the crime drop_ Guest lecture in the VU University Amsterdam module "[Biosocial aspects of antisocial behavior](https://www.vu.nl/nl/opleidingen/overig-onderwijs/honours-programme/interdepartmental-courses/biosocial-aspects-antisocial-behaviour-2/index.aspx)" (14 February 2018)
-- _What is Crime Science_ Lecture for the student association of Social Psychology at the University of Amsterdam (December 2017)
-- 	_Why we need a Crime Science_ Master class at the Extensus honours association of the University of Amsterdam, Free University of Amsterdam, and Amsterdam University College (29 November 2017)
-- _Crime Science matters_ Mini lecture at the 385th anniversary event of the University of Amsterdam (18 November 2017)
-- _Terrorism prevention with predictive modeling in R_ Workshop talk at the N8 event “Building tools and training for crime analysts using R”, University of Manchester (25 September 2017)
-- _Practical workshop on deception detection_ Presented as workshop at the University of Groningen, The Netherlands (13 April 2017, with Yaloe van der Toolen)
-- _Modern deception detection_ Presented as workshop at Labyrint Leiden at the University Leiden, The Netherlands (30 November 2016, with Yaloe van der Toolen)
-- _Feit of fictie? (EN: Fact or fiction?)_ Presented as workshop at Het Nutshuis at the 2016 - Museum Night in The Hague (29 October 2016, with Yaloe van der Toolen)
-- _Chat-based information elicitation mini-demonstration/workshop_ Presented as research demonstration to honours students in Aviation Engineering of the Hogeschool van Amsterdam (Amsterdam, September 2016, with Yaloe van der Toolen & Maximilian Mozes)
-
-
-### Media
+**Media**
 
 - Interview re. large-scale deception detection [Folia Magazine (Dutch)](https://www.folia.nl/wetenschap/126359/dialogen-met-chatbots-kunnen-helpen-in-strijd-tegen-terrorisme)
 -	International coverage of comments on AI lie detection for EU border control in [BBC Newshour](https://www.bbc.co.uk/sounds/play/w172w25gdks006r) (from 19 mins 55 secs), [dw.com](https://www.dw.com/de/eu-testet-l%C3%BCgendetektor-an-au%C3%9Fengrenzen/a-46195158), [The Guardian](https://www.theguardian.com/world/2018/nov/02/eu-border-lie-detection-system-criticised-as-pseudoscience), [Süddeutsche Zeitung (Germany)](https://www.sueddeutsche.de/digital/grenze-kuenstliche-intelligenz-software-iborderctrl-1.4196243), [Volkskrant (The Netherlands)](https://www.volkskrant.nl/nieuws-achtergrond/eu-zet-omstreden-ai-leugendetector-in-bij-grenscontrole~b169bb03/), [New Scientist](https://www.newscientist.com/article/mg24032023-400-an-ai-lie-detector-will-interrogate-travellers-at-some-eu-borders/), [UCL News](https://www.ucl.ac.uk/news/headlines2/November-2018/021118-EU-border-pseudoscience), Nov. 2018
@@ -276,4 +163,34 @@ From the README:
 - Interview/comment on the veiling study with [Psychology Today](https://www.psychologytoday.com/blog/brainstorm/201608/what-is-the-face-truth) and covered by the [APA](http://www.apa.org/news/press/releases/2016/06/judge-truthfulness.aspx)
 
 
-------------
+# Brief CV
+
+- Assistant Professor in Data Science (Department of Security and Crime Science, UCL)
+- PhD on detecting deceptive intentions on a large scale (Department of Psychology, University of Amsterdam) [2018]
+- MSc in Crime Science (University College London) [2015]
+- BSc in Psychology - specialised in Psychological Methods (University of Amsterdam) [2014]
+
+Links:
+
+- [Code and software on GitHub](https://github.com/ben-aaron188)
+- [Google Scholar for all publications](https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en)
+- [University of Amsterdam profile](http://www.uva.nl/profiel/k/l/b.a.r.kleinberg/b.a.r.kleinberg.html)
+- [Data repository and archive on the Open Science Framework](https://osf.io/zdz5q/)
+- [Twitter](https://twitter.com/benkleinberg)
+- [Researchgate](https://www.researchgate.net/profile/Bennett_Kleinberg)
+- [Stackoverflow profile](https://stackoverflow.com/users/3421089/ben-aaron)
+- [LinkedIn profile](https://nl.linkedin.com/in/barkleinberg)
+
+Review service
+
+- Scientific Reports (Nature), Memory & Cognition, Applied Cognitive Psychology, Computers in Human Behavior, Acta Psychologica, Personality and Individual Differences, Current Psychology, Cognitive Research: Principles and Implications, Crime Science  
+
+# Publications
+
+All publications can be found on [my Google Scholar page](https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en).
+
+
+-----
+### Contact
+
+If you are interested in doing a PhD, working as a research assistant (in London or remotely) or doing a BSc/MSc dissertation, feel free to reach out to me.
