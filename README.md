@@ -8,9 +8,8 @@ With more data and a changing landscape of problems, computational techniques ar
 
 Ideas I'm working on:
 
-- language use on extremist online forums
+- examining new (crime) problems on the Internet through text (e.g., online forums)
 - hybrid decision-making in uncertain, large-volume environments
-- drill music on YouTube
 - keyboard dynamics as a biometric identifier
 
 (2) Methods of behavioural data science
