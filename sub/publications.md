@@ -39,6 +39,6 @@
 
 ### Popular science
 
-- [1]B. Kleinberg, M. Mozes, and T. Davies, “Making sensitive text data accessible for computational social science — SAGE Ocean | Big Data, New Tech, Social Science,” SAGE Ocean, 18-Jul-2019. .
+- [1]B. Kleinberg, M. Mozes, and T. Davies, “Making sensitive text data accessible for computational social science — SAGE Ocean - Big Data, New Tech, Social Science,” SAGE Ocean, 18-Jul-2019. .
 - [2]B. Kleinberg and B. Verschuere, “Being Honest About Deception Detection: between popular idea and scientific evidence,” Aviation Security International Magazine, 16-Apr-2019.
 - [3]J. Kamps and B. Kleinberg, “Cryptocurrency pump-and-dumps,” BioMedCentral - On Society, 22-Jan-2019. .
