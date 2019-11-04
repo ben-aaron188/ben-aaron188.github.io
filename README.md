@@ -80,10 +80,10 @@ We are running a bi-weekly reading group on topics around future crime (incl. da
 
 ### Dissertation projects
 
-- Hynek Halakuc (BSc Crime Science UCL) - Initial growth of different illicit drug category listings on the Alphaba dark market
-- Vlad Pasca (BSc Crime Science UCL) - An examination of adversarial perturbations for spam detection
+<!--- Vlad Pasca (BSc Crime Science UCL) - An examination of adversarial perturbations for spam detection
 - Ana Wilmer (BSc Crime Science UCL) - Extreme jargon adopters of a far-right online forum
 - Satoshi Takemoto (BSc Crime Science UCL) - Assessing differences in news coverage between the Japanse Yakuza and semi-organized crime groups (hangure)
+-->
 - [Past dissertation projects](./sub/pastdissertations.md)
 
 ## Teaching
