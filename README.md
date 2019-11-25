@@ -3,18 +3,16 @@ I am an Assistant Professor (Lecturer) in Data Science at the [Department of Sec
 My research is about two areas:
 
 (1) Computational approaches to security and crime problems
+With more data and a changing landscape of problems, computational techniques are an exciting way to look at existing and novel crime and security problems. I’m especially interested in emerging crime problems and understanding them through complex text data with techniques from natural language processing and applied machine learning.
 
-With more data and a changing landscape of problems, computational techniques are an exciting way to look at exisitng and novel crime and security problems. I'm especially interested in emerging crime problems and understanding them through complex text data with techniques from natural language processing and applied machine learning.
-
-Ideas I'm working on:
+Ideas I’m working on:
 
 - examining new (crime) problems on the Internet through text (e.g., online forums)
 - hybrid decision-making in uncertain, large-volume environments
 - keyboard dynamics as a biometric identifier
 
 (2) Methods of behavioural data science
-
-Before computational methods can help us understand problems better (or at scale), we need good methods and tested assumptions. I'm particularly interested in building robust methods to learn about human behaviour from text and web data. Aside from natural language processing, I'm here also interested in the tool development for computational social science including applied machine learning.
+Before computational methods can help us understand problems better (or at scale), we need suitable methods and tested assumptions. I’m particularly interested in building robust methods to learn about human behaviour from text and web data. Aside from natural language processing, I’m here also involved in the tool development for computational social science, including applied machine learning.
 
 Ideas I'm working on:
 
