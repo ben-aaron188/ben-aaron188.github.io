@@ -2,15 +2,20 @@ I am an Assistant Professor (Lecturer) in Data Science at the [Department of Sec
 
 My research is about two areas:
 
-(1) Computational approaches to security and crime problems - With more data and a changing landscape of problems, computational techniques are an exciting way to look at existing and novel crime and security problems. I’m especially interested in emerging crime problems and understanding them through complex text data with techniques from natural language processing and applied machine learning.
+(1) Computational approaches to security and crime problems
+
+With more data and a changing landscape of problems, computational techniques are an exciting way to look at existing and novel crime and security problems. I’m especially interested in emerging crime problems and understanding them through complex text data with techniques from natural language processing and applied machine learning.
 
 Ideas I’m working on:
 
 - examining new (crime) problems on the Internet through text (e.g., online forums)
 - hybrid decision-making in uncertain, large-volume environments
 - keyboard dynamics as a biometric identifier
+- trajectories of language use
 
-(2) Methods of behavioural data science - Before computational methods can help us understand problems better (or at scale), we need suitable methods and tested assumptions. I’m particularly interested in building robust methods to learn about human behaviour from text and web data. Aside from natural language processing, I’m here also involved in the tool development for computational social science, including applied machine learning.
+(2) Methods of behavioural data science 
+
+Before computational methods can help us understand problems better (or at scale), we need suitable methods and tested assumptions. I’m particularly interested in building robust methods to learn about human behaviour from text and web data. Aside from natural language processing, I’m here also involved in the tool development for computational social science, including applied machine learning.
 
 Ideas I'm working on:
 
@@ -86,8 +91,8 @@ We are running a bi-weekly reading group on topics around future crime (incl. da
 
 ### 2019-2020
 
-- SECU0050 Data Science for crime scientists (3rd year, BSc in Crime Science, UCL)
-- SECU0057 Applied Data Science (MSc in Crime Science, UCL)
+- SECU0050 Data Science for crime scientists (undergraduate, 3rd year, BSc in Crime Science, UCL) - [All materials are on GitHub](https://github.com/ben-aaron188/UCL_SECU0050) - the module handbook as pdf is available [here](https://github.com/ben-aaron188/UCL_SECU0050/blob/master/UCL_SECU0050_module_outline.pdf)
+- SECU0057 Applied Data Science (postgraduate, MSc in Crime Science, UCL) - [All materials are on GitHub](https://github.com/ben-aaron188/UCL_SECU0057) - the module handbook as pdf is available [here](https://github.com/ben-aaron188/UCL_SECU0057/blob/master/UCL_SECU0057_module_outline.pdf)
 
 ### 2018-2019
 
