@@ -1,0 +1,72 @@
+President,Fiscal Year,Petitions Pending,Petitions Received,Petitions Granted,Pardons,Commutations,Respites,Remissions,Petitions Denied,Petitions Closed Without Presidential Action,Petitions Denied or Closed Without Presidential Action
+William McKinley,1900,68,677,220,129,73,4,14,131,332,
+William McKinley,1901,45,796,226,162,50,2,12,117,448,
+Theodore Roosevelt,1902,50,738,134,92,36,0,6,181,366,
+Theodore Roosevelt,1903,107,543,134,70,57,0,7,131,316,
+Theodore Roosevelt,1904,69,585,162,87,62,2,11,122,278,
+Theodore Roosevelt,1905,90,574,165,109,52,0,4,119,278,
+Theodore Roosevelt,1906,76,627,154,96,52,1,5,124,363,
+Theodore Roosevelt,1907,81,523,115,71,30,4,10,116,272,
+Theodore Roosevelt,1908,49,460,84,53,22,1,8,56,235,
+Theodore Roosevelt,1909,134,463,151,90,52,1,8,79,220,
+William H. Taft,1910,147,645,255,111,119,1,24,139,290,
+William H. Taft,1911,108,393,162,82,64,2,14,84,163,
+William H. Taft,1912,92,412,206,108,78,2,18,55,173,
+William H. Taft,1913,70,661,208,82,100,10,16,75,324,
+Woodrow Wilson,1914,124,664,249,104,116,1,28,102,345,
+Woodrow Wilson,1915,92,662,186,78,86,12,10,101,309,
+Woodrow Wilson,1916,158,889,269,116,107,30,16,109,436,
+Woodrow Wilson,1917,233,938,328,182,96,43,7,31,510,
+Woodrow Wilson,1918,302,934,256,119,94,29,14,140,640,
+Woodrow Wilson,1919,200,1115,415,116,262,19,18,50,576,
+Woodrow Wilson,1920,274,1028,639,198,341,57,43,25,440,
+Woodrow Wilson,1921,198,1224,485,174,264,35,12,156,578,
+Warren Harding,1922,208,1144,390,162,187,28,13,182,536,
+Warren Harding,1923,244,1317,383,138,199,20,26,306,758,
+Calvin Coolidge,1924,114,1515,247,105,120,11,11,264,897,
+Calvin Coolidge,1925,221,1568,289,182,96,0,11,266,1017,
+Calvin Coolidge,1926,227,1209,244,127,96,2,19,241,755,
+Calvin Coolidge,1927,196,949,221,89,110,2,20,161,633,
+Calvin Coolidge,1928,130,1261,322,110,172,4,36,119,706,
+Calvin Coolidge,1929,244,1544,368,160,179,0,29,148,1082,
+Herbert Hoover,1930,190,1141,221,121,85,1,14,129,783,
+Herbert Hoover,1931,198,1195,308,163,114,0,31,113,785,
+Herbert Hoover,1932,187,1203,365,189,137,0,39,115,699,
+Herbert Hoover,1933,211,1235,304,199,69,0,36,60,686,
+Franklin D. Roosevelt,1934,397,1061,204,114,53,2,35,192,662,
+Franklin D. Roosevelt,1935,400,1407,311,211,36,3,61,184,757,
+Franklin D. Roosevelt,1936,555,944,390,154,183,4,49,325,455,
+Franklin D. Roosevelt,1937,329,1080,291,192,37,3,59,137,653,
+Franklin D. Roosevelt,1938,328,1287,339,219,28,0,92,160,797,
+Franklin D. Roosevelt,1939,319,1215,244,172,32,0,40,139,729,
+Franklin D. Roosevelt,1940,422,1293,313,242,31,0,40,104,791,
+Franklin D. Roosevelt,1941,510,1367,211,178,15,0,18,74,910,
+Franklin D. Roosevelt,1942,682,1272,377,305,21,0,51,55,599,
+Franklin D. Roosevelt,1943,923,1019,359,332,17,0,10,55,748,
+Franklin D. Roosevelt,1944,780,781,444,424,10,0,10,60,586,
+Franklin D. Roosevelt,1945,471,815,313,276,25,0,12,29,506,
+Harry S. Truman,1945,479,201,109,98,9,,2,,,133
+Harry S. Truman,1946,438,977,310,279,28,,3,,,570
+Harry S. Truman,1947,535,779,323,308,13,,2,,,483
+Harry S. Truman,1948,508,657,193,178,15,,0,,,411
+Harry S. Truman,1949,561,638,196,178,17,,1,,,313
+Harry S. Truman,1950,690,504,417,400,14,,3,,,338
+Harry S. Truman,1951,439,467,200,189,10,,1,,,228
+Harry S. Truman,1952,478,477,198,192,6,,0,,,214
+Harry S. Truman,1953,543,330,98,91,6,,1,,,197
+Dwight D. Eisenhower,1953,578,269,7,6,1,,0,,,159
+Dwight D. Eisenhower,1954,681,461,62,55,7,,0,,,348
+Dwight D. Eisenhower,1955,732,662,63,59,4,,0,,,684
+Dwight D. Eisenhower,1956,647,585,201,192,9,,0,,,568
+Dwight D. Eisenhower,1957,463,585,236,232,4,,0,,,443
+Dwight D. Eisenhower,1958,369,406,104,98,6,,0,,,302
+Dwight D. Eisenhower,1959,369,434,119,117,2,,0,,,286
+Dwight D. Eisenhower,1960,398,437,154,149,5,,0,,,244
+Dwight D. Eisenhower,1961,437,261,211,202,9,,0,,,145
+John F. Kennedy,1961,342,220,33,24,9,,0,,,121
+John F. Kennedy,1962,408,595,182,166,16,,0,,,315
+John F. Kennedy,1963,506,592,178,133,43,,2,,,233
+John F. Kennedy,1964,687,342,182,149,32,,1,,,162
+Lyndon B. Johnson,1964,685,579,206,166,40,,0,,,275
+Lyndon B. Johnson,1965,783,1008,275,195,80,,0,,,569
+Lyndon B. Johnson,1966,947,865,445,364,80,,1,,,726
