@@ -91,8 +91,8 @@ We are running a bi-weekly reading group on topics around future crime (incl. da
 
 ### 2019-2020
 
-- SECU0050 Data Science for crime scientists (undergraduate, 3rd year, BSc in Crime Science, UCL) - [All materials are on GitHub](https://github.com/ben-aaron188/UCL_SECU0050) - the module handbook as pdf is available [here](https://github.com/ben-aaron188/UCL_SECU0050/blob/master/UCL_SECU0050_module_outline.pdf)
-- SECU0057 Applied Data Science (postgraduate, MSc in Crime Science, UCL) - [All materials are on GitHub](https://github.com/ben-aaron188/UCL_SECU0057) - the module handbook as pdf is available [here](https://github.com/ben-aaron188/UCL_SECU0057/blob/master/UCL_SECU0057_module_outline.pdf)
+- SECU0050 Data Science for crime scientists (undergraduate, 3rd year, BSc in Crime Science, UCL) // [materials on GitHub](https://github.com/ben-aaron188/UCL_SECU0050) + [module handbook](https://github.com/ben-aaron188/UCL_SECU0050/blob/master/UCL_SECU0050_module_outline.pdf)
+- SECU0057 Applied Data Science (postgraduate, MSc in Crime Science, UCL) - [materials on GitHub](https://github.com/ben-aaron188/UCL_SECU0057) + [module handbook](https://github.com/ben-aaron188/UCL_SECU0057/blob/master/UCL_SECU0057_module_outline.pdf)
 
 ### 2018-2019
 
