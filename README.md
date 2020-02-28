@@ -19,7 +19,7 @@ Before computational methods can help us understand problems better (or at scale
 
 Ideas I'm working on:
 
-- automated, learning-based text anonymisation [(SAGE Ocean concept grant winner)](https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner)
+- automated, learning-based text anonymisation [(SAGE Ocean concept grant winner)](https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner), [(more info)](https://ocean.sagepub.com/concept-grants)
 - examining the fundamental assumptions of behavioural data science (e.g. the cognition-language-behaviour nexus)
 - sample size estimation for machine learning in the social and behavioural sciences
 - researchers' degrees of freedom in natural language processing studies
