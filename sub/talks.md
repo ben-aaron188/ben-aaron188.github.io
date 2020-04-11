@@ -13,6 +13,7 @@
 
 ### Media
 
+- Video interviews on our SAGE tex anonymization grant on [YouTube](https://www.youtube.com/watch?v=T9pRRn2DrMY)
 - Coverage of our drill music paper in the [New Scientist](https://www.newscientist.com/article/2223723-drill-music-with-positive-lyrics-is-more-popular-than-negative-songs/) and [BBC Newsroom](https://www.bbc.co.uk/sounds/play/w172wygv5wf8qjf), [UCL News](https://www.ucl.ac.uk/news/headlines/2019/nov/positive-drill-music-receives-more-audience-engagement)
 - Interview re. large-scale deception detection [Folia Magazine (Dutch)](https://www.folia.nl/wetenschap/126359/dialogen-met-chatbots-kunnen-helpen-in-strijd-tegen-terrorisme)
 -	International coverage of comments on AI lie detection for EU border control in [BBC Newshour](https://www.bbc.co.uk/sounds/play/w172w25gdks006r) (from 19 mins 55 secs), [dw.com](https://www.dw.com/de/eu-testet-l%C3%BCgendetektor-an-au%C3%9Fengrenzen/a-46195158), [The Guardian](https://www.theguardian.com/world/2018/nov/02/eu-border-lie-detection-system-criticised-as-pseudoscience), [Süddeutsche Zeitung (Germany)](https://www.sueddeutsche.de/digital/grenze-kuenstliche-intelligenz-software-iborderctrl-1.4196243), [Volkskrant (The Netherlands)](https://www.volkskrant.nl/nieuws-achtergrond/eu-zet-omstreden-ai-leugendetector-in-bij-grenscontrole~b169bb03/), [New Scientist](https://www.newscientist.com/article/mg24032023-400-an-ai-lie-detector-will-interrogate-travellers-at-some-eu-borders/), [UCL News](https://www.ucl.ac.uk/news/headlines2/November-2018/021118-EU-border-pseudoscience), Nov. 2018

@@ -1,28 +1,30 @@
-I am an Assistant Professor (Lecturer) in Data Science at the [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and the [Dawes Centre for Future Crime](http://www.ucl.ac.uk/jill-dando-institute/dawes-future-crime) at University College London. I also hold a guest affiliation at the University of Amsterdam's [Department of Psychology](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/psychology/psychology.html).
+I am an Assistant Professor in Data Science at the [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and the [Dawes Centre for Future Crime](http://www.ucl.ac.uk/jill-dando-institute/dawes-future-crime) at University College London. I also hold a guest affiliation at the University of Amsterdam's [Department of Psychology](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/psychology/psychology.html).
 
-My research is about two areas:
+My research currently falls into two areas:
 
 (1) Computational approaches to security and crime problems
 
-With more data and a changing landscape of problems, computational techniques are an exciting way to look at existing and novel crime and security problems. I’m especially interested in emerging crime problems and understanding them through complex text data with techniques from natural language processing and applied machine learning.
+With more data and a changing landscape of problems, computational techniques are an exciting way to look at existing and novel crime and security problems. I’m especially interested in emerging crime problems and understanding them through complex text data. 
+
+Techniques used: natural language processing, applied machine learning.
 
 Ideas I’m working on:
 
 - examining new (crime) problems on the Internet through text (e.g., online forums)
-- hybrid decision-making in uncertain, large-volume environments
+- dynamic language use (e.g. linguistic trajectories within persons/texts/forums) 
 - keyboard dynamics as a biometric identifier
-- trajectories of language use
+
 
 (2) Methods of behavioural data science 
 
-Before computational methods can help us understand problems better (or at scale), we need suitable methods and tested assumptions. I’m particularly interested in building robust methods to learn about human behaviour from text and web data. Aside from natural language processing, I’m here also involved in the tool development for computational social science, including applied machine learning.
+Before computational methods can help us understand problems better (or at scale), we need suitable methods and tested assumptions. I’m particularly interested in building robust methods to learn about human behaviour from text and web data. Techniques: behavioural experimental research, statistical modelling, text mining.
 
 Ideas I'm working on:
 
-- automated, learning-based text anonymisation [(SAGE Ocean concept grant winner)](https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner), [(more info)](https://ocean.sagepub.com/concept-grants)
 - examining the fundamental assumptions of behavioural data science (e.g. the cognition-language-behaviour nexus)
+- automated, learning-based text anonymisation [(SAGE Ocean concept grant winner)](https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner), [(more info)](https://ocean.sagepub.com/concept-grants), [(interviews on YouTube)](https://www.youtube.com/watch?v=T9pRRn2DrMY)
 - sample size estimation for machine learning in the social and behavioural sciences
-- researchers' degrees of freedom in natural language processing studies
+<!--- researchers' degrees of freedom in natural language processing studies-->
 
 _For recent talks/workshops/media coverage, see [here](./sub/talks.md)_
 
@@ -31,6 +33,34 @@ _Some of the ongoing and past projects were funded by [SAGE](https://uk.sagepub.
 ## Research group
 
 ### PhD students
+
+#### Isabelle van der Vegt [www](http://isabellevdv.net/)
+
+- Background: Computational Linguistics, Psychology
+- Topic: Understanding and predicting threats of violence using computational linguistics
+- Supervised with Prof Paul Gill
+- Funded by Prof P Gill's ERC grant 'GRIEVANCE'
+
+#### Felix Soldner
+
+- Background: Psychology, Brain & Cognitive Sciences
+- Topic: Detecting and mitigating online consumer fraud
+- Supervised with Prof Shane Johnson
+- Funded by: UCL Dawes Centre for Future Crime
+
+#### Maximilian Mozes [www](http://mmozes.net/)
+
+- Background: Computer Science, Natural Language Processing
+- Topic: Adversarial perturbations in natural language processing
+- Supervised with Prof Lewis Griffin
+- Funded by: UCL Dawes Centre for Future Crime
+
+#### Daniel Hammocks [www](https://danielhammocks.uk/)
+
+- Background: Mathematics, Data Science
+- Topic: Detecting emerging crimes using data science techniques
+- Supervised with Prof Kate Bowers
+- Funded by: EPSRC
 
 #### Josh Kamps
 
@@ -46,33 +76,14 @@ _Some of the ongoing and past projects were funded by [SAGE](https://uk.sagepub.
 - Supervised with Dr Toby Davies
 - Funded by: UCL Cybercrime Centre for Doctoral Training
 
-#### Maximilian Mozes [www](http://mmozes.net/)
 
-- Background: Computer Science, Natural Language Processing
-- Topic: Adversarial perturbations in natural language processing
-- Supervised with Prof. Lewis Griffin
-- Funded by: UCL Dawes Centre for Future Crime
+#### Sergi Bray
 
-#### Felix Soldner
+- Background: Computer Science, Machine Learning
+- Topic: Behavioural and cognitive aspects of deep fakes perception
+- Supervised with Prof Shane Johnson
+- Funded by: UCL Cybercrime Centre for Doctoral Training
 
-- Background: Psychology, Brain & Cognitive Sciences
-- Topic: Detecting and mitigating online consumer fraud
-- Supervised with Prof. Shane Johnson
-- Funded by: UCL Dawes Centre for Future Crime
-
-#### Daniel Hammocks [www](https://danielhammocks.uk/)
-
-- Background: Mathematics, Data Science
-- Topic: Detecting emerging crimes using data science techniques
-- Supervised with Prof. Kate Bowers
-- Funded by: EPSRC
-
-#### Isabelle van der Vegt [www](http://isabellevdv.net/)
-
-- Background: Linguistics, Psychology
-- Topic: Understanding and predicting threats of violence using computational linguistics
-- Supervised with Prof. Paul Gill (UCL)
-- Funded by Prof P Gill's ERC grant 'GRIEVANCE'
 
 ### Dawes reading group
 
