@@ -1,5 +1,23 @@
 I am an Assistant Professor in Data Science at the [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and the [Dawes Centre for Future Crime](http://www.ucl.ac.uk/jill-dando-institute/dawes-future-crime) at University College London. I also hold a guest affiliation at the University of Amsterdam's [Department of Psychology](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/psychology/psychology.html).
 
+------
+
+### News
+
+- _4/2020_ - Paper on gender differences in emotional responses to COVID-19: [http://arxiv.org/abs/2004.08202](http://arxiv.org/abs/2004.08202).
+- _4/2020_ - Media coverage of our drill music work in [Discover Magazine](https://www.discovermagazine.com/the-sciences/the-curious-case-of-drill-rap-and-its-link-to-violent-crime)
+- _4/2020_ - Paper on detecting adversarial examples in NLP (PhD work by M. Mozes): [http://arxiv.org/abs/2004.05887](http://arxiv.org/abs/2004.05887).
+- _4/2020_ - Follow-up paper on the drill rap - violence issue: [http://arxiv.org/abs/2004.04598](http://arxiv.org/abs/2004.04598).
+- _4/2020_ - New paper introducing a high-quality dataset on emotions around COVID-19: [http://arxiv.org/abs/2004.04225](http://arxiv.org/abs/2004.04225)
+- _3/2020_ - Paper on human-machine integrated deception detection: [http://arxiv.org/abs/2003.13316](http://arxiv.org/abs/2003.13316).
+- _2/2020_ - Paper on [the temporal evolution of a far-right forum](https://link.springer.com/article/10.1007/s42001-020-00064-x) in the Journal of Computational Social Science 
+- _1/2020_ - Paper on using a [smartphone app for RT-based deception detection](https://www.collabra.org/article/10.1525/collabra.255/) in Collabra.
+- _1/2020_ - Paper on [human trafficking in online ads](https://link.springer.com/article/10.1007/s12117-019-09376-5) in Trends in Organized Crime.
+
+
+
+-----
+
 My research currently falls into two areas:
 
 (1) Computational approaches to security and crime problems
@@ -22,6 +40,7 @@ Before computational methods can help us understand problems better (or at scale
 Ideas I'm working on:
 
 - examining the fundamental assumptions of behavioural data science (e.g. the cognition-language-behaviour nexus)
+- inferring behaviour and cognition from text data
 - automated, learning-based text anonymisation [(SAGE Ocean concept grant winner)](https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner), [(more info)](https://ocean.sagepub.com/concept-grants), [(interviews on YouTube)](https://www.youtube.com/watch?v=T9pRRn2DrMY)
 - sample size estimation for machine learning in the social and behavioural sciences
 <!--- researchers' degrees of freedom in natural language processing studies-->
