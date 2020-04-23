@@ -45,9 +45,14 @@ Ideas I'm working on:
 - sample size estimation for machine learning in the social and behavioural sciences
 <!--- researchers' degrees of freedom in natural language processing studies-->
 
-_For recent talks/workshops/media coverage, see [here](./sub/talks.md)_
+_For recent talks/workshops, see [here](./sub/talks.md)_
 
 _Some of the ongoing and past projects were funded by [SAGE](https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner), [RUSI/GIFCT](https://rusi.org/rusi-news/new-partnership-global-internet-forum-counter-terrorism), [The Dutch Ministry of Security and Justice](https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid)_
+
+### Media
+
+[Disover Magazine](https://www.discovermagazine.com/the-sciences/the-curious-case-of-drill-rap-and-its-link-to-violent-crime), [YouTube SAGE](https://www.youtube.com/watch?v=T9pRRn2DrMY),
+[New Scientist I](https://www.newscientist.com/article/2223723-drill-music-with-positive-lyrics-is-more-popular-than-negative-songs/), [BBC Newsroom](https://www.bbc.co.uk/sounds/play/w172wygv5wf8qjf), [The Times](https://www.thetimes.co.uk/article/met-police-and-scientists-developing-way-to-decipher-voilent-threats-in-drill-videos-fzc6t9rlq), [UCL News](https://www.ucl.ac.uk/news/headlines/2019/nov/positive-drill-music-receives-more-audience-engagement), [The Guardian](https://www.theguardian.com/world/2018/nov/02/eu-border-lie-detection-system-criticised-as-pseudoscience), [Deutsche Welle](https://www.dw.com/de/eu-testet-l%C3%BCgendetektor-an-au%C3%9Fengrenzen/a-46195158), [Süddeutsche Zeitung](https://www.sueddeutsche.de/digital/grenze-kuenstliche-intelligenz-software-iborderctrl-1.4196243), [Volkskrant I (Dutch)](https://www.volkskrant.nl/nieuws-achtergrond/eu-zet-omstreden-ai-leugendetector-in-bij-grenscontrole~b169bb03/), [Folia Magazine (Dutch)](https://www.folia.nl/wetenschap/126359/dialogen-met-chatbots-kunnen-helpen-in-strijd-tegen-terrorisme), [New Scientist II](https://www.newscientist.com/article/mg24032023-400-an-ai-lie-detector-will-interrogate-travellers-at-some-eu-borders/), [Volkskrant II (Dutch)](https://www.volkskrant.nl/wetenschap/een-onzindetector-voor-het-web-dat-is-nog-niet-zo-makkelijk~be927d1d/), [Radio Swammerdam, Amsterdam FM (Dutch)](http://www.radioswammerdam.nl/op-het-slechte-pad-i-leugentje-om-je-eigen-bestwil/), [Psychology Today](https://www.psychologytoday.com/blog/brainstorm/201608/what-is-the-face-truth), [APA News](http://www.apa.org/news/press/releases/2016/06/judge-truthfulness.aspx)
 
 ## Research group
 
@@ -119,7 +124,7 @@ We are running a bi-weekly reading group on topics around future crime (incl. da
 
 ## Teaching
 
-### 2019-2020
+<!--### 2019-2020
 
 - SECU0050 Data Science for crime scientists (undergraduate, 3rd year, BSc in Crime Science, UCL) // [materials on GitHub](https://github.com/ben-aaron188/UCL_SECU0050) + [module handbook](https://github.com/ben-aaron188/UCL_SECU0050/blob/master/UCL_SECU0050_module_outline.pdf)
 - SECU0057 Applied Data Science (postgraduate, MSc in Crime Science, UCL) - [materials on GitHub](https://github.com/ben-aaron188/UCL_SECU0057) + [module handbook](https://github.com/ben-aaron188/UCL_SECU0057/blob/master/UCL_SECU0057_module_outline.pdf)
@@ -144,6 +149,24 @@ We are running a bi-weekly reading group on topics around future crime (incl. da
 
 - Deception and Lie Detection, MSc module, Department of Psychology, University of Amsterdam, Sem. 1 2015/2016
 )
+-->
+
+- 2019/2020
+    - SECU0050, Data Science for Crime Scientists (BSc), UCL, [Material on GitHub](https://github.com/ben-aaron188/UCL_SECU0050)
+    - SECU0057, Applied Data Science (MSc), UCL, [Material on GitHub](https://github.com/ben-aaron188/UCL_SECU0057)
+- 2018/2019
+    - SECU0013, Probability, Statistics & Modelling 2 (BSc), UCL, [Material on GitHub](https://github.com/ben-aaron188/ucl_psm2_20182019)
+    - SECU0050, Data Science for Crime Scientists (BSc), UCL, [Material on GitHub](https://github.com/ben-aaron188/ucl_aca_20182019)
+    - Crime Science (BSc honours module), University of Amsterdam [(study guide)](https://www.uva.nl/en/programmes/honours-modules-iis/honoursmodule-crime-science/honoursmodule-crime-science.html?1549646204808)
+- 2017/2018
+    - Crime Science [(open UvA module)](https://www.uva.nl/en/programmes/open-programmes-iis/crime-science/crime-science.html), University of Amsterdam 
+    - Crime Science (BSc honours module), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/40888)
+    - Deception and Lie Detection (MSc), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/41168)
+- 2016/2017
+    - Deception and Lie Detection (MSc), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2016-2017-en/search-course/course/28244)
+- 2015/2016
+    - Deception and Lie Detection (MSc), University of Amsterdam
+
 
 ## Software
 
@@ -174,6 +197,7 @@ We are running a bi-weekly reading group on topics around future crime (incl. da
 
 Links:
 
+- [UCL spotlight](https://www.ucl.ac.uk/news/2020/apr/spotlight-dr-bennett-kleinberg)
 - [Code and software on GitHub](https://github.com/ben-aaron188)
 - [Google Scholar for all publications](https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en)
 - [University of Amsterdam profile](http://www.uva.nl/profiel/k/l/b.a.r.kleinberg/b.a.r.kleinberg.html)
@@ -183,15 +207,15 @@ Links:
 - [Stackoverflow profile](https://stackoverflow.com/users/3421089/ben-aaron)
 - [LinkedIn profile](https://nl.linkedin.com/in/barkleinberg)
 
-Review service
+### Review service
 
-- Scientific Reports (Nature), Memory & Cognition, Applied Cognitive Psychology, Computers in Human Behavior, Acta Psychologica, Personality and Individual Differences, Current Psychology, Cognitive Research: Principles and Implications, Crime Science  
+Scientific Reports (Nature); Computers in Human Behavior; Affective Computing & Intelligent Interaction conference proceedings; Information; ACL 2020; AACL-IJCNLP 2020; Memory & Cognition; Applied Cognitive Psychology;  Crime Science; Acta Psychologica; Personality and Individual Differences; Current Psychology; Cognitive Research: Principles and Implications; EuroCSS 2019; Computers & Security; Psychology, Crime & Law; Legal & Criminological Psychology.  
 
 ## Publications
 
-All publications can be found on [my Google Scholar page](https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en).
+All publications can be found on [my Google Scholar page](https://scholar.google.de/citations?hl=en&user=Ms2d7OsAAAAJ&view_op=list_works&sortby=pubdate).
 
-_A list updated in Oct 2019 is available [here](./sub/publications.md)_
+_A list updated in April 2020 is available [here](./sub/publications.md)_
 
 -----
 #### Contact

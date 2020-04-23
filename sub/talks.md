@@ -1,5 +1,3 @@
-## Talks, workshop and media
-
 ### Recent talks and workshops
 
 - Data Science for Security (guest lecture Security Technologies, UCL) - [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/sectech/sectech_guest_lecture_bkleinberg_v2.html#/)
@@ -11,7 +9,7 @@
 - Are cryptocurrencies the future of fraud? (talk at the Policing 2.0 conference in London) - [slides](https://raw.githack.com/ben-aaron188/ben-aaron188.github.io/master/talks/2019/policing_2_0/crypto_bkleinberg.html#/section)
 - Workshop on Linguistic Temporal Trajectory Analysis in R (EuroCSS 2018, Cologne) - [repo](https://bkleinberg.net/ltta_workshop/) (with Isabelle van der Vegt and Maximilian Mozes)
 
-### Media
+<!--### Media
 
 - Video interviews on our SAGE tex anonymization grant on [YouTube](https://www.youtube.com/watch?v=T9pRRn2DrMY)
 - Coverage of our drill music paper in the [New Scientist](https://www.newscientist.com/article/2223723-drill-music-with-positive-lyrics-is-more-popular-than-negative-songs/) and [BBC Newsroom](https://www.bbc.co.uk/sounds/play/w172wygv5wf8qjf), [UCL News](https://www.ucl.ac.uk/news/headlines/2019/nov/positive-drill-music-receives-more-audience-engagement)
@@ -22,3 +20,4 @@
 - Radio interview on AI and deception detection with [BNR News Radio](https://www.bnr.nl/player/audio/10083380/10345415) (6 June 2018) (Dutch) (at 1:49:09)
 - Podcast on deception detection with [Radio Swammerdam](http://www.radioswammerdam.nl/archive/op-het-slechte-pad-i-leugentje-om-je-eigen-bestwil/), Amsterdam FM, Jan. 2017 (Dutch)
 - Interview/comment on the veiling study with [Psychology Today](https://www.psychologytoday.com/blog/brainstorm/201608/what-is-the-face-truth) and covered by the [APA](http://www.apa.org/news/press/releases/2016/06/judge-truthfulness.aspx)
+-->
