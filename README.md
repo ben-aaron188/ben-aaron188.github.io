@@ -58,28 +58,28 @@ _Some of the ongoing and past projects were funded by [SAGE](https://uk.sagepub.
 
 ### PhD students
 
-#### Isabelle van der Vegt [www](http://isabellevdv.net/)
+#### Isabelle van der Vegt [(website)](http://isabellevdv.net/)
 
 - Background: Computational Linguistics, Psychology
 - Topic: Understanding and predicting threats of violence using computational linguistics
 - Supervised with Prof Paul Gill
 - Funded by Prof P Gill's ERC grant 'GRIEVANCE'
 
-#### Felix Soldner
+#### Felix Soldner [(website)](http://fsoldner.net/)
 
 - Background: Psychology, Brain & Cognitive Sciences
 - Topic: Detecting and mitigating online consumer fraud
 - Supervised with Prof Shane Johnson
 - Funded by: UCL Dawes Centre for Future Crime
 
-#### Maximilian Mozes [www](http://mmozes.net/)
+#### Maximilian Mozes [(website)](http://mmozes.net/)
 
 - Background: Computer Science, Natural Language Processing
 - Topic: Adversarial perturbations in natural language processing
 - Supervised with Prof Lewis Griffin
 - Funded by: UCL Dawes Centre for Future Crime
 
-#### Daniel Hammocks [www](https://danielhammocks.uk/)
+#### Daniel Hammocks [(website)](https://danielhammocks.uk/)
 
 - Background: Mathematics, Data Science
 - Topic: Detecting emerging crimes using data science techniques
