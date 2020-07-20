@@ -4,6 +4,7 @@ I am an Assistant Professor in Data Science at the [Department of Security and C
 
 ### News
 
+- _7/2020_ - Our paper on gender differences in emotional responses will appear at SocInfo 2020
 - _6/2020_ - Paper on experimental emotion manipulation for computational linguistics: [https://arxiv.org/abs/2006.08952](https://arxiv.org/abs/2006.08952)
 - _5/2020_ - Media coverage (in French) of our drill music work on [Ulyces](https://www.ulyces.co/denis-hadzovic/drill-uk-des-roulements-de-caisses-claires-et-des-meurtres-au-couteau/)
 - _5/2020_ - Media coverage of our COVID-19 study in [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-8316235/Men-worry-economy-COVID-19-women-concerned-loved-ones.html) and [UCL News](https://www.ucl.ac.uk/news/2020/may/how-men-and-womens-anxieties-differ-over-covid-19)
@@ -212,7 +213,7 @@ Links:
 
 ### Review service
 
-Scientific Reports (Nature); Psychological Science; Computers in Human Behavior; Plos One; Perspectives on Psychological Science; Affective Computing & Intelligent Interaction conference proceedings; Information; ACL 2020; AACL-IJCNLP 2020; Memory & Cognition; Applied Cognitive Psychology;  Crime Science; Acta Psychologica; Personality and Individual Differences; Current Psychology; Cognitive Research: Principles and Implications; EuroCSS 2019; Computers & Security; Psychology, Crime & Law; Legal & Criminological Psychology.  
+Proceedings of the National Academy of Sciences (PNAS); 54th Hawaii International Conference on System Sciences (HICSS); Scientific Reports (Nature); Psychological Science; Computers in Human Behavior; Plos One; Perspectives on Psychological Science; Affective Computing & Intelligent Interaction conference proceedings; Information; ACL 2020; AACL-IJCNLP 2020; Memory & Cognition; Applied Cognitive Psychology;  Crime Science; Acta Psychologica; Personality and Individual Differences; Current Psychology; Cognitive Research: Principles and Implications; EuroCSS 2019; Computers & Security; Psychology, Crime & Law; Legal & Criminological Psychology.  
 
 ## Publications
 
