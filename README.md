@@ -4,6 +4,7 @@ I am an Assistant Professor in Data Science at the [Department of Security and C
 
 ### News
 
+- _9/2020_ - Paper on change in linguisic change as a response to the Unite the Right event: [Online influence, offline violence](https://link.springer.com/article/10.1007/s42001-020-00080-x)
 - _9/2020_ - Tool for dictionary-based analysis of threatening language use - the GRIEVANCE dictionary: [https://arxiv.org/pdf/2009.04798.pdf](https://arxiv.org/pdf/2009.04798.pdf)
 - _9/2020_ - Paper on predicting author characteristics from abusive (vs neutral) language: [https://arxiv.org/pdf/2009.01126.pdf](https://arxiv.org/pdf/2009.01126.pdf)
 - _7/2020_ - Our paper on gender differences in emotional responses will appear at SocInfo 2020
