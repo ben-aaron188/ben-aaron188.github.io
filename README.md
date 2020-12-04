@@ -17,7 +17,7 @@ I am an Assistant Professor in Data Science at the [Department of Security and C
 - _4/2020_ - Follow-up paper on the drill rap - violence issue: [http://arxiv.org/abs/2004.04598](http://arxiv.org/abs/2004.04598).
 - _4/2020_ - New paper introducing a high-quality dataset on emotions around COVID-19: [http://arxiv.org/abs/2004.04225](http://arxiv.org/abs/2004.04225)
 - _3/2020_ - Paper on human-machine integrated deception detection: [http://arxiv.org/abs/2003.13316](http://arxiv.org/abs/2003.13316).
-- _2/2020_ - Paper on [the temporal evolution of a far-right forum](https://link.springer.com/article/10.1007/s42001-020-00064-x) in the Journal of Computational Social Science 
+- _2/2020_ - Paper on [the temporal evolution of a far-right forum](https://link.springer.com/article/10.1007/s42001-020-00064-x) in the Journal of Computational Social Science
 - _1/2020_ - Paper on using a [smartphone app for RT-based deception detection](https://www.collabra.org/article/10.1525/collabra.255/) in Collabra.
 - _1/2020_ - Paper on [human trafficking in online ads](https://link.springer.com/article/10.1007/s12117-019-09376-5) in Trends in Organized Crime.
 
@@ -29,18 +29,18 @@ My research currently falls into two areas:
 
 (1) Computational approaches to security and crime problems
 
-With more data and a changing landscape of problems, computational techniques are an exciting way to look at existing and novel crime and security problems. I’m especially interested in emerging crime problems and understanding them through complex text data. 
+With more data and a changing landscape of problems, computational techniques are an exciting way to look at existing and novel crime and security problems. I’m especially interested in emerging crime problems and understanding them through complex text data.
 
 Techniques used: natural language processing, applied machine learning.
 
 Ideas I’m working on:
 
 - examining new (crime) problems on the Internet through text (e.g., online forums)
-- dynamic language use (e.g. linguistic trajectories within persons/texts/forums) 
+- dynamic language use (e.g. linguistic trajectories within persons/texts/forums)
 - keyboard dynamics as a biometric identifier
 
 
-(2) Methods of behavioural data science 
+(2) Methods of behavioural data science
 
 Before computational methods can help us understand problems better (or at scale), we need suitable methods and tested assumptions. I’m particularly interested in building robust methods to learn about human behaviour from text and web data. Techniques: behavioural experimental research, statistical modelling, text mining.
 
@@ -166,7 +166,7 @@ We are running a bi-weekly reading group on topics around future crime (incl. da
     - SECU0050, Data Science for Crime Scientists (BSc), UCL, [Material on GitHub](https://github.com/ben-aaron188/ucl_aca_20182019)
     - Crime Science (BSc honours module), University of Amsterdam [(study guide)](https://www.uva.nl/en/programmes/honours-modules-iis/honoursmodule-crime-science/honoursmodule-crime-science.html?1549646204808)
 - 2017/2018
-    - Crime Science [(open UvA module)](https://www.uva.nl/en/programmes/open-programmes-iis/crime-science/crime-science.html), University of Amsterdam 
+    - Crime Science [(open UvA module)](https://www.uva.nl/en/programmes/open-programmes-iis/crime-science/crime-science.html), University of Amsterdam
     - Crime Science (BSc honours module), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/40888)
     - Deception and Lie Detection (MSc), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/41168)
 - 2016/2017
