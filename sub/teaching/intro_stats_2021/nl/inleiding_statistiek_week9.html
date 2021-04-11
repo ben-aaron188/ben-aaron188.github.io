@@ -489,7 +489,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <h2>Gemeenschappelijke kenmerken</h2>
 <ul>
 <li>alle testen hebben dezelfde structuur</li>
-<li><span class="math inline">\(test\ statistiek = \frac{verschil in gemiddelden}{standaardfout}\)</span></li>
+<li><span class="math inline">\(test\ statistiek = \frac{verschil\ in\ gemiddelden}{standaardfout}\)</span></li>
 <li>dus: kleinere <span class="math inline">\(SE\)</span> = grotere test statistiek</li>
 </ul>
 </section>
@@ -618,8 +618,8 @@ document.getElementsByTagName('head')[0].appendChild(style);
 </section>
 <section id="effectgrootte-voor-de-z-test" class="slide level2">
 <h2>Effectgrootte voor de z-test</h2>
-<p>Scenario: voor <span class="math inline">\(M=100\)</span> en <span class="math inline">\(Sigma =15\)</span> van een normaal verdeelde IQ score, willen we weten of het waarnemen van <span class="math inline">\(M=110\)</span> statistisch significant is voor <span class="math inline">\(n=30\)</span> [<span class="math inline">\(n=300\)</span>].</p>
-<p>We weten dat <span class="math inline">\(z=\frac{m-\mu}{\sigma_M}\)</span> and <span class="math inline">\(\sigma_M = \frac{\sigma}{\sqrt{n}}\)</span></p>
+<p>Scenario: voor <span class="math inline">\(M=100\)</span> en <span class="math inline">\(\sigma =15\)</span> van een normaal verdeelde IQ score, willen we weten of het waarnemen van <span class="math inline">\(M=110\)</span> statistisch significant is voor <span class="math inline">\(n=30\)</span> [<span class="math inline">\(n=300\)</span>].</p>
+<p>We weten dat <span class="math inline">\(z=\frac{M-\mu}{\sigma_M}\)</span> and <span class="math inline">\(\sigma_M = \frac{\sigma}{\sqrt{n}}\)</span></p>
 </section>
 <section id="z-berekenen" class="slide level2">
 <h2>z berekenen</h2>
@@ -661,7 +661,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <section id="de-effectgrootte-berekenen-1" class="slide level2">
 <h2>De effectgrootte berekenen</h2>
 <p>Cohen’s d heeft hier dezelfde logica:</p>
-<p><span class="math inline">\(d={M - \mu}{s}\)</span> (let op: volgens de t-test logica, schatten we populatie parameters)</p>
+<p><span class="math inline">\(d=\frac{M - \mu}{s}\)</span> (let op: volgens de t-test logica, schatten we populatie parameters)</p>
 <p>Dus: <span class="math inline">\(geschatte\ d = \frac{5.46-5.00}{1.34} = 0.34\)</span></p>
 <p>d.w.z. dat we het slechts over een klein tot middelgroot effect hebben (in beide gevallen!)</p>
 </section>
@@ -692,7 +692,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <p>Als voor het geval van de één-steekproef: <span class="math inline">\(d=\frac{M - \mu}{s}\)</span>, kunnen we concluderen dat we delen door de standaardafwijking.</p>
 <p>In het geval van de onafhankelijke t-test: we moeten poolen!</p>
 <p>Dus nemen we de gepoolde standaardafwijking <span class="math inline">\(\sqrt{s_p^2}\)</span></p>
-<p>Dus: geschatte d =  = 1.45$</p>
+<p>Dus: <span class="math inline">\(geschatte\ d = \frac{4500-3500}{\sqrt{472400}} = 1.45\)</span></p>
 <p>Dit is een groot effect volgens Cohen (1988).</p>
 </section>
 <section id="effectgrootte-voor-de-t-toets-3" class="slide level2">
@@ -768,7 +768,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <p>Het geval van de one-sample t-test:</p>
 <p>Scenario: gerapporteerde geluksscores van <span class="math inline">\(M=5.46\)</span>, <span class="math inline">\(SD=1.34\)</span> voor <span class="math inline">\(n=100\)</span>.</p>
 <p>Van <span class="math inline">\(t\)</span> tot <span class="math inline">\(\mu\)</span>:</p>
-<p><span class="math inline">\(t={M-\mu}{s_M} \leftrightarrow \mu = M-t*s_M\)</span></p>
+<p><span class="math inline">\(t=\frac{M-\mu}{s_M} \leftrightarrow \mu = M-t*s_M\)</span></p>
 </section>
 <section id="mu-als-een-interval" class="slide level2">
 <h2><span class="math inline">\(\mu\)</span> als een interval</h2>
@@ -777,7 +777,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <li>ondergrens: <span class="math inline">\(\mu = M-t*s_M\)</span></li>
 <li>bovengrens: <span class="math inline">\(\mu = M+t*s_M\)</span></li>
 </ul>
-<p>Volledige formule: <span class="math inline">\(\mu = M t*s_M\)</span></p>
+<p>Volledige formule: <span class="math inline">\(\mu = M \pm t*s_M\)</span></p>
 </section>
 <section id="hoe-definiëren-we-t-hier" class="slide level2">
 <h2>Hoe definiëren we t hier?</h2>
