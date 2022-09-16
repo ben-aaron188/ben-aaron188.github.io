@@ -1,0 +1,159 @@
+---
+title: "Bennett Kleinberg"
+---
+
+### Bennett Kleinberg
+
+  I am an Assistant Professor at the [Department of Methodology and Statistics](https://www.tilburguniversity.edu/about/schools/socialsciences/organization/departments/methodology-statistics) at Tilburg University and an Honorary Associate Professor at the [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) at University College London.
+
+  Previously I've held positions with the [Dawes Centre for Future Crime](http://www.ucl.ac.uk/jill-dando-institute/dawes-future-crime) at University College London and the University of Amsterdam's [Department of Psychology](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/psychology/psychology.html).
+
+  ---
+
+  [Google Scholar](https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en) - [GitHub](https://github.com/ben-aaron188) - [TiU research portal](https://research.tilburguniversity.edu/en/persons/bennett-kleinberg/network/)
+
+  <!-- - [publications](./sub/publications.html) - [talks](./sub/talks.html) - [media coverage](./sub/media.html) -->
+
+
+  ---
+
+#### News
+
+  - _11/2021_ New paper on a within-subjects study of coping styles and text (and emotion) responses to the pandemic (Scientific Reports: [https://www.nature.com/articles/s41598-021-02414-9](https://www.nature.com/articles/s41598-021-02414-9))
+  - _10/2021_ NWO is funding our next text anonymization project [press release](https://www.tilburguniversity.edu/current/news/more-news/nwo-subsidizes-three-open-science-research-projects)
+  - _10/2021_ Preprint on experimental manipulations of potential confounds in fake review detection [https://arxiv.org/pdf/2110.15130.pdf](https://arxiv.org/pdf/2110.15130.pdf)
+  - _9/2021_ New paper (EMNLP 2021) on human adversarial machine learning on [arxiv](https://arxiv.org/pdf/2109.04385.pdf) and [ACL anthology](https://aclanthology.org/2021.emnlp-main.651/)
+  - _9/2021_ Talk at the [Deception Society's](https://deceptionresearchsociety.org/) monthly event on [YouTube](https://www.youtube.com/watch?v=TPk3At9qO0M)
+  - _7/2021_ New preprint on a follow-up study to our Real World Worry Dataset study on emotional responses to COVID-19 after one year in the pandemic [here](https://arxiv.org/abs/2107.03466v2)
+  - _7/2021_ We're hiring a PhD student for a project on medical NLP. Contact me if you have questions [https://www.academictransfer.com/en/302673/promov-automated-risk-stratification-for-infectious-complications-in-secondary-immunodeficiency/](https://www.academictransfer.com/en/302673/promov-automated-risk-stratification-for-infectious-complications-in-secondary-immunodeficiency/)
+  - _6/2021_ Our paper on the many analysts problem for text data: [Same data, different conclusions](https://www.sciencedirect.com/science/article/pii/S0749597821000200)
+  - _5/2021_ Our preprint on automated vs manual coding for verbal deception detection [https://psyarxiv.com/cth58/](https://psyarxiv.com/cth58/)
+  - _4/2021_ Special issue open for submissions on NLP and Computational Social Science in _Future Internet_ (fully open access) [https://www.mdpi.com/journal/futureinternet/special_issues/CSS_NLP](https://www.mdpi.com/journal/futureinternet/special_issues/CSS_NLP)
+  - _4/2021_ Our EACL paper on detecting textual adversarial examples is now published in the proceedings [https://www.aclweb.org/anthology/2021.eacl-main.13.pdf](https://www.aclweb.org/anthology/2021.eacl-main.13.pdf)
+  - _3/2021_ Paper in _Behavior Research Methods_ introducing the Grievance dictionary as a tool for computational linguistics [https://link.springer.com/article/10.3758%2Fs13428-021-01536-2](https://link.springer.com/article/10.3758%2Fs13428-021-01536-2)
+  - _3/2021_ New paper on guidelines for text anonymisation [https://arxiv.org/abs/2103.09263](https://arxiv.org/abs/2103.09263)
+  - _2/2021_ UCL policy brief on cryptocurrencies and implications for future crime as [pdf](https://www.ucl.ac.uk/jill-dando-institute/sites/jill-dando-institute/files/ucl_cryptocurrencies_and_future_crime_policy_briefing_feb2021_compressed_1.pdf)
+  - _1/2021_ Our paper on detecting adversarial examples in NLP (led by Max Mozes) will appear at EACL 2021 [pdf here](https://arxiv.org/pdf/2004.05887.pdf) - [ACL version](https://aclanthology.org/2021.eacl-main.13/).
+  - _1/2021_ New paper on hybrid human-machine decision making for deception detection in [Acta Psychologica](https://www.sciencedirect.com/science/article/pii/S0001691820305746)
+  <!--- - _11/2020_ Started new position at Tilburg University
+  - _11/2020_ Our paper on gender differences in emotional responses to COVID-19 now [in SocInfo](https://link.springer.com/chapter/10.1007/978-3-030-60975-7_29) and as [pdf here](https://discovery.ucl.ac.uk/id/eprint/10116954/1/gender_covid_socinfo_finalrevision.pdf)
+  - _9/2020_ - Paper (J of Comp Soc Science) on the change in linguistic change as a response to the Unite the Right event: [Online influence, offline violence](https://link.springer.com/article/10.1007/s42001-020-00080-x)
+  - _9/2020_ - Tool for dictionary-based analysis of threatening language use - the GRIEVANCE dictionary: [https://arxiv.org/pdf/2009.04798.pdf](https://arxiv.org/pdf/2009.04798.pdf)
+  - _9/2020_ - Paper on predicting author characteristics from abusive (vs neutral) language: [https://arxiv.org/pdf/2009.01126.pdf](https://arxiv.org/pdf/2009.01126.pdf)
+   - _7/2020_ - Our paper on gender differences in emotional responses will appear at SocInfo 2020
+  - _6/2020_ - Paper on experimental emotion manipulation for computational linguistics: [https://arxiv.org/abs/2006.08952](https://arxiv.org/abs/2006.08952)
+  - _5/2020_ - Media coverage (in French) of our drill music work on [Ulyces](https://www.ulyces.co/denis-hadzovic/drill-uk-des-roulements-de-caisses-claires-et-des-meurtres-au-couteau/)
+  - _5/2020_ - Media coverage of our COVID-19 study in [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-8316235/Men-worry-economy-COVID-19-women-concerned-loved-ones.html) and [UCL News](https://www.ucl.ac.uk/news/2020/may/how-men-and-womens-anxieties-differ-over-covid-19)
+  - _4/2020_ - Paper on gender differences in emotional responses to COVID-19: [http://arxiv.org/abs/2004.08202](http://arxiv.org/abs/2004.08202).
+  - _4/2020_ - Media coverage of our drill music work in [Discover Magazine](https://www.discovermagazine.com/the-sciences/the-curious-case-of-drill-rap-and-its-link-to-violent-crime)
+  - _4/2020_ - Paper on detecting adversarial examples in NLP (PhD work by M. Mozes): [http://arxiv.org/abs/2004.05887](http://arxiv.org/abs/2004.05887).
+  - _4/2020_ - Follow-up paper on the drill rap - violence issue: [http://arxiv.org/abs/2004.04598](http://arxiv.org/abs/2004.04598).
+  - _4/2020_ - New paper introducing a high-quality dataset on emotions around COVID-19: [http://arxiv.org/abs/2004.04225](http://arxiv.org/abs/2004.04225)
+  - _3/2020_ - Paper on human-machine integrated deception detection: [http://arxiv.org/abs/2003.13316](http://arxiv.org/abs/2003.13316).
+  - _2/2020_ - Paper on [the temporal evolution of a far-right forum](https://link.springer.com/article/10.1007/s42001-020-00064-x) in the Journal of Computational Social Science
+  - _1/2020_ - Paper on using a [smartphone app for RT-based deception detection](https://www.collabra.org/article/10.1525/collabra.255/) in Collabra.
+  - _1/2020_ - Paper on [human trafficking in online ads](https://link.springer.com/article/10.1007/s12117-019-09376-5) in Trends in Organized Crime. -->
+
+  ---
+
+#### Research
+
+
+
+My research interests are between the behavioural (and social) sciences and natural language processing. Some projects are right at the intersection, others lean more to either area.
+
+
+Questions I'm currently interested in and working on:
+
+- How can we use text data to study human behaviour and cognition?
+- How (if at all!) can we use observational online data to _measure_, _predict_ and _change_ behaviour? And how can we (as online users) prevent this?
+- Which assumptions do we (need to) make when working with text data and are these valid assumptions?
+- How does the flexibility that we (reseachers) have affect NLP research?
+- What are the methodological pitfalls of either discipline and how can we fix this?
+- How can tools/methods of either discipline help the other?
+- How can we use NLP to ask better questions for deception detection?
+
+Other research interests are about applying computational techniques to questions around crime, deception, threat assessment (see the research areas of my PhD students below).
+
+I'm also one of the inventors of [Textwash](https://textwash.co.uk/) - an automated, learning-based text anonymisation software and [SAGE Ocean concept grant winner](https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner). More on the project soon. In the meantime, some [(more info here)](https://ocean.sagepub.com/concept-grants) and [(interviews on YouTube)](https://www.youtube.com/watch?v=T9pRRn2DrMY).
+
+---
+
+#### Research group
+
+  We're running a research group that consists of core members (current and former PhD students) and thesis/internship/traineeship students. More info on this group via this [link](https://bkleinberg.net/whatever_research/)
+
+  I have the privilege of supervising these amazing young doctoral researchers for their PhD:
+
+  - Felix Soldner [(www)](http://fsoldner.net/) - Detecting and mitigating online consumer fraud (supervisors: Shane Johnson/Bennett Kleinberg)
+  - Maximilian Mozes [(www)](http://mmozes.net/) - Adversarial machine learning in natural language processing (supervisors: Lewis Griffin/Bennett Kleinberg)
+  - Daniel Hammocks [(www)](https://danielhammocks.uk/) - Detecting emerging crimes using data science techniques (supervisors: Kate Bowers/Bennett Kleinberg)
+  - Josh Kamps - Computational methods to detecting cryptocurrency crime (supervisors: Bennett Kleinberg/Sarah Meiklejohn)
+  - Arianna Trozze - The evidential chain in cryptocurrency crime (supervisors: Toby Davies/Bennett Kleinberg)
+
+**PhD alumni:**
+
+- Dr Isabelle van der Vegt [(www)](http://isabellevdv.net/) - Linguistic Threat Assessment: Understanding Targeted Violence through Computational Linguistics (supervisors: Paul Gill/Bennett Kleinberg) - completed in 3/2021 (now project manager at WODC, Dutch Ministry of Security and Justice)
+
+
+  <!-- A list of BSc + MSc + internship projects can be found [here](./sub/paststudentprojects.html). -->
+
+---
+
+#### Teaching
+
+  - 2021/2022
+      - Introduction to Statistics (BSc, English + Dutch) - Tilburg University
+      - Data Challenge 2 (BSc) - Tilburg University/Eindhoven University of Technology
+      - Crime Science (BSc elective) - University of Amsterdam
+  - 2020/2021
+      - Introduction to Statistics (BSc, English + Dutch) - Tilburg University
+      - Data Challenge (BSc) - Tilburg University/Eindhoven University of Technology
+  - 2019/2020
+      - SECU0050, Data Science for Crime Scientists (BSc), UCL, [Material on GitHub](https://github.com/ben-aaron188/UCL_SECU0050)
+      - SECU0057, Applied Data Science (MSc), UCL, [Material on GitHub](https://github.com/ben-aaron188/UCL_SECU0057)
+  - 2018/2019
+      - SECU0013, Probability, Statistics & Modelling 2 (BSc), UCL, [Material on GitHub](https://github.com/ben-aaron188/ucl_psm2_20182019)
+      - SECU0050, Data Science for Crime Scientists (BSc), UCL, [Material on GitHub](https://github.com/ben-aaron188/ucl_aca_20182019)
+      - Crime Science (BSc honours module), University of Amsterdam [(study guide)](https://www.uva.nl/en/programmes/honours-modules-iis/honoursmodule-crime-science/honoursmodule-crime-science.html?1549646204808)
+  - 2017/2018
+      - Crime Science [(open UvA module)](https://www.uva.nl/en/programmes/open-programmes-iis/crime-science/crime-science.html), University of Amsterdam
+      - Crime Science (BSc honours module), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/40888)
+      - Deception and Lie Detection (MSc), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/41168)
+  - 2016/2017
+      - Deception and Lie Detection (MSc), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2016-2017-en/search-course/course/28244)
+  - 2015/2016
+      - Deception and Lie Detection (MSc), University of Amsterdam
+
+---
+
+  <!--
+  ## Software
+  - NETANOS - Named entity-based text anonymization for open science
+      - Anonymises bunches of text files by removing identifiable information
+      - de-identifies numbers, persons, locations, places, pronouns, dates and times
+      - Developed with [Maximilian Mozes](http://www.mmozes.net/) and [Bruno Verschuere](http://www.uva.nl/profiel/v/e/b.j.verschuere/b.j.verschuere.html)
+      - Available on [npm](https://www.npmjs.com/package/netanos), source code [on GitHub](https://github.com/ben-aaron188/netanos)
+      - Published paper in [JOSS](http://joss.theoj.org/papers/cd40892f7ea198aded1bc90ba33c6655) and experimental validation on [OSF servers](https://osf.io/w9nhb/)
+      - Accessible interface version lives on [netanos.io](http://netanos.io/)
+  - Naive context sentiment analysis
+      -  Performs sentiment analysis that handles valence shifters (e.g., "really", "not", "hardly", "but") on non-punctuated or poorly punctuated data
+      -  Code lives [on GitHub](https://github.com/ben-aaron188/naive_context_sentiment)
+      -  Specific use cases:
+          - data that are not punctuated at all (e.g., auto-generated YouTube transcripts)
+          - data that are badly punctuated (e.g., data from blogs where punctuation is not necessarily a given)
+          - very brief text data: Twitter data, for example, even if properly annotated for sentence-boundary-disambiguation, would return one or two sentiment values with other sentiment extraction packages
+     - Contributors: [Maximilian Mozes](http://www.mmozes.net/) and Isabelle van der Vegt
+   -->
+
+#### Review service
+
+  EMNLP 2021; ACL 2021; Journal of Applied Research in Memory and Cognition; EMNLP 2020; Trends & Issues in Crime and Criminal Justice; Proceedings of the National Academy of Sciences (PNAS); 54th Hawaii International Conference on System Sciences (HICSS); Scientific Reports (Nature); Psychological Science; Computers in Human Behavior; Plos One; Perspectives on Psychological Science; Affective Computing & Intelligent Interaction conference proceedings; Information; ACL 2020; AACL-IJCNLP 2020; Memory & Cognition; Applied Cognitive Psychology;  Crime Science; Acta Psychologica; Personality and Individual Differences; Current Psychology; Cognitive Research: Principles and Implications; EuroCSS 2019; Computers & Security; Psychology, Crime & Law; Legal & Criminological Psychology.
+
+---
+
+_This website uses the markdown [retro theme](https://github.com/markdowncss/retro) and a modified markdown-to-html pipeline._
+
+---
+
+  If you are interested in working as a research internship (at site or remotely), a BSc/MSc project or discussing PhD options, feel free to [reach out](./sub/contact.html) to me.

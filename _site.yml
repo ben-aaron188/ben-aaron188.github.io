@@ -1,0 +1,22 @@
+name: "Bennett Kleinberg"  
+author: "B Kleinberg"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no
+    #css: style.css
+theme: flatly  
+navbar:
+  title: Bennett Kleinberg
+  left:
+  - text: About
+    href: index.html
+  - text: Team
+    href: team.html
+  - text: Teaching
+    href: teaching.html
+  - text: Projects
+    href: projects.html
+  - text: Resources
+    href: resources.html
+      
