@@ -1,0 +1,128 @@
+.reveal h1{
+  font-family: "Courier New";
+  /* font-weight: bold; */
+  font-size: 4.0vw;
+}
+
+.reveal .centerme p{
+    font-family: "Optima";
+    text-align: center;
+}
+
+.reveal .sectiontitle p{
+    font-family: "Optima";
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+    padding-top: 25%;
+}
+
+
+.reveal{
+  background-image: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("./logo_tiu_2.png");
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-position: 3% 97%;
+}
+
+.reveal .controls .navigate-up{
+  display: none;
+}
+
+.reveal .controls .navigate-down{
+  display: none;
+}
+
+.reveal .progress{
+  height: 0.5%;
+  /* background-color: rgb(89, 86, 101); */
+  background-color: white;
+}
+
+.reveal .progress span{
+  background-color: orange;
+}
+
+.reveal .slide-number{
+  position: absolute;
+  right: 3%;
+  bottom: 3%;
+  font-family: "Courier New";
+  font-size: 1.5vw;
+  color: blue;
+  background-color: inherit;
+}
+
+.reveal .subtitle{
+  font-family: "Optima";
+  font-size: 3.0vw;
+  color: rgb(89, 86, 101);
+  padding-top: 15%;
+}
+
+.reveal .date{
+  font-family: "Optima";
+  font-size: 2.5vw;
+  color: blue;
+}
+
+.reveal h2{
+  font-family: "Courier New";
+  /* color: rgb(89, 86, 101); */
+  color: white;
+  font-size: 3vw;
+  background-color: black;
+  display: table;
+  margin: 0 auto 0 auto;
+}
+
+.reveal p{
+  font-family: "Optima";
+  text-align: left;
+}
+
+.reveal ol{
+  display: inline;
+}
+
+.reveal ul{
+  display: inline;
+}
+
+
+.reveal li{
+  font-family: "Optima";
+  text-align: left;
+}
+
+.reveal #refs{
+  font-family: "Optima";
+  text-align: left;
+  font-size: 0.7vw;
+  padding-top: 5%;
+  padding-left: 1.5em;
+  text-indent:-1.5em;
+}
+
+.reveal .citation{
+  color: blue;
+}
+
+.reveal img{
+  max-height: 70%;
+  max-width: 80%;
+  height: auto;
+  width: auto;
+  top:50%;
+  left:50%;
+  border: none;
+}
+
+.reveal section img{
+  border: none;
+}
+
+.reveal blockquote{
+    font-size: 0.8em;
+    width: 80%;
+}
