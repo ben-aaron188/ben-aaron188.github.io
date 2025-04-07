@@ -2,7 +2,7 @@
 title: "Bennett Kleinberg"
 output:
   html_document:
-    css: "./css/retro.css"
+    #css: "./css/retro.css"
 ---
 
 
