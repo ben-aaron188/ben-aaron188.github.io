@@ -1,0 +1,41 @@
+---
+title: ""
+output:
+  html_document:
+    css: "./css/retro.css"
+---
+
+
+
+Our lab focuses on computational methods to study the human mind and behaviour. 
+
+Academic backgrounds of lab members include from Psychology, Computer Science, Artificial Intelligence, Linguistics, Mathematics, Law, Cognitive Science.
+
+We meet once a week for a lab meeting.
+
+
+#### PhD students
+
+- Riccardo Loconte,  _Computational advances in verbal deception detection_, 2022-2025, joint PhD with IMT School of Advanced Studies, Lucca, Italy (role: primary supervisor; co-supervisor: Prof. Pietro Pietrini)
+- Sanne Peereboom, _Assessing the artificial mind through the marriage of natural language processing and psychometrics_, 2023-2027 (role: primary supervisor; co-supervisor: Dr Inga Schwabe)
+- John Caffier,  _Computational methods to measure and manipulate trust with hyperpersonalised messaging_, 2024-2028 (role: primary supervisor; co-supervisor: Prof Olga Stavrova, University of Lübeck)
+- Weng Lam Ao, _Analyze and design effective policies to encourage people to cycle Understanding decision-making in transport behaviour through social media data_, 2023-2027, joint PhD with University of Modena and Reggio Emilia, Italy (role: primary supervisor; co-supervisor: Dr Francisco Bahamonde Birke)
+- Rasoul Norouzi Nikjeh, _Text-mining methods for theory development in psychological and social science research_, 2023-2027 (role: joint primary supervisor Dr Caspar van Lissa and Prof Jeroen Vermunt)
+- Jennifer Chen, _Adolescent-Specific Assessment and Psychotherapy (ASAP): Innovating Idiographic Methods for Youth-Tailored Care_, 2024-2028 (role: primary supervisor; co-supervisor: Dr Melissa de Smet)
+- Tijn van Hoesel, _Investigating the impact of spin and other reporting practices in scientific research_, 2024-2028 (role: primary supervisor; co-supervisor: Dr Marjan Bakker)
+
+
+#### Visiting PhD students
+
+- Qian Chen, _Measuring interpretation bias and cognitive inflexibility through textual data_, visiting period: 1/2024-8/2025, home institution: Central China Normal University, China.
+- Fabio Russo, _Human perceptions of explainable artificial intelligence_, visiting period: 1/2025-12/2025, home institution: IMT Lucca, Italy.
+
+
+#### Completed PhDs
+
+- Dr Isabelle van der Vegt, _Understanding and predicting threats of violence using computational linguistics_ (supervision with Prof Paul Gill) - completed in 1/2021 (current position: Assistant Professor in Computational Social Science at Utrecht University, NL)
+- Dr Felix Soldner, _Detecting and mitigating online customer fraud_ (supervision with Prof Shane Johnson) - completed in 6/2023 (now: postdoc at Leibniz Institute GESIS, Cologne, Germany)
+- Dr Maximilian Mozes, _Adversarial perturbations in natural language processing_ (supervision with Prof Lewis Griffin) - completed in 12/2023 (current position: Senior Research Scientist at Cohere AI, London)
+- Dr Arianna Trozze, _New forms of financial crime_ (supervision with Dr Toby Davies) - completed: 12/2023 (current position: Cryptocurrency Intelligence Scientist at Elliptic, London).
+- Daniel Hammocks, _Information prioritisation for horizon scanning using data science techniques_ (with Prof Kate Bowers) - thesis submitted, viva date in May 2025 (current position: Senior Data Scientist at the Mayor's Office for Policing and Crime (MOPAC), London).
+

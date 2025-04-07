@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>media.knit</title>
+
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="css/retro.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="lab.html">Lab</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="media.html">Media</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=Ms2d7OsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a>
+</li>
+<li>
+  <a href="https://github.com/ben-aaron188">GitHub</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<p>Every now and then our research is covered by media outlets. A
+selection of that coverage is listed below.</p>
+<div id="printonline-media" class="section level4">
+<h4>Print/online media</h4>
+<ul>
+<li>Nemo Kennislink (Dutch) (2024), Zien is niet geloven. Verkeerd
+gedacht: AI-beeld, <a
+href="https://www.nemokennislink.nl/publicaties/zien-is-niet-geloven/">https://www.nemokennislink.nl/publicaties/zien-is-niet-geloven/</a></li>
+<li>Daily Mail (2023), The new way to spot LIAR according to
+researchers, <a
+href="https://www.dailymail.co.uk/sciencetech/article-11885973/The-new-way-spot-LIAR-according-researchers.html">https://www.dailymail.co.uk/sciencetech/article-11885973/The-new-way-spot-LIAR-according-researchers.html</a></li>
+<li>European Scientist (2023), A new way to catch liars, <a
+href="https://www.europeanscientist.com/en/research/a-new-way-to-catch-liars/">https://www.europeanscientist.com/en/research/a-new-way-to-catch-liars/</a></li>
+<li>New Scientist (2023), Is someone lying to you? A lack of detail may
+give them away, <a
+href="https://www.newscientist.com/article/2365049-is-someone-lying-to-you-a-lack-of-detail-may-give-them-away/">https://www.newscientist.com/article/2365049-is-someone-lying-to-you-a-lack-of-detail-may-give-them-away/</a></li>
+<li>New York Post (2023), Here’s how to tell if someone is lying to you,
+<a
+href="https://nypost.com/2023/04/03/heres-how-to-tell-if-someone-is-lying-to-you/">https://nypost.com/2023/04/03/heres-how-to-tell-if-someone-is-lying-to-you/</a></li>
+<li>TiU press release (2021), Detect mental problems with text data, <a
+href="https://www.tilburguniversity.edu/magazine/detect-mental-problems-text-data">https://www.tilburguniversity.edu/magazine/detect-mental-problems-text-data</a></li>
+<li>Discover Magazine (2020), The Curious Case of Drill Rap and Its Link
+to Violent Crime, <a
+href="https://www.discovermagazine.com/the-sciences/the-curious-case-of-drill-rap-and-its-link-to-violent-crime">https://www.discovermagazine.com/the-sciences/the-curious-case-of-drill-rap-and-its-link-to-violent-crime</a></li>
+<li>Daily Mail (2020), Men worry about the economy and COVID-19 while
+women are more concerned about loved ones, <a
+href="https://www.dailymail.co.uk/sciencetech/article-8316235/Men-worry-economy-COVID-19-women-concerned-loved-ones.html">https://www.dailymail.co.uk/sciencetech/article-8316235/Men-worry-economy-COVID-19-women-concerned-loved-ones.html</a></li>
+<li>UCL News (2020), How men and women’s anxieties differ over COVID-19,
+<a
+href="https://www.ucl.ac.uk/news/2020/may/how-men-and-womens-anxieties-differ-over-covid-19">https://www.ucl.ac.uk/news/2020/may/how-men-and-womens-anxieties-differ-over-covid-19</a></li>
+<li>UCL News (2019), Positive drill music receives more audience
+engagement, <a
+href="https://www.ucl.ac.uk/news/headlines/2019/nov/positive-drill-music-receives-more-audience-engagement">https://www.ucl.ac.uk/news/headlines/2019/nov/positive-drill-music-receives-more-audience-engagement</a></li>
+<li>New Scientist (2019), Drill music with positive lyrics is more
+popular than negative songs, <a
+href="https://www.newscientist.com/article/2223723-drill-music-with-positive-lyrics-is-more-popular-than-negative-songs/">https://www.newscientist.com/article/2223723-drill-music-with-positive-lyrics-is-more-popular-than-negative-songs</a></li>
+<li>The Times (2019), Met police and scientists developing way to
+decipher violent threats in drill videos, <a
+href="https://www.thetimes.co.uk/article/met-police-and-scientists-developing-way-to-decipher-voilent-threats-in-drill-videos-fzc6t9rlq">https://www.thetimes.co.uk/article/met-police-and-scientists-developing-way-to-decipher-voilent-threats-in-drill-videos-fzc6t9rlq</a></li>
+<li>Ulyces (French) (2019), Drill UK: des roulements de caisses claires
+et des meurtres au couteau, <a
+href="https://www.ulyces.co/denis-hadzovic/drill-uk-des-roulements-de-caisses-claires-et-des-meurtres-au-couteau/">https://www.ulyces.co/denis-hadzovic/drill-uk-des-roulements-de-caisses-claires-et-des-meurtres-au-couteau</a></li>
+<li>Folia Magazine (Dutch) (2019), Dialogen met chatbots kunnen helpen
+in strijd tegen terrorisme, <a
+href="https://www.folia.nl/wetenschap/126359/dialogen-met-chatbots-kunnen-helpen-in-strijd-tegen-terrorisme">https://www.folia.nl/wetenschap/126359/dialogen-met-chatbots-kunnen-helpen-in-strijd-tegen-terrorisme</a></li>
+<li>SAGE Ocean press release (2019), SAGE Ocean announces Text Wash as
+2019 Concept Grant winner, <a
+href="https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner">https://uk.sagepub.com/en-gb/eur/press/sage-ocean-announces-text-wash-as-2019-concept-grant-winner</a></li>
+<li>Deutsche Welle (German) (2018), EU testet Lügendetektor an
+Außengrenzen, <a
+href="https://www.dw.com/de/eu-testet-l%C3%BCgendetektor-an-au%C3%9Fengrenzen/a-46195158">https://www.dw.com/de/eu-testet-l%C3%BCgendetektor-an-au%C3%9Fengrenzen/a-46195158</a></li>
+<li>New Scientist (2018), An AI lie detector will interrogate travellers
+at some EU borders, <a
+href="https://www.newscientist.com/article/mg24032023-400-an-ai-lie-detector-will-interrogate-travellers-at-some-eu-borders/">https://www.newscientist.com/article/mg24032023-400-an-ai-lie-detector-will-interrogate-travellers-at-some-eu-borders/</a></li>
+<li>Süddeutsche Zeitung (German) (2018), Grenze: Künstliche Intelligenz
+Software IBorderCtrl, <a
+href="https://www.sueddeutsche.de/digital/grenze-kuenstliche-intelligenz-software-iborderctrl-1.4196243">https://www.sueddeutsche.de/digital/grenze-kuenstliche-intelligenz-software-iborderctrl-1.4196243</a></li>
+<li>The Guardian (2018), EU border lie detection system criticised as
+pseudoscience, <a
+href="https://www.theguardian.com/world/2018/nov/02/eu-border-lie-detection-system-criticised-as-pseudoscience">https://www.theguardian.com/world/2018/nov/02/eu-border-lie-detection-system-criticised-as-pseudoscience</a></li>
+<li>Volkskrant (Dutch) (2018), EU zet omstreden AI-leugendetector in bij
+grenscontrole, <a
+href="volkskrant.nl">https://www.volkskrant.nl/nieuws-achtergrond/eu-setomstreden-ai-leugendetector-in-bij-grenscontrole~b169bb03</a></li>
+<li>APA News (2016), Judge Truthfulness, <a
+href="http://www.apa.org/news/press/releases/2016/06/judge-truthfulness.aspx">http://www.apa.org/news/press/releases/2016/06/judge-truthfulness.aspx</a></li>
+<li>Psychology Today (2016), What Is the Face of Truth?, <a
+href="https://www.psychologytoday.com/blog/brainstorm/201608/what-is-the-face-truth">https://www.psychologytoday.com/blog/brainstorm/201608/what-is-the-face-truth</a></li>
+</ul>
+</div>
+<div id="video-radio-podcasts" class="section level4">
+<h4>Video, radio, podcasts</h4>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=C-sqX8DLs-0">NTR Wetenschap
+interview</a></li>
+<li><a href="https://www.youtube.com/watch?v=T9pRRn2DrMY">YouTube
+production from SAGE</a></li>
+<li>BBC Newsroom, BNR Newsradio</li>
+<li><a
+href="http://www.radioswammerdam.nl/op-het-slechte-pad-i-leugentje-om-je-eigen-bestwil/">Amsterdam
+FM (Dutch)</a></li>
+</ul>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

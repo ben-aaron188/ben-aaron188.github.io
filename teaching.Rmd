@@ -1,0 +1,45 @@
+---
+title: ""
+output:
+  html_document:
+    css: "./css/retro.css"
+---
+
+
+You will find the materials for most of my courses online (see the links below).
+
+
+
+
+- 2024/2025
+    - Statistical Natural Language Processing in R for Psychologists, 2-day workshop for PhD and research master students, Tilburg University [(Materials on GitHub)](https://github.com/ben-aaron188/snlp)
+    - Multidisciplinary Data Challenge (university-wide elective + BSc in Data Science - 240 students), Tilburg University + Eindhoven University of Technology
+    - Machine Behaviour (interdisciplinary BSc elective - 35 students), Tilburg University [(module handbook)](https://www.dropbox.com/scl/fi/opyz32vzzte7i3zv214zr/handbook_machine_behaviour_2024.pdf?rlkey=d2b0gbaim9mhdl0r5r87b2sp7&dl=0)
+- 2023/2024
+    - Data Acquisition Methods (BSc in Data Science - 200 students), Tilburg University + Eindhoven University of Technology
+    - Data Science Challenge 2 (BSc in Data Science - 140 students), Tilburg University + Eindhoven University of Technology
+- 2022/2023
+    - Introduction to Statistics (for the BSc programmes in Psychology, Sociology and Human Resource Studies, English + Dutch version - 1400 students), Tilburg University [(module handbook + full course materials)](/Users/bennettkleinberg/Library/CloudStorage/Dropbox/teaching/tiu/2022-2023/intro_to_stats/handbook/handbook_intro_to_statistics_2021_2022.pdf)
+    - Data Science Challenge 2 (BSc in Data Science - 150 students), Tilburg University + Eindhoven University of Technology
+- 2021/2022
+    - Introduction to Statistics (for the BSc programmes in Psychology, Sociology and Human Resource Studies, English + Dutch version - 1300 students), Tilburg University [(module handbook + full course materials)](https://www.dropbox.com/scl/fi/dsshhdxpc4ozpkat9a1gg/handbook_intro_to_statistics_2021_2022.pdf?rlkey=v5c00dyd9e2wv51o1jb1rad8m&dl=0)
+    - Data Science challenge 2 (BSc in Data Science - 140 students), Tilburg University + Eindhoven University of Technology
+    - Crime Science (interdisciplinary BSc elective - 100 students), University of Amsterdam [(study guide)](https://www.uva.nl/en/programmes/open-programmes-iis/crime-science/crime-science.html?cb)
+- 2020/2021
+    - Introduction to Statistics (for the BSc programmes in Psychology, Sociology and Human Resource Studies, English + Dutch version - 1300 students), Tilburg University [(module handbook)](https://www.dropbox.com/scl/fi/oxuwkdmebc9ms72tw2v2k/handbook_intro_to_statistics_2020_2021.pdf?rlkey=2aiazsvajvpys0muac3f6jpyr&dl=0)
+    - Data Science Challenge 1 (BSc in Data Science - 100 students), Tilburg University + Eindhoven University of Technology (received award for "Excellent Teaching Evaluation")
+- 2019/2020
+    - SECU0050, Data Science for Crime Scientists (BSc - 25 students), UCL, [Materials on GitHub](https://github.com/ben-aaron188/UCL_SECU0050)
+    - SECU0057, Applied Data Science (MSc - 20 students), UCL, [Materials on GitHub](https://github.com/ben-aaron188/UCL_SECU0057)
+- 2018/2019
+    - SECU0013, Probability, Statistics & Modelling 2 (BSc - 25 students), UCL, [Materials on GitHub](https://github.com/ben-aaron188/ucl_psm2_20182019)
+    - SECU0050, Data Science for Crime Scientists (BSc - 20 students), UCL, [Materials on GitHub](https://github.com/ben-aaron188/ucl_aca_20182019)
+    - Crime Science (BSc honours module - 25 students), University of Amsterdam [(study guide)](https://www.uva.nl/en/programmes/honours-modules-iis/honoursmodule-crime-science/honoursmodule-crime-science.html?1549646204808), [(interview)](https://iis.uva.nl/en/content/news/2019/02/keuzevakcrimescience.html)
+- 2017/2018
+    - Crime Science (Open UvA module - 75 students), University of Amsterdam, [Module info](https://www.uva.nl/en/programmes/open-programmes-iis/crime-science/crime-science.html)
+    - Crime Science (BSc honours module- 25 students), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/40888)
+    - Deception and Lie Detection (MSc - 8 students), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/41168)
+- 2016/2017
+    - Deception and Lie Detection (MSc - 12 students), University of Amsterdam [(study guide)](http://www.studiegids.uva.nl/xmlpages/page/2016-2017-en/search-course/course/28244)
+- 2015/2016
+    - Deception and Lie Detection (MSc - 15 students), University of Amsterdam

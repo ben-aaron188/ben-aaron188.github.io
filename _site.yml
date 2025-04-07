@@ -1,0 +1,17 @@
+name: "Bennett Kleinberg"
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      href: index.html
+    - text: 'Lab'
+      href: lab.html
+    - text: 'Teaching'
+      href: teaching.html
+    - text: 'Media'
+      href: media.html
+  right:
+    - text: "Google Scholar"
+      href: https://scholar.google.com/citations?hl=en&user=Ms2d7OsAAAAJ&view_op=list_works&sortby=pubdate
+    - text: "GitHub"
+      href: https://github.com/ben-aaron188

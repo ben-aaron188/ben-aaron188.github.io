@@ -1,0 +1,39 @@
+---
+title: ""
+output:
+  html_document:
+    css: "./css/retro.css"
+---
+
+
+For all academic publications (peer-reviewed papers and preprints), see: 
+
+- [Google Scholar](https://scholar.google.com/citations?user=Ms2d7OsAAAAJ&hl=en&oi=ao)
+- [Semantic Scholar](https://www.semanticscholar.org/author/Bennett-Kleinberg/6032930)
+
+
+For popular science writing, reports and software, have a look at the below:
+
+#### Popular science
+
+- [1] I. van der Vegt, **B. Kleinberg**, and P. Gill, ‘Linguistic Threat Assessment: Challenges and Opportunities’, Crest Security Review, vol. 13, no. Winter 2022, pp. 12–13, 2022.
+- [2] P. McFarlane and **B. Kleinberg**, ‘Political Drillin? What machine learning tells us about the reality of drill music’, Policing Insight, Mar. 09, 2020. https://policinginsight.com/features/analysis/political-drillin-what-machine-learning-tells-us-about-the-reality-of-drill-music/ (accessed Mar. 12, 2020).
+- [3] I. van der Vegt, **B. Kleinberg**, and P. Gill, ‘The Temporal Evolution of a Far-Right Forum’, GNET, 2020. https://gnet-research.org/2020/03/05/the-temporal-evolution-of-a-far-right-forum/ (accessed Mar. 12, 2020).
+- [4] **B. Kleinberg**, M. Mozes, and T. Davies, ‘What does it mean to anonymize text? — SAGE Ocean | Big Data, New Tech, Social Science’, SAGE Ocean, Nov. 28, 2019. https://ocean.sagepub.com/blog/what-does-it-mean-to-anonymize-text (accessed Nov. 29, 2019).
+- [5] **B. Kleinberg**, M. Mozes, and T. Davies, ‘Making sensitive text data accessible for computational social science — SAGE Ocean | Big Data, New Tech, Social Science’, SAGE Ocean, Jul. 18, 2019. https://ocean.sagepub.com/blog/making-sensitive-text-data-accessible-for-computational-social-science (accessed Aug. 31, 2019).
+- [6] **B. Kleinberg** and B. Verschuere, ‘Being Honest About Deception Detection: between popular idea and scientific evidence’, Aviation Security International Magazine, Apr. 16, 2019.
+- [7] J. Kamps and **B. Kleinberg**, ‘Cryptocurrency pump-and-dumps’, BioMedCentral - On Society, Jan. 22, 2019.
+
+
+#### Other reports/briefings
+
+- [1] Royal United Services Institute and (RUSI) for Defence and Security Studies, ‘A Complex Matter: Examining Reporting on Terrorism in the UK’, 2021. [Online]. Available: [https://static.rusi.org/256_op_media_and_terrorism_web_0.pdf](https://static.rusi.org/256_op_media_and_terrorism_web_0.pdf)
+- [2] E. A. Akartuna, F. J. Hetzel, and **B. Kleinberg**, ‘Policy brief: Cryptocurrencies and future crime’, Policy Brief, 2021. Available: [https://www.ucl.ac.uk/future-crime/policy-briefs/policy-brief-cryptocurrencies-and-future-crime](https://www.ucl.ac.uk/future-crime/policy-briefs/policy-brief-cryptocurrencies-and-future-crime)
+
+#### Software
+
+- [1] netanos - Named Entity-based Text ANonymization for Open Science, _M. Mozes_ and **B. Kleinberg**. python + node.js, https://www.npmjs.com/package/netanos, MIT license
+- [2] neatStats: Neat and Painless Statistical Reporting, G. Lukács, J. van Doorn, and **B. Kleinberg**. R, https://cran.r-project.org/web/packages/neatStats/index.html, BSD-2 license
+- [3] Textwash - automated, learning-based text anonymisation, _M. Mozes_ and **B. Kleinberg**. python + R, https://github.com/maximilianmozes/textwash, GPL-3 license
+- [4] rgpt3 - Making requests from R to the GPT-3 API, **B. Kleinberg**. R, https://github.com/ben-aaron188/rgpt3, GPL-3 license
+
