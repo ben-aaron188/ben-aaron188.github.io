@@ -1,4 +1,5 @@
 name: "Bennett Kleinberg"
+output_dir: "."
 navbar:
   title: ""
   left:
