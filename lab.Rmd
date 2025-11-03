@@ -6,36 +6,108 @@ output:
 ---
 
 
+# CPCM Lab
+### *Understanding Human Behaviour through Experiments, Data, and Computational Methods*
 
-Our lab focuses on computational methods to study the human mind and behaviour. 
+---
 
-Academic backgrounds of lab members include from Psychology, Computer Science, Artificial Intelligence, Linguistics, Mathematics, Law, Cognitive Science.
+## About the Lab
 
-We meet once a week for a lab meeting.
+The **Computational Psychology and Computational Methods Lab (CPCM Lab)** focuses on the use of computational approaches to study the human mind and behaviour.  
 
+Our work is cross-disciplinary and seeks to answer two questions: 
 
-#### PhD students
+1. **How can computational methods enhance our understanding of the human mind and behaviour?**
+2. **How can psychological research methods inform our understanding of computational model behaviour?**
 
-- Riccardo Loconte,  _Computational advances in verbal deception detection_, 2022-2025, joint PhD with IMT School of Advanced Studies, Lucca, Italy (role: primary supervisor; co-supervisor: Prof. Pietro Pietrini)
-- Sanne Peereboom, _Assessing the artificial mind through the marriage of natural language processing and psychometrics_, 2023-2027 (role: primary supervisor; co-supervisor: Dr Inga Schwabe)
-- John Caffier,  _Computational methods to measure and manipulate trust with hyperpersonalised messaging_, 2024-2028 (role: primary supervisor; co-supervisor: Prof Olga Stavrova, University of Lübeck)
-- Weng Lam Ao, _Analyze and design effective policies to encourage people to cycle Understanding decision-making in transport behaviour through social media data_, 2023-2027, joint PhD with University of Modena and Reggio Emilia, Italy (role: primary supervisor; co-supervisor: Dr Francisco Bahamonde Birke)
-- Rasoul Norouzi Nikjeh, _Text-mining methods for theory development in psychological and social science research_, 2023-2027 (role: joint primary supervisor Dr Caspar van Lissa and Prof Jeroen Vermunt)
-- Jennifer Chen, _Adolescent-Specific Assessment and Psychotherapy (ASAP): Innovating Idiographic Methods for Youth-Tailored Care_, 2024-2028 (role: primary supervisor; co-supervisor: Dr Melissa de Smet)
-- Tijn van Hoesel, _Investigating the impact of spin and other reporting practices in scientific research_, 2024-2028 (role: primary supervisor; co-supervisor: Dr Marjan Bakker)
+We collect data in psychological experiments and develop and apply techniques from **natural language processing**, **machine learning**, and **statistical modelling** to better understand human behaviour and psychological processes.
 
+Our team brings together researchers with backgrounds in **Psychology, Computer Science, Artificial Intelligence, Linguistics, Mathematics, Law,** and **Cognitive Science**.  
 
-#### Visiting PhD students
-
-- Qian Chen, _Measuring interpretation bias and cognitive inflexibility through textual data_, visiting period: 1/2024-8/2025, home institution: Central China Normal University, China.
-- Fabio Russo, _Human perceptions of explainable artificial intelligence_, visiting period: 1/2025-12/2025, home institution: IMT Lucca, Italy.
+---
 
 
-#### Completed PhDs
+## People
 
-- Dr Isabelle van der Vegt, _Understanding and predicting threats of violence using computational linguistics_ (supervision with Prof Paul Gill) - completed in 1/2021 (current position: Assistant Professor in Computational Social Science at Utrecht University, NL)
-- Dr Felix Soldner, _Detecting and mitigating online customer fraud_ (supervision with Prof Shane Johnson) - completed in 6/2023 (now: postdoc at Leibniz Institute GESIS, Cologne, Germany)
-- Dr Maximilian Mozes, _Adversarial perturbations in natural language processing_ (supervision with Prof Lewis Griffin) - completed in 12/2023 (current position: Senior Research Scientist at Cohere AI, London)
-- Dr Arianna Trozze, _New forms of financial crime_ (supervision with Dr Toby Davies) - completed: 12/2023 (current position: Cryptocurrency Intelligence Scientist at Elliptic, London).
-- Daniel Hammocks, _Information prioritisation for horizon scanning using data science techniques_ (with Prof Kate Bowers) - thesis submitted, viva date in May 2025 (current position: Senior Data Scientist at the Mayor's Office for Policing and Crime (MOPAC), London).
+- **Bennett Kleinberg** — Associate Professor
 
+- **Riccardo Loconte** - Doctoral researcher: *Computational advances in verbal deception detection*
+
+- **Sanne Peereboom**  - Doctoral researcher: *Assessing the artificial mind through the marriage of natural language processing and psychometrics*
+
+- **John Caffier** - Doctoral researcher: *Computational methods to measure and manipulate trust with hyperpersonalised messaging*
+
+- **Weng Lam Ao** - Doctoral researcher: *Understanding decision-making in transport behaviour through social media data*
+
+- **Rasoul Norouzi Nikjeh** - Doctoral researcher: *Text-mining methods for theory development in psychological and social science research*
+
+- **Jennifer Chen** - Doctoral researcher: *Adolescent-Specific Assessment and Psychotherapy (ASAP): Innovating Idiographic Methods for Youth-Tailored Care*
+
+- **Tijn van Hoesel** - Doctoral researcher: *Investigating the impact of spin and other reporting practices in scientific research*
+
+- **Jari Zegers** - Research assistant
+
+- **Stefana Vida** - Research assistant
+
+- **Jonas Festor** - Research assistant
+
+- **Ivo Snels** - Research assistant
+
+- **Lucca Pfründer** - Research assistant
+
+
+---
+
+## Research
+
+The CPCM Lab investigates how **computational methods can enhance our understanding of the human mind and behaviour**, and how **psychological research can inform our understanding of computational models**.
+
+### Research Themes
+
+#### Deception Detection
+- Integrating experimental data and computational methods to address the "hard problems" of deception research
+- Examining how human adversarial machine learning can inform cognitive deception theory
+
+
+#### Methodological advancements
+Developing the methods needed to advance computational psychology research
+
+- Secure and scalable methods for text anonymisation (e.g., [Textwash](https://github.com/ben-aaron188/textwash))
+- Sample size estimation algorithms for supervised machine learning
+
+
+#### Machine Beahviour
+- Understanding stochastic humanness of large language models through experimental research
+- Using formal psychometric modelling to study the behaviour of artificial intelligence models and how it reflects or diverges from human behaviour and cognition.
+
+
+#### Computational Psychology with Natural Language Processing
+
+Using computational text analysis to study and predict psychological constructs in humans (e.g., cynicism, emotion, deception)
+
+
+
+---
+
+## PhD alumni of the lab
+
+- Dr. Isabelle van der Vegt, _Understanding and predicting threats of violence using computational linguistics_ (supervision with Prof Paul Gill) - completed in 1/2021, positions: Scientific project manager at [WODC](https://english.wodc.nl/) $\rightarrow$ Assistant Professor in Computational Social Science at Utrecht University, NL.
+- Dr. Felix Soldner, _Detecting and mitigating online customer fraud_ (supervision with Prof Shane Johnson) - completed in 6/2023, positions: postdoc at Leibniz Institute GESIS, Cologne, Germany $\rightarrow$ Forensic Service consultant at PWC.
+- Dr. Maximilian Mozes, _Adversarial perturbations in natural language processing_ (supervision with Prof Lewis Griffin) - completed in 12/2023, position: Senior Research Scientist and team lead at Cohere AI, London.
+- Dr. Arianna Trozze, _New forms of financial crime_ (supervision with Dr. Toby Davies) - completed: 12/2023, position: Senior Cryptocurrency Intelligence Scientist at Elliptic, London.
+- Dr. Daniel Hammocks, _Information prioritisation for horizon scanning using data science techniques_ (with Prof Kate Bowers) - completed in 5/2025, positions: Senior Data Scientist at the Mayor's Office for Policing and Crime (MOPAC), London $\rightarrow$ Principal Data Scientist at MOPAC.
+
+
+
+---
+
+## Contact
+
+**Computational Psychology and Computational Methods Lab (CPCM Lab)**  
+Dr. Bennett Kleinberg, Department of Methodology and Statistics, Tilburg University, The Netherlands
+
+📧 [bennett.kleinberg@tilburguniversity.edu]
+
+---
+
+© 2025 **CPCM Lab** — *Understanding Human Behaviour through Experiments, Data, and Computational Methods*

@@ -8,19 +8,30 @@ output:
 
 
 
-I am an Associate Professor in Behavioural Data Science at the Department of Methodology and Statistics at Tilburg University (The Netherlands) and the Department of Security and Crime Science at University College London (UK). 
 
-Previously I held a position at the UCL Dawes Centre for Future Crime and obtained my PhD from the Department of Psychology at the University of Amsterdam. 
+I am an Associate Professor in Behavioural Data Science at the [Department of Methodology and Statistics](https://www.tilburguniversity.edu/about/schools/socialsciences/organization/departments/methodology-statistics) at Tilburg University (The Netherlands) and the [Department of Security and Crime Science](https://www.ucl.ac.uk/engineering/security-crime-science) at University College London (UK).
+
+Previously I held a position at the [UCL Dawes Centre for Future Crime](https://www.ucl.ac.uk/engineering/future-crime) and obtained my PhD from the [Department of Psychology](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/organisation/disciplines/psychology.html) at the University of Amsterdam.
 
 ---
 
-My research revolves around the interplay and advancement of psychological research and computational methods to study human behaviour. With my [lab](./lab.html), I seek to answer two questions: 
+My research revolves around the interplay and advancement of psychological research and computational methods to study human behaviour. 
 
-(1) How can computational methods enhance our understanding of the human mind and behaviour? 
+I seek to answer two questions:  
 
-(2) How can psychological research methods inform our understanding of computational model behaviour? 
+1. How can computational methods enhance our understanding of the human mind and behaviour?
+2. How can psychological research methods inform our understanding of computational model behaviour?
 
-Substantive research interests include deception detection, human resilience, and machine behaviour. Methodological interests examine the nexus between textual data and psychological processes. My research employs methods from experimental psychological research, Natural Language Processing, (adversarial) machine learning and statistical modelling. I am an active contributor to the open science community.
+
+Substantive research interests include: 
+
+- Deception detection and legal psychology
+- Human resilience
+- Machine behaviour 
+
+
+In our [Computational Psychology and Computational Methods (CPCM) Lab](./lab.html), we collect data in psychological experiments and develop and apply techniques from natural language processing, (adversarial) machine learning, and statistical modelling to better understand human behaviour and psychological processes.
+
 
 You can find an overview of papers on [Google Scholar](https://scholar.google.com/citations?user=Ms2d7OsAAAAJ&hl=en) and some [additional outputs here](./output.html). Sometimes [media](./media.html) outlets cover our work.
 

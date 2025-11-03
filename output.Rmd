@@ -12,28 +12,132 @@ For all academic publications (peer-reviewed papers and preprints), see:
 - [Semantic Scholar](https://www.semanticscholar.org/author/Bennett-Kleinberg/6032930)
 
 
-For popular science writing, reports and software, have a look at the below:
+### Peer-reviewed journal articles
 
-#### Popular science
+1. **Kleinberg**, B., Loconte, R., & Verschuere, B. (2025). *Effective faking of verbal deception detection with target‐aligned adversarial attacks.* Legal and Criminological Psychology, lcrp.70001. https://doi.org/10.1111/lcrp.70001  
+2. Loconte, R., & **Kleinberg**, B. (2025). *Examining embedded lies through computational text analysis.* Scientific Reports, 15(1), 26482. https://doi.org/10.1038/s41598-025-11327-w  
+3. Lukács, G., **Kleinberg**, B., Fekete, A., & Matsuda, I. (2025). *A Filtering Response Time Concealed Information Test for Searching for Relevant Concealed Items.* Applied Cognitive Psychology, 39(5), e70114. https://doi.org/10.1002/acp.70114  
+4. Norouzi, R., **Kleinberg**, B., Vermunt, J. K., & Van Lissa, C. J. (2025). *Capturing causal claims: A fine-tuned text mining model for extracting causal sentences from social science papers.* Research Synthesis Methods, 1–18. https://doi.org/10.1017/rsm.2024.13  
+5. Peereboom, S., Schwabe, I., & **Kleinberg**, B. (2025). *Cognitive phantoms in large language models through the lens of latent variables.* Computers in Human Behavior: Artificial Humans, 4, 100161. https://doi.org/10.1016/j.chbah.2025.100161  
+6. Stavrova, O., **Kleinberg**, B., Evans, A. M., & Ivanović, M. (2025). *Scientific publications that use promotional language in the abstract receive more citations and public attention.* Communications Psychology, 3(1), 118. https://doi.org/10.1038/s44271-025-00293-8  
+7. Loconte, R., **Kleinberg**, B., & Monaro, M. (2024). *Quali metodi per la valutazione dei Large Language Models (LLM)? Riflessioni sull’uso di un approccio neuropsicologico e sullo sviluppo di una psicometria dei LLM.* Giornale italiano di psicologia, 3, 579–584. https://doi.org/10.1421/114432  
+8. Stavrova, O., **Kleinberg**, B., Evans, A. M., & Ivanović, M. (2024). *Expressions of uncertainty in online science communication hinder information diffusion.* PNAS Nexus, 3(10), pgae439. https://doi.org/10.1093/pnasnexus/pgae439  
+9. Trozze, A., Davies, T., & **Kleinberg**, B. (2024). *Large language models in cryptocurrency securities cases: Can a GPT model meaningfully assist lawyers?* Artificial Intelligence and Law. https://doi.org/10.1007/s10506-024-09399-6  
+10. Trozze, A., **Kleinberg**, B., & Davies, T. (2024). *Detecting DeFi securities violations from token smart contract code.* Financial Innovation, 10(1), 78. https://doi.org/10.1186/s40854-023-00572-5  
+11. Bergmans, B. J. M., Gebeyehu, B. Y., Van Puijenbroek, E. P., Van Deun, K., **Kleinberg**, B., Murk, J.-L., & De Vries, E. (2023). *Infections in Biological and Targeted Synthetic Drug Use in Rheumatoid Arthritis: Where do We Stand? A Scoping Review and Meta-analysis.* Rheumatology and Therapy. https://doi.org/10.1007/s40744-023-00571-z  
+12. Bray, S. D., Johnson, S. D., & **Kleinberg**, B. (2023). *Testing human ability to detect ‘deepfake’ images of human faces.* Journal of Cybersecurity, 9(1), tyad011. https://doi.org/10.1093/cybsec/tyad011  
+13. Soldner, F., **Kleinberg**, B., & Johnson, S. D. (2023). *Counterfeits on dark markets: A measurement between Jan-2014 and Sep-2015.* Crime Science, 12(1), 18. https://doi.org/10.1186/s40163-023-00195-2  
+14. Trozze, A., Davies, T., & **Kleinberg**, B. (2023). *Of degens and defrauders: Using open-source investigative tools to investigate decentralized finance frauds and money laundering.* Forensic Science International: Digital Investigation, 46, 301575. https://doi.org/10.1016/j.fsidi.2023.301575  
+15. Van Der Vegt, I., & **Kleinberg**, B. (2023). *A multi-modal panel dataset to understand the psychological impact of the pandemic.* Scientific Data, 10(1), 537. https://doi.org/10.1038/s41597-023-02438-y  
+16. van der Vegt, I., **Kleinberg**, B., & Gill, P. (2023). *Proceed with caution: On the use of computational linguistics in threat assessment.* Journal of Policing, Intelligence and Counter Terrorism, 1–9. https://doi.org/10.1080/18335330.2023.2165137  
+17. Verschuere, B., Lin, C.-C., Huismann, S., **Kleinberg**, B., Willemse, M., Mei, E. C. J., Van Goor, T., Löwy, L. H. S., Appiah, O. K., & Meijer, E. (2023). *The use-the-best heuristic facilitates deception detection.* Nature Human Behaviour, 7(5), 718–728. https://doi.org/10.1038/s41562-023-01556-2  
+18. Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A. J., Allen, P. J., Altay, S., Alzahawi, S., Amir, Y., Anthony, F.-V., Kwame Appiah, O., Atkinson, Q. D., Baimel, A., Balkaya-Ince, M., Balsamo, M., Banker, S., Bartoš, F., Becerra, M., Beffara, B., … Wagenmakers, E.-J. (2022). *A many-analysts approach to the relation between religiosity and well-being.* Religion, Brain & Behavior, 1–47. https://doi.org/10.1080/2153599X.2022.2070255  
+19. Soldner, F., **Kleinberg**, B., & Johnson, S. D. (2022). *Confounds and overestimations in fake review detection: Experimentally controlling for product-ownership and data-origin.* PLOS ONE, 17(12), e0277869. https://doi.org/10.1371/journal.pone.0277869  
+20. Trozze, A., Davies, T., & **Kleinberg**, B. (2022). *Explaining prosecution outcomes for cryptocurrency-based financial crimes.* Journal of Money Laundering Control. https://doi.org/10.1108/JMLC-10-2021-0119  
+21. Trozze, A., Kamps, J., Akartuna, E. A., Hetzel, F. J., **Kleinberg**, B., Davies, T., & Johnson, S. D. (2022). *Cryptocurrencies and future financial crime.* Crime Science, 11(1), 1. https://doi.org/10.1186/s40163-021-00163-8  
+22. van der Vegt, I., Gregory, P., van der Meer, B. B., Yang, J., **Kleinberg**, B., & Gill, P. (2022). *Assessment procedures in anonymously written threats of harm and violence.* Journal of Threat Assessment and Management. https://doi.org/10.1037/tam0000168  
+23. van der Vegt, I., **Kleinberg**, B., & Gill, P. (2022). *Predicting author profiles from online abuse directed at public figures.* Journal of Threat Assessment and Management. https://doi.org/10.1037/tam0000172  
+24. **Kleinberg**, B., & Verschuere, B. (2021). *How humans impair automated deception detection performance.* Acta Psychologica, 213, 103250. https://doi.org/10.1016/j.actpsy.2020.103250  
+25. Mozes, M., van der Vegt, I., & **Kleinberg**, B. (2021). *A repeated-measures study on emotional responses after a year in the pandemic.* Scientific Reports, 11(1), 23114. https://doi.org/10.1038/s41598-021-02414-9  
+26. Schweinsberg, M., Feldman, M., Staub, N., [...] **Kleinberg**, B. [...] Luis Uhlmann, E. (2021). *Same data, different conclusions: Radical dispersion in empirical results when independent analysts operationalize and test the same hypothesis.* Organizational Behavior and Human Decision Processes. https://doi.org/10.1016/j.obhdp.2021.02.003  
+27. van der Vegt, I., Mozes, M., Gill, P., & **Kleinberg**, B. (2021). *Online influence, offline violence: Language use on YouTube surrounding the ‘Unite the Right’ rally.* Journal of Computational Social Science, 4(1), 333–354. https://doi.org/10.1007/s42001-020-00080-x  
+28. van der Vegt, I., Mozes, M., **Kleinberg**, B., & Gill, P. (2021). *The Grievance Dictionary: Understanding threatening language use.* Behavior Research Methods. https://doi.org/10.3758/s13428-021-01536-2  
+29. **Kleinberg**, B., van der Vegt, I., & Gill, P. (2020). *The temporal evolution of a far-right forum.* Journal of Computational Social Science. https://doi.org/10.1007/s42001-020-00064-x  
+30. Lukács, G., **Kleinberg**, B., Kunzi, M., & Ansorge, U. (2020). *Response Time Concealed Information Test on Smartphones.* Collabra: Psychology, 6(1), 4. https://doi.org/10.1525/collabra.255  
+31. Volodko, A., Cockbain, E., & **Kleinberg**, B. (2020). *“Spotting the signs” of trafficking recruitment online: Exploring the characteristics of advertisements targeted at migrant job-seekers.* Trends in Organized Crime. https://doi.org/10.1007/s12117-019-09376-5  
+32. **Kleinberg**, B., Arntz, A., & Verschuere, B. (2019). *Being accurate about accuracy in verbal deception detection.* PLOS ONE, 14(8), e0220228. https://doi.org/10.1371/journal.pone.0220228  
+33. van der Vegt, I., Gill, P., Macdonald, S., & **Kleinberg**, B. (2019). *Shedding Light on Terrorist and Extremist Content Removal.* Global Research Network on Terrorism and Technology. https://rusi.org/sites/default/files/20190703_grntt_paper_3.pdf  
+34. Kamps, J., & **Kleinberg**, B. (2018). *To the moon: Defining and detecting cryptocurrency pump-and-dumps.* Crime Science, 7(1), 18.  
+35. **Kleinberg**, B., Mozes, M., Arntz, A., & Verschuere, B. (2018). *Using named entities for computer-automated verbal deception detection.* Journal of Forensic Sciences, 63(3), 714–723.  
+36. **Kleinberg**, B., Van Der Toolen, Y., Vrij, A., Arntz, A., & Verschuere, B. (2018). *Automated verbal credibility assessment of intentions: The model statement technique and predictive modeling.* Applied Cognitive Psychology, 32(3), 354–366.  
+37. **Kleinberg**, B., Warmelink, L., Arntz, A., & Verschuere, B. (2018). *The first direct replication on using verbal credibility assessment for the detection of deceptive intentions.* Applied Cognitive Psychology, 32(5), 592–599.  
+38. Suchotzki, K., De Houwer, J., **Kleinberg**, B., & Verschuere, B. (2018). *Using more different and more familiar targets improves the detection of concealed information.* Acta Psychologica, 185, 65–71.  
+39. **Kleinberg**, B., & Mozes, M. (2017). *Web-based text anonymization with Node.js: Introducing NETANOS (Named entity-based Text Anonymization for Open Science).* The Journal of Open Source Software, 2(14).  
+40. **Kleinberg**, B., Nahari, G., Arntz, A., & Verschuere, B. (2017). *An investigation on the detectability of deceptive intent about flying through verbal deception detection.* Collabra: Psychology, 3(1).  
+41. Lukács, G., **Kleinberg**, B., & Verschuere, B. (2017). *Familiarity-related fillers improve the validity of reaction time-based memory detection.* Journal of Applied Research in Memory and Cognition, 6(3), 295–305.  
+42. Verschuere, B., & **Kleinberg**, B. (2017). *Assessing autobiographical memory: The web-based autobiographical Implicit Association Test.* Memory, 25(4), 520–530.  
+43. **Kleinberg**, B., & Verschuere, B. (2016). *The role of motivation to avoid detection in reaction time-based concealed information detection.* Journal of Applied Research in Memory and Cognition, 5(1), 43–51.  
+44. Leach, A.-M., Ammar, N., England, D. N., Remigio, L. M., **Kleinberg**, B., & Verschuere, B. J. (2016). *Less is more? Detecting lies in veiled witnesses.* Law and Human Behavior, 40(4), 401.  
+45. Verschuere, B., & **Kleinberg**, B. (2016). *ID-Check: Online Concealed Information Test Reveals True Identity.* Journal of Forensic Sciences, 61, S237–S240.  
+46. **Kleinberg**, B., & Verschuere, B. (2015). *Memory Detection 2.0: The First Web-Based Memory Detection Test.* PLOS ONE, 10(4), e0118715. https://doi.org/10.1371/journal.pone.0118715  
+47. Open Science Collaboration. (2015). *Estimating the reproducibility of psychological science.* Science, 349(6251), aac4716.  
+48. Verschuere, B., **Kleinberg**, B., & Theocharidou, K. (2015). *RT-based memory detection: Item saliency effects in the single-probe and the multiple-probe protocol.* Journal of Applied Research in Memory and Cognition, 4(1), 59–65.  
 
-- [1] I. van der Vegt, **B. Kleinberg**, and P. Gill, ‘Linguistic Threat Assessment: Challenges and Opportunities’, Crest Security Review, vol. 13, no. Winter 2022, pp. 12–13, 2022.
-- [2] P. McFarlane and **B. Kleinberg**, ‘Political Drillin? What machine learning tells us about the reality of drill music’, Policing Insight, Mar. 09, 2020. https://policinginsight.com/features/analysis/political-drillin-what-machine-learning-tells-us-about-the-reality-of-drill-music/ (accessed Mar. 12, 2020).
-- [3] I. van der Vegt, **B. Kleinberg**, and P. Gill, ‘The Temporal Evolution of a Far-Right Forum’, GNET, 2020. https://gnet-research.org/2020/03/05/the-temporal-evolution-of-a-far-right-forum/ (accessed Mar. 12, 2020).
-- [4] **B. Kleinberg**, M. Mozes, and T. Davies, ‘What does it mean to anonymize text? — SAGE Ocean | Big Data, New Tech, Social Science’, SAGE Ocean, Nov. 28, 2019. https://ocean.sagepub.com/blog/what-does-it-mean-to-anonymize-text (accessed Nov. 29, 2019).
-- [5] **B. Kleinberg**, M. Mozes, and T. Davies, ‘Making sensitive text data accessible for computational social science — SAGE Ocean | Big Data, New Tech, Social Science’, SAGE Ocean, Jul. 18, 2019. https://ocean.sagepub.com/blog/making-sensitive-text-data-accessible-for-computational-social-science (accessed Aug. 31, 2019).
-- [6] **B. Kleinberg** and B. Verschuere, ‘Being Honest About Deception Detection: between popular idea and scientific evidence’, Aviation Security International Magazine, Apr. 16, 2019.
-- [7] J. Kamps and **B. Kleinberg**, ‘Cryptocurrency pump-and-dumps’, BioMedCentral - On Society, Jan. 22, 2019.
 
 
-#### Other reports/briefings
+### Peer-reviewed conference papers
 
-- [1] Royal United Services Institute and (RUSI) for Defence and Security Studies, ‘A Complex Matter: Examining Reporting on Terrorism in the UK’, 2021. [Online]. Available: [https://static.rusi.org/256_op_media_and_terrorism_web_0.pdf](https://static.rusi.org/256_op_media_and_terrorism_web_0.pdf)
-- [2] E. A. Akartuna, F. J. Hetzel, and **B. Kleinberg**, ‘Policy brief: Cryptocurrencies and future crime’, Policy Brief, 2021. Available: [https://www.ucl.ac.uk/future-crime/policy-briefs/policy-brief-cryptocurrencies-and-future-crime](https://www.ucl.ac.uk/future-crime/policy-briefs/policy-brief-cryptocurrencies-and-future-crime)
+_Note: conference proceedings papers are the premier outlet for research in Natural Language Processing and computational sciences and have a competitive peer-reviewing process._
 
-#### Software
+1. Emmery, C., Miotto, M., Kramp, S., & **Kleinberg**, B. (2024). *SOBR: A Corpus for Stylometry, Obfuscation, and Bias on Reddit.* In N. Calzolari, M.-Y. Kan, V. Hoste, A. Lenci, S. Sakti, & N. Xue (Eds.), *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)* (pp. 14967–14983). ELRA and ICCL. https://aclanthology.org/2024.lrec-main.1302  
+2. Griffin, L., **Kleinberg**, B., Mozes, M., Mai, K., Vau, M. D. M., Caldwell, M., & Mavor-Parker, A. (2023). *Large Language Models respond to Influence like Humans.* *Proceedings of the First Workshop on Social Influence in Conversations (SICon 2023)*, 15–24. https://doi.org/10.18653/v1/2023.sicon-1.3  
+3. Miotto, M., Rossberg, N., & **Kleinberg**, B. (2022). *Who is GPT-3? An exploration of personality, values and demographics.* *Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS)*, 218–227. https://aclanthology.org/2022.nlpcss-1.24  
+4. Mozes, M., **Kleinberg**, B., & Griffin, L. (2022). *Identifying Human Strategies for Generating Word-Level Adversarial Examples.* *Findings of the Association for Computational Linguistics: EMNLP 2022*, 6118–6126. https://aclanthology.org/2022.findings-emnlp.454  
+5. Mozes, M., Bartolo, M., Stenetorp, P., **Kleinberg**, B., & Griffin, L. (2021). *Contrasting Human- and Machine-Generated Word-Level Adversarial Examples for Text Classification.* *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing*, 8258–8270. https://aclanthology.org/2021.emnlp-main.651  
+6. Mozes, M., Stenetorp, P., **Kleinberg**, B., & Griffin, L. (2021). *Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples.* *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume*, 171–186. https://www.aclweb.org/anthology/2021.eacl-main.13  
+7. van der Vegt, I., & **Kleinberg**, B. (2020). *Women Worry About Family, Men About the Economy: Gender Differences in Emotional Responses to COVID-19.* *Social Informatics, 12467*, 397–409. https://doi.org/10.1007/978-3-030-60975-7_29  
+8. **Kleinberg**, B., van der Vegt, I., & Mozes, M. (2020, July). *Measuring Emotions in the COVID-19 Real World Worry Dataset.* *Proceedings of the 1st Workshop on NLP for COVID-19 at ACL 2020. ACL-NLP-COVID19 2020, Online.* https://www.aclweb.org/anthology/2020.nlpcovid19-acl.11  
+9. Soldner, F., Ho, J. C., Makhortykh, M., van der Vegt, I., Mozes, M., & **Kleinberg**, B. (2019). *Uphill from here: Sentiment patterns in videos from left- and right-wing YouTube news channels.* *Workshop on Natural Language Processing and Computational Social Science.* NAACL.  
+10. **Kleinberg**, B., Mozes, M., & van der Vegt, I. (2018). *Identifying the sentiment styles of YouTube’s vloggers.* 3581–3590. https://www.aclweb.org/anthology/D18-1394  
+11. Pérez-Rosas, V., **Kleinberg**, B., Lefevre, A., & Mihalcea, R. (2018). *Automatic Detection of Fake News.* *Proceedings of the 27th International Conference on Computational Linguistics*, 3391–3401. http://aclweb.org/anthology/C18-1287  
+12. **Kleinberg**, B., Nahari, G., & Verschuere, B. (2016). *Using the verifiability of details as a test of deception: A conceptual framework for the automation of the verifiability approach.* *Proceedings of the Second Workshop on Computational Approaches to Deception Detection*, 18–25.  
 
-- [1] netanos - Named Entity-based Text ANonymization for Open Science, _M. Mozes_ and **B. Kleinberg**. python + node.js, https://www.npmjs.com/package/netanos, MIT license
-- [2] neatStats: Neat and Painless Statistical Reporting, G. Lukács, J. van Doorn, and **B. Kleinberg**. R, https://cran.r-project.org/web/packages/neatStats/index.html, BSD-2 license
-- [3] Textwash - automated, learning-based text anonymisation, _M. Mozes_ and **B. Kleinberg**. python + R, https://github.com/maximilianmozes/textwash, GPL-3 license
-- [4] rgpt3 - Making requests from R to the GPT-3 API, **B. Kleinberg**. R, https://github.com/ben-aaron188/rgpt3, GPL-3 license
 
+### Pre-prints
+
+1. Bosten, M., & **Kleinberg**, B. (2025). *Conflicts of Interest in Published NLP Research 2000–2024* (No. arXiv:2502.16218). arXiv. https://doi.org/10.48550/arXiv.2502.16218  
+2. Rossberg, N., **Kleinberg**, B., O’Sullivan, B., Longo, L., & Visentin, A. (2025). *The Feature Understandability Scale for Human-Centred Explainable AI: Assessing Tabular Feature Importance* (No. arXiv:2510.07050). arXiv. https://doi.org/10.48550/arXiv.2510.07050  
+3. van der Vegt, I., **Kleinberg**, B., Miotto, M., & Festor, J. (2025). *Translating the Grievance Dictionary: A psychometric evaluation of Dutch, German, and Italian versions* (No. arXiv:2505.07495). arXiv. https://doi.org/10.48550/arXiv.2505.07495  
+4. Verschuere, B., **Kleinberg**, B., Van Kolfschooten, M., Bolhoven, L., & Rassin, E. (2025). *How Dutch legal professionals assess statement credibility: Evidence from a survey and an analysis of 518 court rulings on sexual abuse.* Open Science Framework. https://doi.org/10.31219/osf.io/grj5c_v1  
+5. **Kleinberg**, B., Zegers, J., Festor, J., Vida, S., Präsent, J., Loconte, R., & Peereboom, S. (2024). *Trying to be human: Linguistic traces of stochastic empathy in language models* (No. arXiv:2410.01675). arXiv. https://doi.org/10.48550/arXiv.2410.01675  
+6. Soldner, F., Plum, F., **Kleinberg**, B., & Johnson, S. D. (2024). *From cryptomarkets to the surface web: Scouting eBay for counterfeits* (Version 1). arXiv. https://doi.org/10.48550/ARXIV.2406.05021  
+7. Zegers, J., & **Kleinberg**, B. (2024). *Beyond the sample: Individual differences in psychological responses to the COVID-19 pandemic.* https://doi.org/10.31234/osf.io/2px7h  
+8. Mozes, M., He, X., **Kleinberg**, B., & Griffin, L. D. (2023). *Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities* (No. arXiv:2308.12833). arXiv. http://arxiv.org/abs/2308.12833  
+9. Ilias, L., Soldner, F., & **Kleinberg**, B. (2022). *Explainable Verbal Deception Detection using Transformers.* https://doi.org/10.48550/ARXIV.2210.03080  
+10. **Kleinberg**, B., Davies, T., & Mozes, M. (2022). *Textwash—Automated open-source text anonymisation.* arXiv:2208.13081. https://doi.org/10.48550/arXiv.2208.13081  
+11. Mozes, M., & **Kleinberg**, B. (2021). *No Intruder, no Validity: Evaluation Criteria for Privacy-Preserving Text Anonymization.* arXiv:2103.09263 [Cs]. http://arxiv.org/abs/2103.09263  
+12. **Kleinberg**, B. (2020). *Manipulating emotions for ground truth emotion analysis.* arXiv:2006.08952 [Cs]. http://arxiv.org/abs/2006.08952  
+13. **Kleinberg**, B., & McFarlane, P. (2020). *Violent music vs violence and music: Drill rap and violent crime in London.* arXiv:2004.04598 [Cs]. http://arxiv.org/abs/2004.04598  
+14. **Kleinberg**, B., & McFarlane, P. (2019). *Examining UK drill music through sentiment trajectory analysis.* arXiv:1911.01324 [Cs]. http://arxiv.org/abs/1911.01324 15. **Kleinberg**, B., van der Vegt, I., Arntz, A., & Verschuere, B. (2019). *Detecting deceptive communication through linguistic concreteness.* PsyArXiv. https://doi.org/10.31234/osf.io/p3qjh  
+16. **Kleinberg**, B., Mozes, M., van der Toolen, Y., & Verschuere, B. (2017). *NETANOS—Named entity-based text anonymization for open science.* OSF Preprints, 10.  
+
+
+### Book chapters
+
+1. Kamps, J., Trozze, A., & **Kleinberg**, B. (2022). *Cryptocurrencies: Boons and curses for fraud prevention.* In Y. Hanoch & S. Wood (Eds.), *A fresh look at fraud: Theoretical and applied perspectives.* Routledge.  
+2. Soldner, F., **Kleinberg**, B., & Johnson, S. (2022). *Trends in online consumer fraud: A data science perspective.* In Y. Hanoch & S. Wood (Eds.), *A fresh look at fraud: Theoretical and applied perspectives.* Routledge.  
+3. Van der Vegt, I., **Kleinberg**, B., & Gill, P. (2022). *Understanding Lone-Actor Violence through Linguistic Analysis.* In J. C. Holzer, A. J. Dew, P. R. Recupero, & P. Gill (Eds.), *Lone-actor terrorism: An integrated framework.* Oxford University Press.  
+4. **Kleinberg**, B., Arntz, A., & Verschuere, B. (2019). *Detecting Deceptive Intentions: Possibilities for Large-Scale Applications.* In T. Docan-Morgan (Ed.), *The Palgrave Handbook of Deceptive Communication* (pp. 403–427). Springer International Publishing. https://doi.org/10.1007/978-3-319-96334-1_21  
+5. **Kleinberg**, B., van der Toolen, Y., Arntz, A., & Verschuere, B. (2018). *Detecting Concealed Information on a Large Scale: Possibilities and Problems.* In J. P. Rosenfeld (Ed.), *Detecting Concealed Information and Deception: Recent Developments* (p. 377).  
+
+
+### Popular science
+
+1. Van der Vegt, I., **Kleinberg**, B., & Gill, P. (2022). *Linguistic Threat Assessment: Challenges and Opportunities.* Crest Security Review, 13(Winter 2022), 12–13.  
+2. van der Vegt, I., **Kleinberg**, B., & Gill, P. (2020). *The Temporal Evolution of a Far-Right Forum.* GNET. https://gnet-research.org/2020/03/05/the-temporal-evolution-of-a-far-right-forum/  
+3. McFarlane, P., & **Kleinberg**, B. (2020, March 9). *Political Drillin? What machine learning tells us about the reality of drill music.* Policing Insight. https://policinginsight.com/features/analysis/political-drillin-what-machine-learning-tells-us-about-the-reality-of-drill-music/  
+4. Kamps, J., & **Kleinberg**, B. (2019, January 22). *Cryptocurrency pump-and-dumps.* BioMedCentral - On Society.  
+5. **Kleinberg**, B., & Verschuere, B. (2019, April 16). *Being Honest About Deception Detection: Between popular idea and scientific evidence.* Aviation Security International Magazine.  
+6. **Kleinberg**, B., Mozes, M., & Davies, T. (2019, July 18). *Making sensitive text data accessible for computational social science—SAGE Ocean | Big Data, New Tech, Social Science.* SAGE Ocean. https://ocean.sagepub.com/blog/making-sensitive-text-data-accessible-for-computational-social-science  
+7. **Kleinberg**, B., Mozes, M., & Davies, T. (2019, November 28). *What does it mean to anonymize text? — SAGE Ocean | Big Data, New Tech, Social Science.* SAGE Ocean. https://ocean.sagepub.com/blog/what-does-it-mean-to-anonymize-text  
+
+
+### Other reports/briefings
+
+
+1. Akartuna, E. A., Hetzel, F. J., & **Kleinberg**, B. (2021). *Policy brief: Cryptocurrencies and future crime (Dawes Centre for Future Crime)* [Policy Brief].  
+2. Royal United Services Institute & (RUSI) for Defence and Security Studies. (2021). *A Complex Matter: Examining Reporting on Terrorism in the UK.* https://static.rusi.org/256_op_media_and_terrorism_web_0.pdf  
+3. **Kleinberg**, B., Griffin, L. D., Rottweiler, B., Miotto, M., Rossberg, N., Praesent, J., & Gal, J. (n.d.). *Targeted shifting of attitudes towards women with LLM-generated arguments.* In Preparation.  
+4. **Kleinberg**, B., Präsent, J., Gal, J., & Griffin, L. D. (n.d.). *Learning to convince from another AI: reinforcement-based argument generation.* In Preparation.  
+
+
+### Software
+
+1. **Kleinberg**, B. (2024). *rgpt3: Making requests from R to the GPT API* (Version 1.0) [Computer software]. https://doi.org/10.5281/zenodo.7327667  
+2. Mozes, M., & **Kleinberg**, B. (2023). *Textwash: Automated, Learning-Based Text Anonymisation* [Computer software]. https://github.com/maximilianmozes/textwash  
+3. Mozes, M., & **Kleinberg**, B. (2022). *netanos: Named Entity-based Text ANonymization for Open Science* [Computer software]. https://www.npmjs.com/package/netanos  
+4. Lukács, G., van Doorn, J., & **Kleinberg**, B. (2021). *neatStats: Neat and Painless Statistical Reporting* [Computer software]. https://cran.r-project.org/web/packages/neatStats/index.html  
+
+
+
+_List last updated: `r format(Sys.Date(), '%B %Y')`_

@@ -10,7 +10,9 @@ You will find the materials for most of my courses online (see the links below).
 
 
 
-
+- 2025/2026
+    - Multidisciplinary Data Challenge (university-wide elective + BSc in Data Science), Tilburg University + Eindhoven University of Technology
+    - Machine Behaviour (interdisciplinary BSc elective - 17 students), Tilburg University
 - 2024/2025
     - Statistical Natural Language Processing in R for Psychologists, 2-day workshop for PhD and research master students, Tilburg University [(Materials on GitHub)](https://github.com/ben-aaron188/snlp)
     - Multidisciplinary Data Challenge (university-wide elective + BSc in Data Science - 240 students), Tilburg University + Eindhoven University of Technology
