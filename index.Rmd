@@ -30,7 +30,7 @@ Substantive research interests include:
 - Machine behaviour 
 
 
-In our [Computational Psychology and Computational Methods (CPCM) Lab](./lab.html), we collect data in psychological experiments and develop and apply techniques from natural language processing, (adversarial) machine learning, and statistical modelling to better understand human behaviour and psychological processes.
+In our [Computational Psychology and Computational Methods (CPCM) Lab](https://cpcm-lab.net/), we collect data in psychological experiments and develop and apply techniques from natural language processing, (adversarial) machine learning, and statistical modelling to better understand human behaviour and psychological processes.
 
 
 You can find an overview of papers on [Google Scholar](https://scholar.google.com/citations?user=Ms2d7OsAAAAJ&hl=en) and some [additional outputs here](./output.html). Sometimes [media](./media.html) outlets cover our work.
