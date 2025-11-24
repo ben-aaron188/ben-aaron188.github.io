@@ -19,8 +19,8 @@ My research revolves around the interplay and advancement of psychological resea
 
 I seek to answer two questions:  
 
-1. How can computational methods enhance our understanding of the human mind and behaviour?
-2. How can psychological research methods inform our understanding of computational model behaviour?
+1. **How can computational methods enhance our understanding of the human mind and behaviour?**
+2. **How can psychological research methods inform our understanding of computational model behaviour?**
 
 
 Substantive research interests include: 
@@ -29,13 +29,14 @@ Substantive research interests include:
 - Human resilience
 - Machine behaviour 
 
+With our ERC Synergy Grant for our project [JUSTICE](https://www.tilburguniversity.edu/current/news/more-news/tilburg-researcher-receives-prestigious-erc-synergy-grant-help-end-coercive-interrogations), part of my research will focus on computational legal psychology to combine human and artificial intelligence for evidence-based and human rights-compliant investigatve interviewing.
 
 In our [Computational Psychology and Computational Methods (CPCM) Lab](https://cpcm-lab.net/), we collect data in psychological experiments and develop and apply techniques from natural language processing, (adversarial) machine learning, and statistical modelling to better understand human behaviour and psychological processes.
-
 
 You can find an overview of papers on [Google Scholar](https://scholar.google.com/citations?user=Ms2d7OsAAAAJ&hl=en) and some [additional outputs here](./output.html). Sometimes [media](./media.html) outlets cover our work.
 
 I am [teaching](./teaching.html) in various programmes. Most of the course materials are available online.
+
 
 ---
 
