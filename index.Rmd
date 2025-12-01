@@ -40,6 +40,15 @@ I am [teaching](./teaching.html) in various programmes. Most of the course mater
 
 ---
 
+### Updates
+
+- We're running a special session at [XAI 2026](https://xaiworldconference.com/2026/) on [psychometrics applied to AI research](https://xaiworldconference.com/2026/psychometric-applications-for-xai/). CfP open soon. Contact me or the lead organisers [Sanne Peereboom](https://sannepeereboom.com/) and [Nicola Rossberg](https://www.crt-ai.ie/team/nicola-c-rossberg/).
+- Our special issue in Legal and Criminological Psychology on the [Impact of Artificial Intelligence and New Technologies on Legal and Criminological Psychology](https://bpspsychub.onlinelibrary.wiley.com/hub/journal/20448333/call-for-papers/si-2025-001204) is open for submissions. For any questions, reach out to me or Riccardo Loconte.
+- We've launched our 2-year master track [AI for Psychological Research](https://www.tilburguniversity.edu/education/masters-programs/artificial-intelligence-psychological-research). If you're interested in applying or have got other questions, please reach out.
+
+
+---
+
 #### Common questions
 
 - _Is it possible to do a PhD with you?_ Yes. There are various routes for PhD projects (e.g., a funded position via university employment, a joint PhD with another university, self-funding). All positions that are connected to employment (typically for 4 years) are publicly advertised. If you are keen to explore options, please have a look at our lab and my research areas. The PhD project should be aligned with the overall focus on computational methods to study human behaviour and psychology.
